@@ -1,0 +1,2497 @@
+{
+    "header": {
+        "notAdmin": {
+            ".menu1": {
+                "en": "OUR ADVENTURES",
+                "fr": "NOS AVENTURES",
+                "de": "UNSERE ABENTEUER"
+            },
+            ".menu2": {
+                "en": "PACKAGES",
+                "fr": "PACKAGES",
+                "de": "PAKETE"
+            },
+            ".menu3": {
+                "en": "CONTACT",
+                "fr": "CONTACT",
+                "de": "KONTAKT"
+            }
+        },
+        "Admin": {
+            ".menu0": {
+                "en": "BOOKINGS",
+                "fr": "R\u00c9SERVATIONS",
+                "de": "BUCHUNGEN"
+            },
+            ".menu1": {
+                "en": "OUR ADVENTURES",
+                "fr": "NOS AVENTURES",
+                "de": "UNSERE ABENTEUER"
+            },
+            ".menu2": {
+                "en": "PACKAGES",
+                "fr": "PACKAGES",
+                "de": "PAKETE"
+            },
+            ".menu3": {
+                "en": "INFO",
+                "fr": "INFO",
+                "de": "INFO"
+            }
+        }
+    },
+    "footer": {
+        ".footitre1": {
+            "en": "ABOUT US",
+            "fr": "\u00c0 PROPOS DE NOUS",
+            "de": "\u00dcBER UNS"
+        },
+        ".footitre2": {
+            "en": "COMPANY",
+            "fr": "ENTREPRISE",
+            "de": "UNTERNEHMEN"
+        },
+        ".footitre3": {
+            "en": "INFOS",
+            "fr": "INFO",
+            "de": "INFO"
+        },
+        ".ftexte1": {
+            "en": "With passion and attention to detail, we create your adventures with sustainable materials from the region.",
+            "fr": "Avec passion et souci du d\u00e9tail, nous cr\u00e9ons vos aventures avec des mat\u00e9riaux durables de la r\u00e9gion.",
+            "de": "Aus Leidenschaft und Liebe zum Detail kreieren wir Deine Abenteuer mit nachhaltigen Materialien aus der Region."
+        },
+        ".ftexte2": {
+            "en": "TEAM",
+            "fr": "L'\u00c9QUIPE",
+            "de": "TEAM"
+        },
+        ".ftexte3": {
+            "en": "CONTACT",
+            "fr": "CONTACT",
+            "de": "Kontakt"
+        },
+        ".ftexte4": {
+            "en": "Terms of use",
+            "fr": "Mentions l\u00e9gales",
+            "de": "Impressum"
+        },
+        ".ftexte5": {
+            "en": "PRIVACY POLICY",
+            "fr": "POLITIQUE DE CONFIDENTIALIT\u00c9",
+            "de": "Datenschutz"
+        },
+        ".ftexte6": {
+            "en": "TERMS & SERVICE",
+            "fr": "CONDITIONS G\u00c9N\u00c9RALES ET SERVICE",
+            "de": "AGB"
+        },
+        ".ftexte7": {
+            "en": "JOBS & CAREER",
+            "fr": "Emplois \/ Carri\u00e8res",
+            "de": "Jobs \/ Karriere"
+        },
+        ".ftexte8": {
+            "en": "FAQ \/ FREQUENTLY ASKED QUESTIONS",
+            "fr": "FAQ \/ Questions et r\u00e9ponses",
+            "de": "FAQ \/ Fragen & Antworten"
+        },
+        ".ftexte9": {
+            "en": "OUTDOOR ESCAPE ROOM",
+            "fr": "Escape Room en plein air",
+            "de": "Outdoor Escape Room"
+        },
+        ".ftexte10": {
+            "en": "VOUCHERS",
+            "fr": "Bons d'achat",
+            "de": "Gutscheine"
+        },
+        ".ftexte11": {
+            "en": "OUR PARTNERS",
+            "fr": "Nos partenaires",
+            "de": "Unsere Partner"
+        }
+    },
+    "PageHome": {
+        "#adv": {
+            "en": "<span class='bolder'>OUR</span> ADVENTURES",
+            "fr": "<span class='bolder'>NOS</span> AVENTURES",
+            "de": "<span class='bolder'>Unsere</span> ABENTEUER"
+        },
+        ".partners": {
+            "en": "These <span class='bold'>companies</span> celebrated their <span class='bold'>company escape adventure</span> with us. <br><span class='bold'>Thank you very much</span> for your support and the great contacts.",
+            "fr": "Ces <span class='bold'>entreprises</span> ont célébré leur <span class='bold'>aventure d'évasion</span> avec nous. <br><span class='bold'>Nous vous remercions</span> pour votre soutien et vos excellents contacts..",
+            "de": "Diese <span class='bold'>Unternehmen</span> feierten <span class='bold'>mit uns</span> ihr Firmenflucht-Abenteuer. <br><span class='bold'>Herzlichen Dank</span> für Ihre Unterstützung und die tollen Kontakte."
+        },
+        ".texte1": {
+            "en": "YOUR ADVENTURES WITH KAISERSTUHL",
+            "fr": "VOS AVENTURES AVEC KAISERSTUHL",
+            "de": "DEIN ABENTEUER AM KAISERSTUHL"
+        },
+        ".sous-titre": {
+            "en": "NATURE - MOVEMENT - THE PLEASURE OF THE ENIGMA",
+            "fr": "NATURE - MOUVEMENT - PLAISIR DE L'\u00c9NIGME",
+            "de": "NATUR \u2013 BEWEGUNG \u2013 R\u00c4TSELSPASS ERLEBEN"
+        },
+        ".texte3": {
+            "en": "<span class='bolder'>OUR<\/span> ADVENTURES",
+            "fr": "<span class='bolder'>NOS<\/span> AVENTURES",
+            "de": "<span class='bolder'>UNSERE<\/span> ABENTEUER"
+        },
+        ".book": {
+            "en": "Book a session",
+            "fr": "R\u00e9servez une session",
+            "de": "Eine Sitzung buchen"
+        },
+        ".see_more": {
+            "en": "See our Adventures",
+            "fr": "D\u00e9couvrez nos aventures",
+            "de": "Siehe unsere Abenteuer"
+        },
+        ".texte4": {
+            "en": "REVIEWS",
+            "fr": "AVIS CLIENT",
+            "de": "REVIEWS"
+        },
+        ".gift_ad": {
+            "en": "GIVE AN ADVENTURE AS A GIFT NOW!",
+            "fr": "Offre une aventure d\u00e8s maintenant",
+            "de": "Verschenke jetzt Dein Abenteuer"
+        },
+        ".see_vouch": {
+            "en": "SEE VOUCHERS",
+            "fr": "VERS BON D'ACHAT",
+            "de": "ZUM GUTSCHEIN"
+        },
+        ".texte7": {
+            "en": "BECAUSE EXPERIENCES ARE MORE VALUABLE THAN MATERIAL GIFTS.",
+            "fr": "PARCE QUE LES EXP\u00c9RIENCES V\u00c9CUES SONT PLUS PR\u00c9CIEUSES QUE LES CADEAUX MAT\u00c9RIELS.",
+            "de": "WEIL ERLEBNISSE WERTVOLLER SIND ALS MATERIELLE GESCHENKE."
+        },
+        ".texte8": {
+            "en": "Unforgettable moments - full of excitement and adventure.",
+            "fr": "Des moments inoubliables - pleins de suspense et d'aventure.",
+            "de": "Unvergessliche Momente - voller Spannung und Abenteuer."
+        },
+        ".duree": {
+            "en": "Duration",
+            "fr": "Dur\u00e9e",
+            "de": "Dauer"
+        },
+        ".loc": {
+            "en": "Location",
+            "fr": "Lieu",
+            "de": "Ort"
+        },
+        ".infoType": {
+            "en": "Escape Walk (Outdoor)",
+            "fr": "Marche escape-game (en plein air)",
+            "de": "Escape Walk (Au\u00dfenbereich)"
+        },
+        ".durer2": {
+            "en": " hours",
+            "fr": " heures",
+            "de": " Stunden"
+        }
+    },
+    "PageHomeAdmin": {
+        ".page_title": {
+            "en": "Home admin",
+            "fr": "Acceuil admin",
+            "de": "Startseite admin"
+        },
+        ".titre": {
+            "en": "Hello",
+            "fr": "Salut",
+            "de": "Hallo"
+        },
+        ".lien1": {
+            "en": "Reservations",
+            "fr": "R\u00e9servations",
+            "de": "Reservierungen"
+        },
+        ".lien2": {
+            "en": "Package",
+            "fr": "Paquet",
+            "de": "Paket"
+        },
+        ".lien3": {
+            "en": "Adventure",
+            "fr": "Aventure",
+            "de": "Abenteuer"
+        },
+        ".lien4": {
+            "en": "Generic information",
+            "fr": "Informations g\u00e9n\u00e9riques",
+            "de": "Generische Informationen"
+        }
+    },
+    "PageHomeMembre": {
+        ".page_title": {
+            "en": "Customer Area",
+            "fr": "Espace client",
+            "de": "Kundenbereich"
+        },
+        "#welcome": {
+            "en": "Welcome",
+            "fr": "Bienvenue",
+            "de": "Willkommen"
+        },
+        "#your_profile": {
+            "en": "Your profile",
+            "fr": "Votre profil",
+            "de": "Ihr Profil"
+        },
+        ".first_name": {
+            "en": "First Name:",
+            "fr": "Pr\u00e9nom :",
+            "de": "Vorname:"
+        },
+        ".name": {
+            "en": "Surname:",
+            "fr": "Nom de famille :",
+            "de": "Nachname:"
+        },
+        ".mail": {
+            "en": "Mail:",
+            "fr": "Mail :",
+            "de": "Mail:"
+        },
+        ".phone_num": {
+            "en": "Phone number (optional):",
+            "fr": "Num\u00e9ro de t\u00e9l\u00e9phone (facultatif) :",
+            "de": "Telefonnummer (fakultativ):"
+        },
+        ".editInfo": {
+            "en": "\u270e Edit infos",
+            "fr": "\u270e Modifier les infos",
+            "de": "\u270e Infos bearbeiten"
+        },
+        ".bookings_t": {
+            "en": "Your bookings",
+            "fr": "Vos r\u00e9servations",
+            "de": "Ihre Buchungen"
+        },
+        ".datez": {
+            "en": "Date:",
+            "fr": "Date :",
+            "de": "Datum:"
+        },
+        ".timez": {
+            "en": "Time:",
+            "fr": "Heures :",
+            "de": "Zeit:"
+        },
+        ".cansel": {
+            "en": "Cancel",
+            "fr": "Annuler",
+            "de": "Abbrechen"
+        },
+        "#logout": {
+            "en": "Log Out?",
+            "fr": "Se d\u00e9connecter ?",
+            "de": "Abmelden?"
+        },
+        ".log": {
+            "en": "Log Out",
+            "fr": "Se d\u00e9connecter",
+            "de": "Abmelden"
+        }
+    },
+    "PageReservationMembre": {
+        ".page_title": {
+            "en": "Cancel Booking",
+            "fr": "Annuler la réservation",
+            "de": "Buchung stornieren"
+        },
+        "#det_t": {
+            "en": "Details",
+            "fr": "D\u00e9tails",
+            "de": "Einzelheiten"
+        },
+        "#loc_t": {
+            "en": "Location",
+            "fr": "Localisation",
+            "de": "Standort"
+        },
+        "#adr_t": {
+            "en": "Address",
+            "fr": "Adresse",
+            "de": "Adresse"
+        },
+        "#pri_t": {
+            "en": "Price",
+            "fr": "Prix",
+            "de": "Preis"
+        },
+        "#per_per": {
+            "en": "per person",
+            "fr": "par personne",
+            "de": "pro Person"
+        },
+        "#dur_t": {
+            "en": "Duration",
+            "fr": "Durer",
+            "de": "Dauer"
+        },
+        "#hour": {
+            "en": "hours",
+            "fr": "heures",
+            "de": "Stunden"
+        },
+        "#par_t": {
+            "en": "Parking",
+            "fr": "Parking",
+            "de": "Parken"
+        },
+        "#acc_t": {
+            "en": "Accessibility",
+            "fr": "Accessibilit\u00e9",
+            "de": "Erreichbarkeit"
+        },
+        "#yo_b_t": {
+            "en": "Your Booking",
+            "fr": "Votre r\u00e9servation",
+            "de": "Ihre Buchung"
+        },
+        "#nb_t": {
+            "en": "Number of people:",
+            "fr": "Nombre de personnes :",
+            "de": "Anzahl der Personen:"
+        },
+        "#da_t": {
+            "en": "Date of the escape game:",
+            "fr": "Date de l'escape game :",
+            "de": "Datum des Escape-Games:"
+        },
+        "#at": {
+            "en": "at",
+            "fr": "\u00e0",
+            "de": "unter"
+        },
+        "#total": {
+            "en": "Total Price:",
+            "fr": "Prix total :",
+            "de": "Gesamtpreis:"
+        },
+        ".button_b": {
+            "en": "BACK",
+            "fr": "RETOUR",
+            "de": "ZURÜCK"
+        },
+        ".texte11": {
+            "en": "CANCEL",
+            "fr": "ANNULER",
+            "de": "CANCEL"
+        }
+    },
+    "PageAdventures": {
+        ".page_title": {
+            "en": "Adventures",
+            "fr": "Aventures",
+            "de": "Abenteuer"
+        },
+        ".histoire": {
+            "en": "Story",
+            "fr": "Histoire",
+            "de": "Story"
+        },
+        ".duree": {
+            "en": "Duration",
+            "fr": "Dur\u00e9e",
+            "de": "Dauer"
+        },
+        ".loc": {
+            "en": "Location",
+            "fr": "Lieu",
+            "de": "Ort"
+        },
+        ".infoType": {
+            "en": "Escape Walk (Outdoor)",
+            "fr": "Marche escape-game (en plein air)",
+            "de": "Escape Walk (Au\u00dfenbereich)"
+        },
+        ".see_details": {
+            "en": "See details",
+            "fr": "Voir les d\u00e9tails",
+            "de": "Siehe Details"
+        },
+        ".durer2": {
+            "en": " hours",
+            "fr": " heures",
+            "de": " Stunden"
+        }
+    },
+    "PageAdventure": {
+        ".histoire": {
+            "en": "Story",
+            "fr": "Histoire",
+            "de": "Story"
+        },
+        ".descriptionT": {
+            "en": "Description",
+            "fr": "Description",
+            "de": "Beschreibung"
+        },
+        ".titre1": {
+            "en": "Practical info",
+            "fr": "Infos pratiques",
+            "de": "Praktische Informationen"
+        },
+        ".titre2": {
+            "en": "To bring along",
+            "fr": "\u00c0 apporter",
+            "de": "Zum Mitbringen"
+        },
+        ".titre3": {
+            "en": "Languages",
+            "fr": "Langues",
+            "de": "Sprachen"
+        },
+        ".titre4": {
+            "en": "Important information",
+            "fr": "Informations importantes",
+            "de": "Wichtige Informationen"
+        },
+        ".titre5": {
+            "en": "Difficulty level puzzle",
+            "fr": "Niveau de difficult\u00e9 du puzzle",
+            "de": "Schwierigkeitsgrad R\u00e4tsel"
+        },
+        ".titre6": {
+            "en": "Difficulty level route",
+            "fr": "Niveau de difficult\u00e9 du parcours",
+            "de": "Schwierigkeitsgrad der Strecke"
+        },
+        ".titre7": {
+            "en": "Duration",
+            "fr": "Dur\u00e9e",
+            "de": "Dauer"
+        },
+        ".handi": {
+            "en": "Accessibility",
+            "fr": "Accessibilit\u00e9",
+            "de": "Erreichbarkeit"
+        },
+        ".titre8": {
+            "en": "Target group",
+            "fr": "Groupe cible",
+            "de": "Zielgruppe"
+        },
+        ".titre9": {
+            "en": "Event location",
+            "fr": "Lieu de l'\u00e9v\u00e9nement",
+            "de": "Veranstaltungsort"
+        },
+        ".titre10": {
+            "en": "Address",
+            "fr": "Adresse",
+            "de": "Adresse"
+        },
+        ".titre11": {
+            "en": "Location \/ Meeting point",
+            "fr": "Lieu \/ Point de rencontre",
+            "de": "Ort\/Treffpunkt"
+        },
+        ".titre12": {
+            "en": "Parking space",
+            "fr": "Place de parking",
+            "de": "Stellplatz"
+        },
+        ".titre13": {
+            "en": "Train stations & bus stops",
+            "fr": "Gares et arr\u00eats de bus",
+            "de": "Bahnh\u00f6fe und Bushaltestellen"
+        },
+        ".durer1": {
+            "en": "Approx.",
+            "fr": "Approx.",
+            "de": "ca."
+        },
+        ".durer2": {
+            "en": "hours",
+            "fr": "heures",
+            "de": "Stunden"
+        },
+        ".question": {
+            "en": "FREQUENTLY ASKED QUESTIONS",
+            "fr": "QUESTIONS FR\u00c9QUEMMENT POS\u00c9ES",
+            "de": "H\u00c4UFIG GESTELLTE FRAGEN"
+        },
+        ".achat1": {
+            "en": "Booking",
+            "fr": "R\u00e9servation",
+            "de": "Buchung"
+        },
+        ".achat2": {
+            "en": "From",
+            "fr": "D\u00e8s",
+            "de": "Ab"
+        },
+        ".achat3": {
+            "en": "Choose a date and book an experience",
+            "fr": "Choisissez une date et r\u00e9servez votre exp\u00e9rience",
+            "de": "W\u00e4hlen Sie ein Datum und buchen Sie ein Erlebnis"
+        },
+        ".achat4": {
+            "en": "1. Appointment",
+            "fr": "1. Rendez-vous",
+            "de": "1. Termin"
+        },
+        ".achat5": {
+            "en": "2. Time",
+            "fr": "2. Heure",
+            "de": "2. Zeit"
+        },
+        ".achat6": {
+            "en": "Select a time slot",
+            "fr": "Sélectionner un créneau horaire",
+            "de": "Wählen Sie ein Zeitfenster"
+        },
+        ".achat7": {
+            "en": "Please select the number of people present for the escape game.",
+            "fr": "Veuillez sélectionner le nombre de personnes présentes pour l'escape game.",
+            "de": "Bitte wählen Sie die Anzahl der anwesenden Personen für das Escape Game aus."
+        },
+        ".achat8": {
+            "en": "3. Option",
+            "fr": "3. Option",
+            "de": "3. Option"
+        },
+        ".achat9": {
+            "en": "Proceed to payment",
+            "fr": "Proc\u00e9der au paiement",
+            "de": "Weiter zur Zahlung"
+        }
+    },
+    "PagePackages": {
+        ".titre_package": {
+            "en": "PACKAGES",
+            "fr": "CADEAUX",
+            "de": "GESCHENKE"
+        },
+        "#your_pack_as_puzz": {
+            "en": "Your <span>gift card<\/span> as a <span>puzzle<\/span>.",
+            "fr": "Votre <span>carte cadeau<\/span> sous forme de <span>puzzle<\/span>.",
+            "de": "Ihr <span>Geschenkgutschein<\/span> als <span>R\u00e4tsel<\/span>."
+        },
+        ".see_gift_cards": {
+            "en": "SEE OUR GIFT CARDS",
+            "fr": "VOIR NOS CARTES CADEAUX",
+            "de": "SIEHE UNSERE GESCHENKKARTEN"
+        },
+        ".texte4": {
+            "en": "A very <span>special gift<\/span>",
+            "fr": "Un cadeau tr\u00e8s <span>sp\u00e9cial<\/span>",
+            "de": "Ein ganz <span>besonderes Geschenk<\/span>"
+        },
+        ".texte5": {
+            "en": "Fun, joy & puzzles, even when you're unwrapping it!",
+            "fr": "Amusement, joie et casse-t\u00eate, m\u00eame au moment du d\u00e9ballage !",
+            "de": "Spa\u00df, Freude & R\u00e4tseln, bereits beim Auspacken!"
+        },
+        "#occasions": {
+            "en": "The <span>occasions<\/span>",
+            "fr": "Les <span>occasions<\/span>",
+            "de": "Die <span>Anl\u00e4sse<\/span>"
+        },
+        ".texte7": {
+            "en": "Birthday",
+            "fr": "Anniversaire",
+            "de": "Geburtstag"
+        },
+        ".texte8": {
+            "en": "Wedding",
+            "fr": "Mariage",
+            "de": "Hochzeit"
+        },
+        ".texte9": {
+            "en": "Christmas",
+            "fr": "No\u00ebl",
+            "de": "Weihnachten"
+        },
+        ".texte10": {
+            "en": "YOUR GIFT CARD",
+            "fr": "VOTRE CARTE CADEAU",
+            "de": "IHRE GESCHENKKKARTE"
+        },
+        ".texte11": {
+            "en": "Experience a great adventure with us.",
+            "fr": "Vivez une grande aventure avec nous.",
+            "de": "Erleben Sie mit uns ein gro\u00dfes Abenteuer."
+        },
+        ".see_voucher": {
+            "en": "See our gift cards",
+            "fr": "Voir nos cartes cadeaux",
+            "de": "Siehe unsere Geschenkkarten"
+        }
+    },
+    "PagePolConf": {
+        ".page_title": {
+            "en": "Privacy policy",
+            "fr": "Politique de confidentialité",
+            "de": "Datenschutzrichtlinie"
+        },
+        "#pol_conf_t_1": {
+            "en": "1- Use of cookies ",
+            "fr": "1- Utilisation des cookies ",
+            "de": "1- Verwendung von Cookies "
+        },
+        "#pol_conf_p_1": {
+            "en": "The cookies used on the we-escape.co.uk website are only those necessary for operation. Third-party cookies will also be used and require the user's consent. The cookies in question are :",
+            "fr": "Les cookies utilisés sur le site we-escape.fr ne sont que des cookies nécessaires au fonctionnement. Des cookies tiers seront également utilisés et nécessitent le consentement de l’utilisateur. Les cookies en question sont :",
+            "de": "Die auf der Website we-escape.de verwendeten Cookies sind nur solche, die für den Betrieb notwendig sind. Es werden auch Cookies von Drittanbietern verwendet, die die Zustimmung des Nutzers erfordern. Bei diesen Cookies handelt es sich um :"
+        },
+        "#pol_conf_li": {
+            "en": "<span class='bold'>YouTube (Google): </span>integration of videos into different pages.",
+            "fr": "<span class='bold'>YouTube (Google) : </span>intégration de vidéos dans différentes pages.",
+            "de": "<span class='bold'>YouTube (Google): </span>Einbettung von Videos in verschiedene Seiten."
+        },
+        "#pol_conf_t_2": {
+            "en": "2- Data storage",
+            "fr": "2- Stockage des données",
+            "de": "2- Datenspeicherung"
+        },
+        "#pol_conf_p_2": {
+            "en": "Users personal data will be stored on the we-escape.fr website servers. We-Escape is committed to complying with RGPD regulations regarding their storage. To find out more, please refer to the <a href='documents/RAT_French_only.pdf' target='_blank' class='link'>R.A.T</a>",
+            "fr": "Les données personnelles des utilisateurs seront stockées sur les serveurs du site we-escape.fr. We-Escape s’engage à respecter les réglementations du RGPD quant à leur stockage. Pour en savoir plus, veuillez vous référer au <a href='documents/RAT_French_only.pdf' target='_blank' class='link'>R.A.T</a>",
+            "de": "Die persönlichen Daten der Benutzer werden auf den Servern der Website we-escape.fr gespeichert. We-Escape verpflichtet sich, die Vorschriften der RGPD bezüglich der Speicherung dieser Daten einzuhalten. Um mehr darüber zu erfahren, lesen Sie bitte die <a href='documents/RAT_French_only.pdf' target='_blank' class='link'>R.A.T</a>"
+        },
+        "#pol_conf_t_3": {
+            "en": "3- Transfer to third parties",
+            "fr": "3- Transfert à des tiers",
+            "de": "3- Weitergabe an Dritte"
+        },
+        "#pol_conf_p_3": {
+            "en": "No data will be transferred to third parties. However, at the time of payment, cash withdrawal details will be transferred to the customer's banker.",
+            "fr": "Aucune donnée ne sera transférée à des tiers. Cependant, lors du paiement, les données de retrait d’argent seront néanmoins transférées au banquier du client.",
+            "de": "Es werden keine Daten an Dritte weitergegeben. Bei der Zahlung werden die Daten zur Geldabhebung jedoch dennoch an die Bank des Kunden weitergeleitet."
+        }
+    },
+    "PageCGV": {
+        ".page_title": {
+            "en": "General terms and conditions of sale",
+            "fr": "Conditions générales de vente",
+            "de": "Allgemeine Geschäftsbedingungen"
+        },
+        "#cvg_t_1": {
+            "en": "1- Validity and definition of terms",
+            "fr": "1- Validité et définition des termes",
+            "de": "1- Gültigkeit und Definition der Begriffe"
+        },
+        "#cvg_p_1": {
+            "en": "We-Escape GmbH (hereinafter referred to as ‘We-Escape’), Am Krebsbach 2G, 79241 Ihringen, offers products/events in the field of ‘Outdoor Live Escape Tours’ (hereinafter referred to as ‘Escape Tour(s)’) to individuals and groups of people (hereinafter referred to as ‘customer’). The following General Terms and Conditions apply exclusively to the conclusion and performance of the contract. ",
+            "fr": "La société We-Escape GmbH (ci-après dénommée \"We-Escape\"), Am Krebsbach 2G, 79241 Ihringen, propose aux personnes et aux groupes de personnes (ci-après dénommés \"client\") des produits/événements dans le domaine des \"Outdoor Live Escape Tours\" (ci-après dénommés \"Escape Tour(s)\"). Les CGV suivantes régissent exclusivement la réalisation du contrat ainsi que son exécution. ",
+            "de": "Die We-Escape GmbH (nachfolgend „We-Escape“), Am Krebsbach 2G, 79241 Ihringen, bietet Personen und Personengruppen (nachfolgend „Kunde“) Produkte/Events im Bereich der „Outdoor Live Escape Tours“ (nachfolgend „Escape Tour(en)“) an. Die nachfolgenden AGB regeln ausschließlich das Zustandekommen des Vertrages sowie dessen Durchführung. "
+        },
+        "#cvg_t_2": {
+            "en": "2- Purpose of the contract",
+            "fr": "2- Objet du contrat",
+            "de": "2- Gegenstand des Vertrags"
+        },
+        "#cvg_p_2": {
+            "en": "The purpose of the contract is to carry out the proposed leisure events. We-Escape offers leisure activities for groups of 2 to 20 people in the field of outdoor escape games. The minimum age for customers booking is 16. The group of participants in the leisure event may also include younger participants. Under-14s must be accompanied to the game site by an adult on the day of the event.",
+            "fr": "L'objet du contrat est la réalisation des événements de loisirs proposés. We-Escape propose des activités de loisirs pour des groupes de 2 à 20 personnes dans le domaine des jeux d'évasion en plein air. L'âge minimum des clients qui réservent est de 16 ans. Le groupe de participants à l'événement de loisirs peut également être composé de participants plus jeunes. Les moins de 14 ans doivent être accompagnés sur le lieu du jeu par une personne majeure le jour de l'événement.",
+            "de": "Vertragsgegenstand ist die Durchführung der angebotenen Freizeitveranstaltungen. We-Escape bietet Freizeitaktivitäten für Gruppen von 2 bis 20 Personen im Bereich der Outdoor-Escape-Spiele an. Das Mindestalter der buchenden Kunden beträgt 16 Jahre. Die Gruppe, die an der Freizeitveranstaltung teilnimmt, kann auch aus jüngeren Teilnehmern bestehen. Personen unter 14 Jahren müssen am Tag der Veranstaltung von einer volljährigen Person zum Spielort begleitet werden."
+        },
+        "#cvg_p_3": {
+            "en": "The aim of the leisure activities is to solve tasks and puzzles together as a team. Leisure experiences have a set duration, which is communicated as part of the booking. The playground for outdoor escape games is a defined route in the public space, which the group must explore independently.",
+            "fr": "L'objectif des activités de loisirs est de résoudre ensemble des tâches et des énigmes en équipe. Les expériences de loisirs ont une durée déterminée qui est communiquée dans le cadre de la réservation. Le lieu de jeu pour les jeux d'évasion en plein air est un itinéraire défini dans l'espace public, que le groupe doit explorer de manière autonome.",
+            "de": "Ziel der Freizeiterlebnisse ist es, gemeinsam als Team Aufgaben und Rätsel zu lösen. Die Freizeiterlebnisse haben eine bestimmte Dauer, die im Rahmen der Buchung mitgeteilt wird. Der Spielort für Outdoor Escape Games ist eine festgelegte Route im öffentlichen Raum, die von der Gruppe selbstständig erkundet werden muss."
+        },
+        "#cvg_p_4": {
+            "en": "Solving the puzzles does not require any prior knowledge or particular physical characteristics (e.g. size or strength), only intelligence and skill. If necessary, the group receives targeted help in the form of help and solution cards.",
+            "fr": "Pour résoudre les énigmes, il n'est pas nécessaire d'avoir des connaissances préalables ou des caractéristiques physiques particulières (ex. taille ou force), seules l'intelligence et l'habileté sont requises. Si nécessaire, le groupe reçoit une aide ciblée sous forme de cartes d'aide et de solution.",
+            "de": "Um die Rätsel zu lösen, sind weder Vorkenntnisse noch besondere körperliche Merkmale (z. B. Größe oder Stärke) erforderlich, sondern nur Intelligenz und Geschicklichkeit. Bei Bedarf erhält die Gruppe gezielte Hilfe in Form von Hilfe- und Lösungskarten."
+        },
+        "#cvg_p_5": {
+            "en": "<span class='bold'>2.1 </span> The leisure event begins at the time and place indicated on the booking confirmation. Escape Tour recommends being on site 15 minutes before the start of the event. In the event of late arrival, the agreed service cannot be provided and the event cannot take place. In this case, there is no right to a refund of the booking price.",
+            "fr": "<span class='bold'>2.1 </span> L'événement de loisirs commence à l'heure et au lieu indiqués sur la confirmation de réservation. Escape Tour recommande d'être sur place 15 minutes avant le début de l'événement. En cas d'arrivée tardive, la prestation convenue ne peut pas être fournie et l'événement ne peut pas avoir lieu. Dans ce cas, il n'existe aucun droit au remboursement du prix de la réservation.",
+            "de": "<span class='bold'>2.1 </span> Die Freizeitveranstaltung beginnt zu der auf der Buchungsbestätigung angegebenen Zeit und an dem angegebenen Ort. Escape Tour empfiehlt, 15 Minuten vor Beginn der Veranstaltung vor Ort zu sein. Bei einer verspäteten Ankunft kann die vereinbarte Leistung nicht erbracht und die Veranstaltung nicht durchgeführt werden. In diesem Fall besteht kein Anspruch auf Rückerstattung des Buchungspreises."
+        },
+        "#cvg_t_3": {
+            "en": "3- Completion of the contract or reservation",
+            "fr": "3- Réalisation du contrat ou de la réservation",
+            "de": "3- Erfüllung des Vertrags oder der Buchung"
+        },
+        "#cvg_p_6": {
+            "en": "Reservations for Outdoor Live Escape Tours can be made via the website, by telephone on 0176 66810096 or by e-mail to booking@we-escape.de. <br>After a successful booking, the customer receives a booking confirmation from We-Escape by e-mail. Sending this booking confirmation gives rise to a binding contract which obliges the customer to pay for the service booked. Any changes to the service booked by the customer will be possible up to one week before the service is due to take place.",
+            "fr": "La réservation d'un Outdoor Live Escape Tour peut être effectuée via le site web, par téléphone au 0176 66810096 ou par e-mail à booking@we-escape.de. <br>Après une réservation réussie, le client reçoit une confirmation de réservation par We-Escape par e-mail. L'envoi de cette confirmation de réservation donne lieu à un contrat contraignant qui oblige à payer la prestation réservée. Une modification de la prestation réservée par le client sera alors possible jusqu’à une semaine avant le jour de la réalisation de la prestation.",
+            "de": "Die Buchung einer Outdoor Live Escape Tour kann über die Website, telefonisch unter 0176 66810096 oder per E-Mail an booking@we-escape.de erfolgen. <br> Nach einer erfolgreichen Buchung erhält der Kunde von We-Escape eine Buchungsbestätigung per E-Mail. Mit dem Versand dieser Buchungsbestätigung kommt ein verbindlicher Vertrag zustande, der zur Zahlung der gebuchten Leistung verpflichtet. Eine Änderung der gebuchten Leistung durch den Kunden ist dann bis zu einer Woche vor dem Tag der Durchführung der Leistung möglich."
+        },
+        "#cvg_t_3_1": {
+            "en": "Reservations via the website",
+            "fr": "Réservation via le site web",
+            "de": "Buchung über die Website"
+        },
+        "#cvg_p_7": {
+            "en": "Open-air escape games are offered for booking via one of the We-Escape websites, as are vouchers for booking the same leisure activities. The presentation and advertising of the various leisure activities do not constitute a binding offer to conclude a contract. The customer may choose between the events offered. Available dates are shown in the calendar. By clicking on the “book” button, the customer is obliged to register for the corresponding game in the desired time slot during the selected period.",
+            "fr": "Des escape games en plein air sont proposés à la réservation via l'un des sites Internet de We-Escape, ainsi que des bons de valeur pour la réservation de ces mêmes activités de loisirs. La présentation et la publicité des différentes activités de loisirs ne constituent pas une offre ferme de conclusion d'un contrat. Le client peut choisir entre les événements proposés. Les dates disponibles sont indiquées dans le calendrier. En cliquant sur le bouton \"réserver\", le client s'inscrit obligatoirement au jeu correspondant dans le créneau horaire souhaité pendant la période sélectionnée.",
+            "de": "Escape Games im Freien werden über eine der Webseiten von We-Escape zur Buchung angeboten, ebenso wie Wertgutscheine für die Buchung derselben Freizeitaktivitäten. Die Präsentation und Bewerbung der einzelnen Freizeitaktivitäten stellt kein verbindliches Angebot zum Abschluss eines Vertrages dar. Der Kunde kann zwischen den angebotenen Veranstaltungen wählen. Die verfügbaren Termine sind im Kalender angegeben. Durch Anklicken der Schaltfläche „Buchen“ meldet sich der Kunde verbindlich für das entsprechende Spiel im gewünschten Zeitfenster im ausgewählten Zeitraum an."
+        },
+        "#cvg_p_8": {
+            "en": "To book the event, We-Escape first asks for data such as the customer's name, e-mail address, telephone number and, if applicable, billing address, as well as the customer's bank details. By clicking on the ‘Order’ button, the Customer makes a binding request to enter into a contract.",
+            "fr": "Pour la réservation de l'événement, We-Escape demande d'abord des données telles que le nom, l'adresse e-mail, le numéro de téléphone et, le cas échéant, l'adresse de facturation du client ainsi que les coordonnées bancaires du client. En cliquant sur le bouton \"Commander\", le client fait une demande ferme de conclusion de contrat.",
+            "de": "Für die Buchung der Veranstaltung erfragt We-Escape zunächst Daten wie Name, E-Mail-Adresse, Telefonnummer und ggf. Rechnungsanschrift des Kunden sowie die Bankverbindung des Kunden. Durch Anklicken des Buttons „Bestellen“ gibt der Kunde einen verbindlichen Antrag auf Abschluss eines Vertrages ab."
+        },
+        "#cvg_p_9": {
+            "en": "Before sending the booking, the customer can consult and modify their details at any time. Customers can print out and save the GTC (terms and conditions of use) via their browser. At the end of the booking process, the customer is again asked to check the booking and confirm the terms and conditions.",
+            "fr": "Avant d'envoyer la réservation, le client peut à tout moment consulter et modifier ses données. Le client peut imprimer et enregistrer les CGV (conditions d'utilisation) via son navigateur. À la fin du processus de réservation, le client est à nouveau invité à vérifier la réservation et à confirmer les CGV.",
+            "de": "Bevor der Kunde die Buchung abschickt, kann er seine Daten jederzeit einsehen und ändern. Der Kunde kann die AGB (Nutzungsbedingungen) über seinen Browser ausdrucken und speichern. Am Ende des Buchungsvorgangs wird der Kunde erneut aufgefordert, die Buchung zu überprüfen und die AGB zu bestätigen."
+        },
+        "#cvg_p_10": {
+            "en": "Once the order has been sent, We-Escape will send the customer a booking confirmation by e-mail. The contract is concluded with this booking confirmation. The booking confirmation must be checked immediately by the Customer; any errors must be notified to We-Escape immediately.",
+            "fr": "Après l'envoi de la commande, We-Escape envoie au client une confirmation de réservation par e-mail. Le contrat est conclu avec cette confirmation de réservation. La confirmation de réservation doit être immédiatement vérifiée par le client ; toute erreur doit être immédiatement communiquée à We-Escape.",
+            "de": "Nach Absenden der Bestellung sendet We-Escape dem Kunden eine Buchungsbestätigung per E-Mail. Der Vertrag kommt mit dieser Buchungsbestätigung zustande. Die Buchungsbestätigung ist vom Kunden unverzüglich zu überprüfen; etwaige Fehler sind We-Escape unverzüglich mitzuteilen."
+        },
+        "#cvg_p_11": {
+            "en": "The e-mail contains a booking code. This code must be sent on the spot, at the time booked, to the mobile phone number shown on the invoice. This enables the locker to be allocated by text message and the combination of numbers needed to open the locker to be sent.",
+            "fr": "L'e-mail contient un code de réservation. Ce code doit être envoyé sur place, ponctuellement, à l'heure réservée, au numéro de téléphone mobile figurant sur la facture. Cela permet d'attribuer le casier par SMS et d'envoyer la combinaison de chiffres permettant d'ouvrir le casier.",
+            "de": "Die E-Mail enthält einen Buchungscode. Dieser Code muss pünktlich zur gebuchten Zeit vor Ort an die auf der Rechnung angegebene Handynummer gesendet werden. Dadurch kann das Schließfach per SMS zugewiesen und die Zahlenkombination zum Öffnen des Schließfachs gesendet werden."
+        },
+        "#cvg_p_12": {
+            "en": "The person making the reservation for the group must be authorised by all the participants in the group to make the reservation for the group. This person must be of age. Minors must be authorised by their parents or guardians to take part in the game. The ‘group leader’ is responsible for full payment.",
+            "fr": "La personne qui réserve pour le groupe doit être autorisée par tous les participants du groupe à réserver pour celui-ci. Elle doit être majeure. Les mineurs doivent être autorisés par leurs parents ou tuteurs à participer au jeu. Le \"chef de groupe\" est responsable du paiement total.",
+            "de": "Die Person, die für die Gruppe bucht, muss von allen Teilnehmern der Gruppe bevollmächtigt sein, für die Gruppe zu buchen. Sie muss volljährig sein. Minderjährige müssen von ihren Eltern oder Erziehungsberechtigten zur Teilnahme ermächtigt werden. Der „Gruppenleiter“ ist für die Zahlung des Gesamtbetrags verantwortlich."
+        },
+        "#cvg_t_3_2": {
+            "en": "Vouchers",
+            "fr": "Bons d’achat",
+            "de": "Gutscheine"
+        },
+        "#cvg_p_13": {
+            "en": "If the customer has ordered a gift voucher, the gift voucher code will be sent to the customer in the booking confirmation e-mail. This authorises the customer or gift recipient to use the amount of the voucher as a means of payment when booking Outdoor-Escape games online or by telephone.",
+            "fr": "Dans le cas où le client a commandé un bon cadeau, le code du bon cadeau lui est communiqué dans l'e-mail de confirmation de la réservation. Celui-ci autorise le client ou le bénéficiaire du cadeau à utiliser le montant du bon comme moyen de paiement lors de la réservation de jeux Outdoor-Escape en ligne ou par téléphone.",
+            "de": "Für den Fall, dass der Kunde einen Geschenkgutschein bestellt hat, wird ihm in der Bestätigungs-E-Mail der Buchung der Geschenkgutschein-Code mitgeteilt. Dieser berechtigt den Kunden oder den Beschenkten, den Betrag des Gutscheins als Zahlungsmittel bei der Buchung von Outdoor-Escape-Spielen online oder per Telefon zu verwenden."
+        },
+        "#cvg_p_14": {
+            "en": "Vouchers with a clearly defined value in the form of a service or day of the week are only valid for that specific service or day of the week. The value of the voucher includes the current statutory VAT. Vouchers may only be used to pay for a service. We-Escape is not entitled to cash payment for vouchers. Vouchers issued by We-Escape lose their validity after three years.",
+            "fr": "Les bons d'achat pour lesquels une contre-valeur est clairement définie sous la forme d'une prestation ou d'un jour de la semaine sont exclusivement valables pour cette prestation ou ce jour de la semaine précis. La valeur du bon s'applique à la TVA légale actuelle incluse. Les bons ne peuvent être utilisés que pour le paiement d'une prestation. Tout droit au paiement en espèces des bons par We-Escape est exclu. Les bons émis par We-Escape perdent leur validité à l'expiration d'un délai de trois ans.",
+            "de": "Gutscheine, bei denen ein Gegenwert in Form einer Leistung oder eines Wochentages klar definiert ist, gelten ausschließlich für diese bestimmte Leistung oder diesen bestimmten Wochentag. Der Wert des Gutscheins gilt für die aktuelle gesetzliche Mehrwertsteuer inklusive. Gutscheine können nur zur Bezahlung einer Leistung verwendet werden. Ein Anspruch auf Barauszahlung der Gutscheine durch We-Escape ist ausgeschlossen. Die von We-Escape ausgestellten Gutscheine verlieren nach Ablauf von drei Jahren ihre Gültigkeit."
+        },
+        "#cvg_p_15": {
+            "en": "Input errors can be corrected using the usual keyboard, mouse and browser functions (e.g. the browser's “back” button). A selected appointment is reserved for 15 minutes, and will be available for booking again if the reservation is not completed.",
+            "fr": "Les erreurs de saisie peuvent être corrigées à l'aide des fonctions habituelles du clavier, de la souris et du navigateur (par ex. le bouton \"retour\" du navigateur). Un rendez-vous sélectionné est réservé pour une durée de 15 minutes et sera à nouveau disponible pour la réservation si celle-ci n'est pas terminée.",
+            "de": "Eingabefehler können mit den üblichen Tastatur-, Maus- und Browserfunktionen korrigiert werden (z. B. mit dem „Retour“-Button des Browsers). Ein ausgewählter Termin wird für 15 Minuten reserviert und steht wieder für die Buchung zur Verfügung, wenn diese nicht abgeschlossen ist."
+        },
+        "#cvg_t_3_3": {
+            "en": "Reservation by phone",
+            "fr": "Réservation par téléphone",
+            "de": "Telefonische Reservierung"
+        },
+        "#cvg_p_16": {
+            "en": "When booking by telephone, customers can also choose between the outdoor escape games on offer. To book, the customer must provide the necessary information by telephone. Customers can print out and save the GTCs via their browser. After booking by telephone, We-Escape will send the customer a booking confirmation by e-mail, in which the customer's booking and personal details are again listed. The contract is concluded with this booking confirmation. The booking confirmation must be checked immediately by the client; any errors must be notified to We-Escape immediately.",
+            "fr": "Lors de la réservation par téléphone, le client peut également choisir entre les escape games en plein air proposés. Pour réserver, le client doit communiquer par téléphone les informations nécessaires. Le client peut imprimer et enregistrer les CGV via son navigateur. Après la réservation par téléphone, We-Escape envoie au client une confirmation de réservation par e-mail, dans laquelle la réservation du client et ses données personnelles sont à nouveau mentionnées. Le contrat est conclu avec cette confirmation de réservation. La confirmation de réservation doit être immédiatement vérifiée par le client ; toute erreur doit être immédiatement communiquée à We-Escape.",
+            "de": "Bei der telefonischen Buchung kann der Kunde auch zwischen den angebotenen Outdoor-Escape-Games wählen. Um zu buchen, muss der Kunde am Telefon die erforderlichen Informationen mitteilen. Der Kunde kann die AGB über seinen Browser ausdrucken und speichern. Nach der telefonischen Buchung sendet We-Escape dem Kunden eine Buchungsbestätigung per E-Mail, in der die Buchung des Kunden und seine persönlichen Daten noch einmal aufgeführt sind. Mit dieser Buchungsbestätigung kommt der Vertrag zustande. Die Buchungsbestätigung ist vom Kunden unverzüglich zu überprüfen; etwaige Fehler sind We-Escape unverzüglich mitzuteilen."
+        },
+        "#cvg_t_4": {
+            "en": "4- Terms of payment",
+            "fr": "4- Modalités de paiement",
+            "de": "4- Zahlungsmodalitäten"
+        },
+        "#cvg_p_17": {
+            "en": "The fee depends on the size of the group and the time booked. The amount is indicated in the order process and includes statutory VAT. The amount is due on confirmation of the booking. Payment is made either during the online booking process or by bank transfer once the telephone booking has been received.",
+            "fr": "La rémunération dépend de la taille du groupe et de l'heure réservée. Son montant est indiqué dans le processus de commande et comprend la TVA légale. Le montant est dû au moment de la confirmation de la réservation. Le paiement s'effectue soit lors du processus de réservation en ligne, soit par virement bancaire après réception de la réservation téléphonique. ",
+            "de": "Die Vergütung hängt von der Größe der Gruppe und der gebuchten Stunde ab. Ihr Betrag wird im Bestellprozess angegeben und enthält die gesetzliche Mehrwertsteuer. Der Betrag ist zum Zeitpunkt der Buchungsbestätigung fällig. Die Zahlung erfolgt entweder während des Online-Buchungsvorgangs oder per Banküberweisung nach Eingang der telefonischen Buchung."
+        },
+        "#cvg_p_18": {
+            "en": "Payment must be made exclusively by PayPal, credit card or immediate bank transfer. On-site payment by EC card/credit card at the start of the event or in cash is expressly excluded.",
+            "fr": "Le paiement doit être effectué exclusivement par PayPal, carte de crédit ou virement immédiat. Le paiement sur place par carte EC/carte de crédit au début de l'événement ou en espèces est expressément exclu",
+            "de": "Die Zahlung muss ausschließlich per PayPal, Kreditkarte oder Sofortüberweisung erfolgen. Die Bezahlung vor Ort per EC-Karte/Kreditkarte zu Beginn der Veranstaltung oder in bar ist ausdrücklich ausgeschlossen."
+        },
+        "#cvg_p_19": {
+            "en": "Reservations can be cancelled free of charge up to seven days before the day of the game. If a booked escape tour is cancelled or not carried out at a later date, the full amount of the invoice is immediately due.",
+            "fr": "L'annulation d'une réservation est possible sans frais jusqu'à sept jours avant le jour du jeu. Si un escape tour réservé est annulé ou n'est pas effectué plus tard, le montant total de la facture est immédiatement exigible.",
+            "de": "Die Stornierung einer Buchung ist bis zu sieben Tage vor dem Spieltag kostenfrei möglich. Wird eine gebuchte Escape Tour storniert oder zu einem späteren Zeitpunkt nicht durchgeführt, ist der gesamte Rechnungsbetrag sofort fällig."
+        },
+        "#cvg_p_20": {
+            "en": "<span class='bold'>5.1 </span>Customers who book several games for a group event starting at the same time have a modification and cancellation period of seven days before the date booked. Before the expiry of this period, the customer is free to cancel the games with a full refund of the amount paid in advance. Individuals are not entitled to cancel a firm booking for a group event.",
+            "fr": "<span class='bold'>5.1 </span>Les clients qui réservent plusieurs jeux pour un événement de groupe commençant en même temps disposent d'un délai de modification et d'annulation de sept jours avant la date réservée. Avant l'expiration de ce délai, le client est libre d'annuler les jeux avec remboursement intégral du montant payé à l'avance. Passé ce délai, le client ne peut prétendre à aucun remboursement ou report des dates.Les personnes individuelles ne sont pas autorisées à annuler une réservation ferme d'un événement de groupe.",
+            "de": "<span class='bold'>5.1 </span>Kunden, die mehrere Spiele für eine gleichzeitig beginnende Gruppenveranstaltung buchen, haben eine Umbuchungs- und Stornierungsfrist von sieben Tagen vor dem gebuchten Termin. Vor Ablauf dieser Frist steht es dem Kunden frei, die Spiele bei voller Rückerstattung des im Voraus gezahlten Betrags zu stornieren. Nach Ablauf dieser Frist hat der Kunde keinen Anspruch auf Rückerstattung oder Verschiebung der Termine.Einzelpersonen sind nicht berechtigt, eine feste Buchung einer Gruppenveranstaltung zu stornieren."
+        },
+        "#cvg_t_5": {
+            "en": "5- Cancellations, no-shows, booking changes, refunds",
+            "fr": "5- Annulation, non-présentation, modification de la réservation, remboursements",
+            "de": "5- Stornierung, Nichterscheinen, Umbuchung, Rückerstattungen"
+        },
+        "#cvg_p_21": {
+            "en": "<span class='bold'>5.2 </span>Changing a booking, for example the number of participants or the date, is possible free of charge before the cancellation deadline expires - subject to availability. The modified booking is only considered legally binding after a new booking confirmation.",
+            "fr": "<span class='bold'>5.2 </span>La modification d'une réservation, par exemple du nombre de participants ou de la date, est possible sans frais avant l'expiration du délai d'annulation - sous réserve de disponibilité. La réservation modifiée n'est considérée comme juridiquement contraignante qu'après une nouvelle confirmation de réservation.",
+            "de": "<span class='bold'>5.2 </span> Die Änderung einer Buchung, z. B. der Teilnehmerzahl oder des Datums, ist vor Ablauf der Stornierungsfrist - vorbehaltlich der Verfügbarkeit - kostenfrei möglich. Die geänderte Buchung gilt erst nach einer erneuten Buchungsbestätigung als rechtsverbindlich."
+        },
+        "#cvg_p_22": {
+            "en": "<span class='bold'>5.3 </span>Payments already made will be refunded via the chosen payment method.",
+            "fr": "<span class='bold'>5.3 </span>Les paiements déjà effectués sont remboursés via le mode de paiement choisi.",
+            "de": "<span class='bold'>5.3 </span> Bereits geleistete Zahlungen werden über die gewählte Zahlungsmethode zurückerstattet."
+        },
+        "#cvg_t_6": {
+            "en": "6- Cancellation or modification by We-Escape",
+            "fr": "6- Annulation ou modification par We-Escape",
+            "de": "6- Stornierung oder Änderung durch We-Escape"
+        },
+        "#cvg_p_23": {
+            "en": "For important reasons, We-Escape may have to modify or cancel the service booked (for example due to weather conditions). In this case, the contract concluded with the booking is modified or cancelled. The customer may then change the date free of charge, even at short notice. In this case, the customer is not entitled to any further compensation. We-Escape will inform the customer of any necessary changes or cancellations as soon as possible.",
+            "fr": "Pour des raisons importantes, We-Escape peut être amené à modifier ou à annuler la prestation réservée (par exemple en raison des conditions météorologiques). Dans ce cas, le contrat conclu par la réservation est modifié ou annulé. Le client peut alors changer la date sans frais, même à court terme. Dans ce cas, le client n'a pas droit à d'autres dommages et intérêts. Le client sera informé dès que possible par We-Escape des éventuelles modifications ou annulations nécessaires.",
+            "de": "Aus wichtigen Gründen kann es vorkommen, dass We-Escape die gebuchte Leistung ändern oder stornieren muss (z. B. aufgrund von Wetterbedingungen). In diesem Fall wird der mit der Buchung geschlossene Vertrag geändert oder storniert. Der Kunde kann dann das Datum kostenlos ändern, auch kurzfristig. In diesem Fall hat der Kunde keinen Anspruch auf weiteren Schadenersatz. Der Kunde wird von We-Escape so schnell wie möglich über eventuell notwendige Änderungen oder Stornierungen informiert."
+        },
+        "#cvg_t_7": {
+            "en": "7- Responsibility",
+            "fr": "7- Responsabilité",
+            "de": "7- Verantwortung"
+        },
+        "#cvg_p_24": {
+            "en": "We-Escape accepts no responsibility for injury of any kind, death, injury, damage or loss resulting from the actions of one or more participants in the group. Similarly, no liability is accepted in the event of force majeure or events that were neither foreseeable nor avoidable. Subject to the following exceptions, We-Escape's liability for breach of contractual obligations or unlawful acts is limited to intent or gross negligence. ",
+            "fr": "We-Escape décline toute responsabilité en cas de blessures de toute nature, de décès, de lésions, de dommages ou de pertes si ceux-ci résultent de l'action d'un ou de plusieurs participants du groupe. De même, aucune responsabilité n'est accordée en cas de survenance d'un cas de force majeure ou d'événements qui n'étaient ni prévisibles ni évitables. Sous réserve des exceptions suivantes, la responsabilité de We-Escape en cas de manquement aux obligations contractuelles ou d'acte illicite est limitée à la faute intentionnelle ou à la négligence grave. ",
+            "de": "We-Escape übernimmt keine Haftung für Verletzungen jeglicher Art, Todesfälle, Verletzungen, Schäden oder Verluste, wenn diese durch die Handlungen eines oder mehrerer Gruppenteilnehmer verursacht wurden. Ebenso wird keine Haftung für höhere Gewalt oder Ereignisse, die weder vorhersehbar noch vermeidbar waren, gewährt. Vorbehaltlich der folgenden Ausnahmen ist die Haftung von We-Escape für die Verletzung von Vertragspflichten oder für rechtswidrige Handlungen auf Vorsatz oder grobe Fahrlässigkeit beschränkt. "
+        },
+        "#cvg_p_25": {
+            "en": "We-Escape shall be liable without limitation in the event of slight negligence in the event of injury to life, body or health or in the event of breach of an essential contractual obligation. If We-Escape is in default of performance due to slight negligence, if performance has become impossible or if We-Escape has breached an essential contractual obligation, liability for the resulting material and pecuniary damage is limited to the foreseeable damage typical of the contract. An obligation essential to the contract is one whose fulfilment enables the proper performance of the contract, whose breach jeopardizes the achievement of the purpose of the contract, and whose fulfilment the customer can regularly expect. This includes, in particular, the obligation to act and perform under the contract, as described in point 2. ",
+            "fr": "We-Escape est responsable de manière illimitée en cas de négligence légère en cas d'atteinte à la vie, au corps, à la santé ou en cas de violation d'une obligation contractuelle essentielle. Si We-Escape est en retard dans l'exécution de la prestation en raison d'une négligence légère, si la prestation est devenue impossible ou si We-Escape a manqué à une obligation contractuelle essentielle, la responsabilité pour les dommages matériels et pécuniaires qui en découlent est limitée aux dommages prévisibles et typiques du contrat. Une obligation essentielle au contrat est une obligation dont l'exécution permet la bonne exécution du contrat, dont la violation compromet la réalisation de l'objectif du contrat et dont le client peut régulièrement attendre le respect. Cela comprend notamment l'obligation d'agir et d'exécuter la prestation due au titre du contrat, décrite au point 2. ",
+            "de": "We-Escape haftet bei leichter Fahrlässigkeit im Falle der Verletzung des Lebens, des Körpers, der Gesundheit oder im Falle der Verletzung einer wesentlichen Vertragspflicht unbeschränkt. Kommt We-Escape aufgrund leichter Fahrlässigkeit mit der Leistung in Verzug, ist die Leistung unmöglich geworden oder hat We-Escape eine wesentliche Vertragspflicht verletzt, ist die Haftung für Sach- und Vermögensschäden, die daraus resultieren, auf den vertragstypischen, vorhersehbaren Schaden begrenzt. Eine vertragswesentliche Pflicht ist eine Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht, deren Verletzung die Erreichung des Vertragszwecks gefährdet und auf deren Einhaltung der Kunde regelmäßig vertrauen darf. Dazu gehört insbesondere die in Punkt 2 beschriebene Pflicht, zu handeln und die nach dem Vertrag geschuldete Leistung zu erbringen. "
+        },
+        "#cvg_p_26": {
+            "en": "We-Escape is not responsible for lost or misplaced wardrobe or valuables. We-Escape assumes no duty of care in this regard. We-Escape also assumes no liability for clothing damaged during leisure activities.",
+            "fr": "We-Escape n'est pas responsable de la perte de la garde-robe ni des objets de valeur perdus ou égarés. We-Escape n'assume aucune obligation de garde à cet égard. We-Escape n'assume pas non plus de responsabilité pour les vêtements endommagés lors de la réalisation des activités de loisirs. ",
+            "de": "We-Escape haftet nicht für den Verlust der Garderobe oder für verlorene oder verlegte Wertgegenstände. We-Escape übernimmt in dieser Hinsicht keine Verwahrungspflicht. We-Escape übernimmt auch keine Haftung für Kleidung, die bei der Durchführung von Freizeitaktivitäten beschädigt wird."
+        },
+        "#cvg_t_8": {
+            "en": "8- Customer liability",
+            "fr": "8- Responsabilité des clients",
+            "de": "8- Verantwortung der Klientinnen und Klienten"
+        },
+        "#cvg_p_27": {
+            "en": "We assume that all group participants are in good physical and mental condition. Participation is at your own risk.",
+            "fr": "Nous partons du principe que tous les participants au groupe se trouvent dans une bonne condition physique et psychique stable. La participation se fait aux risques et périls de chacun.",
+            "de": "Wir gehen davon aus, dass sich alle Teilnehmer der Gruppe in einer guten und stabilen physischen und psychischen Verfassung befinden. Die Teilnahme erfolgt auf eigenes Risiko."
+        },
+        "#cvg_t_9": {
+            "en": "9- Information on data protection and data processing",
+            "fr": "9- Informations sur la protection et le traitement des données",
+            "de": "9- Informationen zum Datenschutz und zur Datenverarbeitung"
+        },
+        "#cvg_p_28": {
+            "en": "By confirming the GTC, the customer agrees to receive e-mails and/or SMS from We-Escape. These are generally booking confirmations, possible modifications, cancellations or announcements of new products. Contact with the group leader prior to the game is made by SMS.",
+            "fr": "En confirmant les CGV, le client accepte de recevoir des e-mails et/ou des SMS de We-Escape. Il s'agit en général de confirmation de réservation, d'éventuelles modifications, d'annulations ou d'annonces de nouveautés. La prise de contact avec le responsable du groupe avant le jeu se fait par SMS.",
+            "de": "Mit der Bestätigung der AGB erklärt sich der Kunde damit einverstanden, E-Mails und/oder SMS von We-Escape zu erhalten. Dabei handelt es sich in der Regel um Buchungsbestätigungen, eventuelle Änderungen, Stornierungen oder Ankündigungen von Neuerungen. Die Kontaktaufnahme mit dem Gruppenleiter vor dem Spiel erfolgt per SMS."
+        },
+        "#cvg_p_29": {
+            "en": "<span class='bold'>9.1 </span>We-Escape collects customer data in the course of fulfilling contracts. In particular, We-Escape complies with the provisions of the Federal Data Protection Act and the Telemedia Act. Without the customer's consent - e.g. in accordance with any declaration of data usage (hereinafter “DNE”) granted by the customer - We-Escape will only collect, store, process or use the customer's personal data insofar as this is necessary for the performance of the contractual relationship and for the use and billing of telemedia. Part of the customer's data (operation number, telephone number, booking code) is stored in a cloud database (PHPMyAdmin) for the purpose of executing the booking and tour. By making a reservation, the customer accepts this storage. ",
+            "fr": "<span class='bold'>9.1 </span>We-Escape collecte des données du client dans le cadre de l'exécution des contrats. We-Escape respecte en particulier les dispositions de la loi fédérale sur la protection des données et de la loi sur les télémédias. Sans l'accord du client - par exemple conformément à la déclaration d'utilisation des données (ci-après \"DNE\") éventuellement accordée par le client - We-Escape ne collectera, enregistrera, traitera ou utilisera les données personnelles du client que dans la mesure où cela est nécessaire pour l'exécution de la relation contractuelle et pour l'utilisation et la facturation des télémédias. Une partie des données du client (numéro d'opération, numéro de téléphone, code de réservation) sont enregistrées pour la réservation dans une base de données cloud (PHPMyAdmin)  pour l'exécution de la réservation ainsi que du tour. En effectuant sa réservation, le client accepte ce stockage. ",
+            "de": "<span class='bold'>9.1 </span>We-Escape erhebt Daten des Kunden im Rahmen der Erfüllung von Verträgen. We-Escape beachtet dabei insbesondere die Bestimmungen des Bundesdatenschutzgesetzes und des Telemediengesetzes. Ohne Einwilligung des Kunden - etwa nach Maßgabe einer vom Kunden ggf. erteilten Datenverwendungserklärung (nachfolgend „DNE“) - wird We-Escape personenbezogene Daten des Kunden nur erheben, speichern, verarbeiten oder nutzen, soweit dies für die Abwicklung des Vertragsverhältnisses und für die Inanspruchnahme und Abrechnung von Telemedien erforderlich ist. Ein Teil der Daten des Kunden (Vorgangsnummer, Telefonnummer, Buchungscode) wird für die Buchung in einer Cloud-Datenbank (PHPMyAdmin) gespeichert, um die Buchung sowie die Tour durchzuführen. Mit der Durchführung der Buchung stimmt der Kunde dieser Speicherung zu. "
+        },
+        "#cvg_p_30": {
+            "en": "<span class='bold'>9.2 </span>We-Escape is connected to We-Escape's central billing system. The data collected is stored on We-Escape's central server only in accordance with any RGPD granted and in strict compliance with existing legal provisions. ",
+            "fr": "<span class='bold'>9.2 </span>We-Escape est connecté au système de facturation central de We-Escape. Les données collectées ne sont stockées sur le serveur central de We-Escape que conformément au RGPD éventuellement accordé et dans le strict respect des dispositions légales existantes. ",
+            "de": "<span class='bold'>9.2 </span>We-Escape ist an das zentrale Abrechnungssystem von We-Escape angeschlossen. Die erhobenen Daten werden auf dem zentralen Server von We-Escape nur gemäß der ggf. erteilten DSGVO und unter strikter Einhaltung der bestehenden gesetzlichen Bestimmungen gespeichert. "
+        },
+        "#cvg_p_31": {
+            "en": "<span class='bold'>9.3 </span>The customer has, with regard to personal data and data specific to use, the rights of access, rectification and deletion guaranteed by the RGPD; these rights must be exercised at the time of booking as well as from the account login area or by e-mail to the following address: booking@we-escape.de.",
+            "fr": "<span class='bold'>9.3 </span>Le client dispose, en ce qui concerne les données personnelles et les données spécifiques à l'utilisation, des droits d'accès, de rectification et de suppression garantis par le RGPD ; ces droits doivent être exercés lors de la réservation ainsi que depuis l’espace de connexion du compte ou par e-mail à l'adresse suivante : booking@we-escape.de.",
+            "de": "<span class='bold'>9.3 </span>Der Kunde hat in Bezug auf personenbezogene und nutzungsspezifische Daten die in der DSGVO garantierten Rechte auf Auskunft, Berichtigung und Löschung; diese Rechte müssen bei der Buchung sowie aus dem Login-Bereich des Kontos heraus oder per E-Mail an booking@we-escape.de geltend gemacht werden."
+        },
+        "#cvg_t_10": {
+            "en": "10- Prohibited customer behavior",
+            "fr": "10- Comportement interdit du client",
+            "de": "10- Verbotenes Verhalten des Klienten"
+        },
+        "#cvg_p_32": {
+            "en": "All documents relating to the Escape Tours, as well as the tours themselves, are protected works in accordance with Article 40 of the Copyright Act. It is forbidden to take photos or make films, videos or audio recordings without prior request to We-Escape.",
+            "fr": "Tous les documents relatifs aux Escape Tours ainsi que les tours eux-mêmes font partie des œuvres protégées conformément à l’article 40 de la loi sur les droits d'auteur. Il est interdit de prendre des photos et de réaliser des films, des vidéos ou des enregistrements audio sans demande préalable à We-Escape.",
+            "de": "Alle Unterlagen zu den Escape Tours sowie die Touren selbst gehören zu den geschützten Werken gemäß § 40 des Urheberrechtsgesetzes. Es ist verboten, ohne vorherige Anfrage bei We-Escape Fotos zu machen und Filme, Videos oder Audioaufnahmen anzufertigen."
+        },
+        "#cvg_p_33": {
+            "en": "<span class='bold'>10.1 </span>We-Escape may refuse a customer access to the event venue if there is reason to fear that the person concerned, due to his or her consumption of alcohol or drugs or for any other reason, may disrupt the performance or the general business of the company or disturb other visitors.",
+            "fr": "<span class='bold'>10.1 </span>We-Escape peut refuser à un client l'accès au lieu de l'événement s'il y a lieu de craindre que la personne concernée, en raison de sa consommation d'alcool ou de drogues ou pour toute autre raison, ne perturbe le déroulement de la représentation ou l'activité générale de l'entreprise ou n'importune les autres visiteurs.",
+            "de": "<span class='bold'>10.1 </span>We-Escape kann einem Kunden den Zutritt zum Veranstaltungsort verweigern, wenn zu befürchten ist, dass die betreffende Person aufgrund von Alkohol- oder Drogenkonsum oder aus anderen Gründen den Ablauf der Vorstellung oder die allgemeine Geschäftstätigkeit des Unternehmens stören oder andere Besucher belästigen wird."
+        },
+        "#cvg_t_11": {
+            "en": "11- Required customer behavior",
+            "fr": "11- Comportement requis de la part du client",
+            "de": "11- Vom Klienten gefordertes Verhalten"
+        },
+        "#cvg_p_40": {
+            "en": "The customer undertakes to take good care of the game inventory. We-Escape reserves the right to take legal action or claim damages in the event of damage or destruction, whether intentional or negligent.",
+            "fr": "Le client s'engage à prendre soin de l'inventaire du jeu. En cas de détérioration ou de destruction, de nature fautive ou intentionnelle, We-Escape se réserve le droit d'engager des poursuites ou de réclamer des dommages et intérêts.",
+            "de": "Der Kunde verpflichtet sich, das Inventar des Spiels pfleglich zu behandeln. Im Falle einer schuldhaften oder vorsätzlichen Beschädigung oder Zerstörung behält sich We-Escape das Recht vor, rechtliche Schritte einzuleiten oder Schadensersatz zu fordern."
+        },
+        "#cvg_p_34": {
+            "en": "<span class='bold'>11.1 </span> The customer undertakes to use the equipment and routes taken during the escape tours with care throughout their stay at the event venue.",
+            "fr": "<span class='bold'>11.1 </span> Le client s'engage à utiliser avec soin le matériel et les itinéraires empruntés lors des escape tours pendant toute la durée de son séjour sur le lieu de l'événement.",
+            "de": "<span class='bold'>11.1 </span> Der Kunde verpflichtet sich, während seines gesamten Aufenthalts am Veranstaltungsort mit der Ausrüstung und den Routen, die er bei den Escape-Touren benutzt, sorgfältig umzugehen."
+        },
+        "#cvg_p_35": {
+            "en": "<span class='bold'>11.2 </span>A backpack containing play equipment is made available to customers at the start of the tour via the locker. This backpack may contain a GPS transmitter to help customers in emergency situations and to prevent theft. Customers agree to the backpack being tracked.",
+            "fr": "<span class='bold'>11.2 </span>Un sac à dos contenant du matériel de jeu est mis à la disposition des clients au début de la visite via le casier. Ce sac à dos peut contenir un émetteur GPS afin de pouvoir aider les clients dans des situations d'urgence et de prévenir les vols. Les clients acceptent que le sac à dos soit suivi.",
+            "de": "<span class='bold'>11.2 </span>Ein Rucksack mit Spielmaterial wird den Gästen zu Beginn des Besuchs über den Spind zur Verfügung gestellt. Dieser Rucksack kann einen GPS-Sender enthalten, um den Gästen in Notsituationen helfen zu können und um Diebstähle zu verhindern. Die Gäste erklären sich damit einverstanden, dass der Rucksack verfolgt werden kann."
+        },
+        "#cvg_t_12": {
+            "en": "12- Commercial confidentiality",
+            "fr": "12- Confidentialité commerciale",
+            "de": "12- Geschäftsgeheimnis"
+        },
+        "#cvg_p_36": {
+            "en": "The solutions to the riddles are We-Escape's trade secrets and must not be divulged to third parties. Of course, we want every group to have the same pleasure in taking part in our tours.",
+            "fr": "Les solutions des énigmes sont le secret commercial de We-Escape et ne doivent pas être divulguées à des tiers. Nous voulons bien sûr que chaque groupe ait le même plaisir à participer à nos visites.",
+            "de": "Die Lösungen der Rätsel sind das Geschäftsgeheimnis von We-Escape und dürfen nicht an Dritte weitergegeben werden. Wir möchten natürlich, dass jede Gruppe den gleichen Spaß an unseren Touren hat."
+        },
+        "#cvg_t_13": {
+            "en": "13- Taking pictures and cameras during escape tours",
+            "fr": "13- Prise d'images/de photos et de caméras pendant la réalisation des escape tours",
+            "de": "13- Aufnahme von Bildern/Fotos und Kameras während der Durchführung von Escape Tours"
+        },
+        "#cvg_p_37": {
+            "en": "We-Escape is authorized to reproduce, distribute or arrange for the production of sound/photographic recordings and films of the customer and his/her companions within the framework of the event, in compliance with image rights, and to use or arrange for use in audiovisual media. Authorization is expressly given without any right to remuneration. The customer may inform We-Escape before the event that he/she does not wish to be recorded.",
+            "fr": "We-Escape est autorisé, dans le cadre des manifestations, à reproduire, à diffuser ou à faire réaliser des enregistrements sonores/photographiques et des films du client ainsi que de ses accompagnateurs, respectant le droit à l’image, ainsi qu'à utiliser ou à faire utiliser dans des médias audiovisuels. L'autorisation est donnée expressément en renonçant à tout droit à rémunération. Le client peut, avant la prestation, signaler à We-Escape son non-désir de se faire enregistrer.",
+            "de": "We-Escape ist berechtigt, im Rahmen der Veranstaltungen Ton-/Fotoaufnahmen und Filmaufnahmen des Kunden sowie seiner Begleitpersonen unter Wahrung des Rechts am eigenen Bild zu vervielfältigen, zu senden oder anfertigen zu lassen sowie in audiovisuellen Medien zu verwenden oder verwenden zu lassen. Die Genehmigung wird ausdrücklich unter Verzicht auf jeglichen Vergütungsanspruch erteilt. Der Kunde kann We-Escape vor der Leistung mitteilen, dass er keine Aufnahme wünscht."
+        },
+        "#cvg_t_14": {
+            "en": "14- Applicable law and jurisdiction",
+            "fr": "14- Droit applicable et juridiction compétente",
+            "de": "14- Anwendbares Recht und zuständige Gerichtsbarkeit"
+        },
+        "#cvg_p_38": {
+            "en": "Only French law is applicable. If the customer is a merchant and has its registered office in France at the time of booking, the Paris court has exclusive jurisdiction.",
+            "fr": "Seul le droit Français est applicable. Si le client est un commerçant et a son siège en France au moment de la réservation, le tribunal de Paris est seul compétent.",
+            "de": "Es gilt ausschließlich französisches Recht. Wenn der Kunde ein Gewerbetreibender ist und zum Zeitpunkt der Buchung seinen Sitz in Frankreich hat, ist das Gericht in Paris ausschließlich zuständig."
+        },
+        "#cvg_t_15": {
+            "en": "15- Invalidity of certain provisions",
+            "fr": "15- Invalidité de certaines dispositions",
+            "de": "15- Ungültigkeit einiger Bestimmungen"
+        },
+        "#cvg_p_39": {
+            "en": "The nullity of certain provisions of the general terms and conditions or of the contract does not entail the nullity of the contract as a whole.",
+            "fr": "La nullité de certaines dispositions des conditions générales ou du contrat n'entraîne pas la nullité de l'ensemble du contrat.",
+            "de": "Die Nichtigkeit einzelner Bestimmungen der Allgemeinen Geschäftsbedingungen oder des Vertrags hat nicht die Nichtigkeit des gesamten Vertrags zur Folge."
+        }
+    },
+    "PageMentLeg": {
+        ".page_title": {
+            "en": "Terms of use",
+            "fr": "Mentions légales",
+            "de": "Rechtliche Hinweise"
+        },
+        "#ment_leg_t_1": {
+            "en": "1- Editing the site",
+            "fr": "1- Edition du site",
+            "de": "1- Bearbeiten der Seite"
+        },
+        "#ment_leg_p_1": {
+            "en": "Pursuant to Article 6 of French Law no. 2004-575 of 21 June 2004 on confidence in the digital economy, users of the we-escape.fr website are informed of the identity of the various parties involved in its creation and follow-up: ",
+            "fr": "En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet we-escape.fr l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi : ",
+            "de": "Gemäß Artikel 6 des Gesetzes Nr. 2004-575 vom 21. Juni 2004 über das Vertrauen in die digitale Wirtschaft wird den Nutzern der Website we-escape.fr die Identität der verschiedenen Akteure im Rahmen der Erstellung und Betreuung der Website mitgeteilt: "
+        },
+        "#ment_leg_li_1": {
+            "en": "Site owner:",
+            "fr": "Propriétaire du site:",
+            "de": "Eigentümer der Website:"
+        },
+        "#ment_leg_li_2": {
+            "en": "Host: ",
+            "fr": "Hébergeur: ",
+            "de": "Host: "
+        },
+        "#ment_leg_p_2": {
+            "en": "We-Escape is a registered company in accordance with §27 of the German Turnover Tax Act (Turnover Tax Act) under the following identification number: DE348059564 Company registration number with the German Commercial Register: HRB 725194",
+            "fr": "We-Escape est une société inscrite au registre de la taxe sur le chiffre d’affaires conformément au §27 de la loi sur la taxe sur le chiffre d’affaire, sous le numéro d’identification suivant : DE348059564 Numéro d’immatriculation de l’entreprise auprès du registre des entreprises allemand : HRB 725194",
+            "de": "We-Escape ist ein gemäß §27 Umsatzsteuergesetz im Umsatzsteuerregister eingetragenes Unternehmen mit folgender Identifikationsnummer: DE348059564 Registrierungsnummer des Unternehmens beim deutschen Unternehmensregister: HRB 725194"
+        },
+        "#ment_leg_t_1_1": {
+            "en": "Information on professional indemnity insurance",
+            "fr": "Informations sur l'assurance responsabilité civile professionnelle",
+            "de": "Informationen zur Berufshaftpflichtversicherung"
+        },
+        "#ment_leg_li_3": {
+            "en": "Name and head office of insurer : ",
+            "fr": "Nom et siège de l'assureur : ",
+            "de": "Name und Sitz des Versicherers : "
+        },
+        "#ment_leg_li_4": {
+            "en": "General representation : ",
+            "fr": "Représentation générale : ",
+            "de": "Allgemeine Vertretung : "
+        },
+        "#ment_leg_li_5": {
+            "en": "<span class='bold'>Zone of validity of the insurance: </span>Worldwide.",
+            "fr": "<span class='bold'>Zone de validité de l'assurance : </span>Dans le monde entier",
+            "de": "<span class='bold'>Gültigkeitsbereich der Versicherung: </span>Weltweit"
+        },
+        "#ment_leg_li_6": {
+            "en": "Managing editor : ",
+            "fr": "Responsable de rédaction : ",
+            "de": "Verantwortlich für die Redaktion : "
+        },
+        "#ment_leg_t_2": {
+            "en": "2- Intellectual property and counterfeiting",
+            "fr": "2- Propriété intellectuelle et contrefaçons",
+            "de": "2- Geistiges Eigentum und Fälschungen"
+        },
+        "#ment_leg_p_3": {
+            "en": "We-Escape is the owner of the intellectual property rights and holds the rights of use on all the elements accessible on the website, in particular the texts, images, graphics, logos, videos, architecture, icons and sounds.",
+            "fr": "We-Escape est propriétaire des droits de propriété intellectuelle et détient les droits d’usage sur tous les éléments accessibles sur le site internet, notamment les textes, images, graphismes, logos, vidéos, architecture, icônes et sons.",
+            "de": "We-Escape ist Eigentümer der Rechte am geistigen Eigentum und besitzt die Nutzungsrechte für alle auf der Website zugänglichen Elemente, insbesondere für Texte, Bilder, Grafiken, Logos, Videos, Architektur, Icons und Sounds."
+        },
+        "#ment_leg_p_4": {
+            "en": "Any reproduction, representation, modification, publication or adaptation of all or part of the elements of the site, whatever the means or process used, is prohibited without the prior written authorisation of We-Escape.",
+            "fr": "Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de We-Escape.",
+            "de": "Jede Reproduktion, Darstellung, Änderung, Veröffentlichung und Anpassung aller oder eines Teils der Elemente der Website, unabhängig von den verwendeten Mitteln oder Verfahren, ist ohne vorherige schriftliche Genehmigung von We-Escape untersagt."
+        },
+        "#ment_leg_p_5": {
+            "en": "Any unauthorised use of the site or of any of the elements it contains will be considered as constituting an infringement and will be prosecuted in accordance with the provisions of articles L.335-2 et seq. of the French Intellectual Property Code.",
+            "fr": "Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie conformément aux dispositions des articles L.335-2 et suivants du Code de Propriété Intellectuelle.            ",
+            "de": "Jede nicht genehmigte Nutzung der Website oder eines ihrer Elemente wird als Fälschung angesehen und gemäß den Bestimmungen der Artikel L.335-2 ff. des französischen Gesetzbuchs über geistiges Eigentum (Code de Propriété Intellectuelle) verfolgt."
+        },
+        "#ment_leg_p_6": {
+            "en": "The we-escape.fr domain name is protected and registered with AFNIC. In accordance with article L45-1 of the French Electronic Communications Code, a domain name is allocated to the first applicant. A domain name may conflict with intellectual property rights such as trademark law, copyright or the protection of a family name. In such cases, the action must be brought before the Tribunal de Grande Instance. If a domain name has already been allocated, it cannot be the subject of a new application for registration. Registering a domain name may also constitute an act of unfair competition such as parasitism. In this case, the Commercial Court has jurisdiction.",
+            "fr": "Le nom de domaine we-escape.fr est protégé et enregistré auprès de l’AFNIC. Selon l’article L45-1 du code des communications électroniques, un nom de domaine est attribué au premier demandeur. Un nom de domaine peut entrer en conflit avec des droits issus de la propriété intellectuelle tels que le droit des marques, le droit d’auteur, ou encore la protection du nom patronymique. L’action doit alors être portée devant le Tribunal de grande instance. Ainsi, lorsqu'un nom de domaine a déjà été attribué, il ne peut faire l’objet d’une nouvelle demande d’enregistrement. Le dépôt d’un nom de domaine peut aussi constituer un acte de concurrence déloyale tel que le parasitisme. Dans ce cas, c’est le tribunal de commerce qui est compétent.",
+            "de": "Der Domainname we-escape.fr ist geschützt und bei der AFNIC registriert. Gemäß Artikel L45-1 des französischen Gesetzbuchs für elektronische Kommunikation wird ein Domainname dem ersten Antragsteller zugeteilt. Ein Domainname kann mit Rechten des geistigen Eigentums wie dem Markenrecht, dem Urheberrecht oder dem Schutz des Familiennamens kollidieren. Die Klage muss dann vor dem Tribunal de grande instance erhoben werden. Wenn ein Domainname bereits zugeteilt wurde, kann er nicht erneut angemeldet werden. Die Anmeldung eines Domainnamens kann auch eine Handlung des unlauteren Wettbewerbs wie Trittbrettfahren darstellen. In diesem Fall ist das Handelsgericht zuständig."
+        },
+        "#ment_leg_p_7": {
+            "en": "<span class='bold'> 2.2 </span>In the event of a domain name dispute, several penalties may be incurred:",
+            "fr": "<span class='bold'> 2.2 </span>En cas de litige de nom de domaine, plusieurs sanctions peuvent être encourues:",
+            "de": "<span class='bold'> 2.2 </span>Im Falle eines Domainnamensstreits können verschiedene Sanktionen drohen:"
+        },
+        "#ment_leg_li_7": {
+            "en": "The amicable procedure only allows a domain name to be recovered or deleted.",
+            "fr": "La procédure amiable permet uniquement de récupérer un nom de domaine ou d’en obtenir la suppression.",
+            "de": "Das außergerichtliche Verfahren ermöglicht lediglich die Wiedererlangung eines Domainnamens oder dessen Löschung."
+        },
+        "#ment_leg_li_8": {
+            "en": "The legal proceedings also enable you to obtain damages to compensate for the harm you have suffered. The judge may also order the publication of the decision in one or more newspapers in order to restore your reputation.",
+            "fr": "La procédure judiciaire permet au surplus d’obtenir des dommages et intérêts en réparation de votre préjudice. Le juge peut aussi ordonner la publication de la décision dans un ou plusieurs journaux afin de rétablir votre réputation.",
+            "de": "Das Gerichtsverfahren ermöglicht es dem Überlegenden, Schadenersatz als Wiedergutmachung für Ihren Schaden zu erhalten. Der Richter kann auch die Veröffentlichung des Urteils in einer oder mehreren Zeitungen anordnen, um Ihren Ruf wiederherzustellen."
+        },
+        "#ment_leg_t_3": {
+            "en": "3- Limitations of liability ",
+            "fr": "3- Limitations de responsabilités ",
+            "de": "3- Haftungsbeschränkungen "
+        },
+        "#ment_leg_p_8": {
+            "en": "We-Escape is not liable for any direct or indirect damage to the user's hardware caused by accessing the we-escape.de website. We-Escape accepts no responsibility for the use of the information and content on we-escape.fr. We-Escape undertakes to secure the we-escape.de website as well as possible.",
+            "fr": "We-Escape ne pourra être tenu pour responsable des dommages directs et indirects causés au matériel de l’utilisateur, lors de l’accès au site we-escape.fr . We-Escape décline toute responsabilité quant à l’utilisation qui pourrait être faite des informations et contenus présents sur we-escape.fr. We-Escape s’engage à sécuriser au mieux le site we-escape.fr.",
+            "de": "We-Escape haftet nicht für direkte oder indirekte Schäden an der Hardware des Nutzers, die beim Zugriff auf die Website we-escape.de entstehen. We-Escape übernimmt keine Verantwortung für die Nutzung der Informationen und Inhalte auf we-escape.fr. We-Escape verpflichtet sich, die Website we-escape.de so gut wie möglich zu sichern."
+        },
+        "#ment_leg_p_9": {
+            "en": "However, it cannot be held responsible if unwanted data is imported and installed on its site without its knowledge. Interactive areas (contact or comment spaces) are available to users. We-Escape reserves the right to delete, without prior notice, any content posted in this area that contravenes legislation applicable in France, in particular provisions relating to data protection. ",
+            "fr": "Cependant sa responsabilité ne pourra être mise en cause si des données indésirables sont importées et installées sur son site à son insu. Des espaces interactifs (espace contact ou commentaires) sont à la disposition des utilisateurs. We-Escape se réserve le droit de supprimer, sans mise en demeure préalable, tout contenu déposé dans cet espace qui contreviendrait à la législation applicable en France, en particulier aux dispositions relatives à la protection des données. ",
+            "de": "Er kann jedoch nicht haftbar gemacht werden, wenn ohne sein Wissen unerwünschte Daten auf seine Seite importiert und installiert werden. Interaktive Bereiche (Kontakt- oder Kommentarbereich) stehen den Nutzern zur Verfügung. We-Escape behält sich das Recht vor, ohne vorherige Mahnung alle in diesem Bereich abgelegten Inhalte zu löschen, die gegen die in Frankreich geltenden Gesetze und insbesondere gegen die Bestimmungen zum Datenschutz verstoßen. "
+        },
+        "#ment_leg_p_10": {
+            "en": "Where applicable, We-Escape also reserves the right to hold the user civilly and/or criminally liable, particularly in the event of messages of a racist, insulting, defamatory or pornographic nature, whatever the medium used (text, photographs, etc.).",
+            "fr": "Le cas échéant, We-Escape se réserve également la possibilité de mettre en cause la responsabilité civile et/ou pénale de l’utilisateur, notamment en cas de message à caractère raciste, injurieux, diffamant, ou pornographique, quel que soit le support utilisé (texte, photographie …).",
+            "de": "Gegebenenfalls behält sich We-Escape auch die Möglichkeit vor, den Nutzer zivil- und/oder strafrechtlich haftbar zu machen, insbesondere bei rassistischen, beleidigenden, diffamierenden oder pornografischen Mitteilungen, unabhängig von den verwendeten Medien (Text, Fotografie ...)."
+        },
+        "#ment_leg_p_11": {
+            "en": "The We-Escape website contains links to external third-party websites, the content of which We-Escape has no influence over. We-Escape cannot therefore accept any liability for the content of these external websites. The provider or operator of the linked pages is always responsible for their content. The linked pages were checked for legal infringements at the time the link was created. No illegal content was identified at the time the link was created.",
+            "fr": "L'offre de We-Escape contient des liens vers des sites web externes de tiers, sur le contenu desquels We-Escape n'a aucune influence. Ainsi, We-Escape ne peut pas non plus se porter garants de ces contenus externes. Le fournisseur ou l'exploitant des pages liées est toujours responsable des contenus de ces pages. Les pages liées ont été contrôlées au moment de la création du lien afin de vérifier qu'elles ne présentaient pas d'infraction à la loi. Aucun contenu illégal n'a été identifié au moment de la création du lien.",
+            "de": "Das Angebot von We-Escape enthält Links zu externen Webseiten Dritter, auf deren Inhalte We-Escape keinen Einfluss hat. Deshalb kann We-Escape für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar."
+        },
+        "#ment_leg_p_12": {
+            "en": "However, it is not possible to monitor the content of linked pages on an ongoing basis without concrete evidence of a breach of the law. As soon as We-Escape becomes aware of a breach of the law, the links in question will be removed.",
+            "fr": "Un contrôle permanent du contenu des pages liées n'est toutefois pas exigible sans indices concrets d'une violation de la loi. Aussitôt que We-Escape aura connaissance d'une violation de la loi, les liens concernés seront supprimés.",
+            "de": "Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Sobald We-Escape von einer Rechtsverletzung Kenntnis erlangt, werden die entsprechenden Links entfernt."
+        },
+        "#ment_leg_t_4": {
+            "en": "4- Applicable law and jurisdiction",
+            "fr": "4- Droit applicable et attribution de juridiction",
+            "de": "4- Anwendbares Recht und Gerichtsstand"
+        },
+        "#ment_leg_t_4_1": {
+            "en": "Within the EU : ",
+            "fr": "Au sein de l’UE : ",
+            "de": "Innerhalb der EU : "
+        },
+        "#ment_leg_p_13": {
+            "en": "The European Commission provides a platform for online dispute resolution (OS): <a href='https://ec.europa.eu/consumers/odr/' target='_blank' class='link'>https://ec.europa.eu/consumers/odr/.</a> You will find our e-mail address in the legal notice above.",
+            "fr": "La Commission européenne met à disposition une plateforme pour le règlement en ligne des litiges (OS) : <a href='https://ec.europa.eu/consumers/odr/' target='_blank' class='link'>https://ec.europa.eu/consumers/odr/.</a> Vous trouverez notre adresse e-mail dans les mentions légales ci-dessus.",
+            "de": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href='https://ec.europa.eu/consumers/odr/' target='_blank' class='link'>https://ec.europa.eu/consumers/odr/.</a> Unsere E-Mail-Adresse finden Sie oben im Impressum."
+        },
+        "#ment_leg_p_14": {
+            "en": "Any dispute relating to the use of the we-escape.fr website is subject to French law. Except in cases where the law does not allow it, exclusive jurisdiction is given to the competent courts of Paris.",
+            "fr": "Tout litige en relation avec l’utilisation du site we-escape.fr est soumis au droit français. En dehors des cas où la loi ne le permet pas, il est fait attribution exclusive de juridiction aux tribunaux compétents de Paris.",
+            "de": "Alle Streitigkeiten im Zusammenhang mit der Nutzung der Website we-escape.fr unterliegen dem französischen Recht. Außer in Fällen, in denen dies gesetzlich nicht zulässig ist, wird die ausschließliche Zuständigkeit den zuständigen Gerichten in Paris zugewiesen."
+        }
+    },
+    "PagePackage": {
+        ".Tpack": {
+            "en": "Please Select a Price",
+            "fr": "Veuillez s\u00e9lectionner un prix",
+            "de": "Bitte w\u00e4hlen Sie einen Preis"
+        },
+        "#desc_title": {
+            "en": "Description",
+            "fr": "Description",
+            "de": "Beschreibung"
+        },
+        "#possib_occasions": {
+            "en": "Possible Occasions",
+            "fr": "Les occasions possibles",
+            "de": "M\u00f6gliche Anl\u00e4sse"
+        },
+        "#occasions": {
+            "en": "Birthday, wedding, Easter, Christmas, Mother's Day, Father's Day (we have developed a different design for each occasion)",
+            "fr": "Anniversaire, mariage, P\u00e2ques, No\u00ebl, f\u00eate des m\u00e8res, f\u00eate des p\u00e8res (nous avons d\u00e9velopp\u00e9 un design pour chaque occasion)",
+            "de": "Geburtstag, Hochzeit, Ostern, Weihnachten, Muttertag, Vatertag (wir haben f\u00fcr jeden Anlass ein eigenes Design entwickelt)"
+        },
+        "#details_title": {
+            "en": "Details",
+            "fr": "D\u00e9tails",
+            "de": "Details"
+        },
+        "#price": {
+            "en": "Price:",
+            "fr": "Prix :",
+            "de": "Preis:"
+        },
+        "#dt": {
+            "en": "Delivery Time:",
+            "fr": "D\u00e9lai de livraison :",
+            "de": "Lieferzeiten:"
+        },
+        "#days": {
+            "en": "days",
+            "fr": "jours",
+            "de": "tage"
+        },
+        "#size": {
+            "en": "Size:",
+            "fr": "Taille :",
+            "de": "Gr\u00f6\u00dfe:"
+        },
+        "#link_buy": {
+            "en": "BUY",
+            "fr": "ACHETER",
+            "de": "BUY"
+        }
+    },
+    "PageContact": {
+        "contenu": {
+            ".texte1": {
+                "en": "YOUR ADVENTURE WAITS",
+                "fr": "L'AVENTURE VOUS ATTEND",
+                "de": "DEIN ABENTEUER WARTET"
+            },
+            ".texte2": {
+                "en": "We look forward to your inquiry and will be happy to support you.",
+                "fr": "Nous nous réjouissons de votre demande et nous nous ferons un plaisir de vous aider.",
+                "de": "Wir freuen uns auf deine Anfrage und unterst\u00fctzen dich gern."
+            },
+            ".texte3": {
+                "en": "Adventure. Ready. Go!",
+                "fr": "Aventure. Pr\u00eat. Partez !",
+                "de": "Abenteuer. Ready. Go!"
+            },
+            ".texte4": {
+                "en": "Maybe your question has already been answered in our FAQs...",
+                "fr": "Votre question a peut-\u00eatre d\u00e9j\u00e0 \u00e9t\u00e9 trait\u00e9e dans nos FAQ...",
+                "de": "Vielleicht ist Deine Frage schon in unseren FAQs beantwortet\u2026"
+            },
+            ".texte5": {
+                "en": "CHECK IT OUT",
+                "fr": "V\u00c9RIFIER",
+                "de": "NACHSCHAUEN"
+            },
+            ".select1": {
+                "en": "Question about \"In Vino Veritas Kaiserstuhl\"",
+                "fr": "Question \u00e0 propos de \"In Vino Veritas Kaiserstuhl\"",
+                "de": "Frage zu \"In Vino Veritas Kaiserstuhl\""
+            },
+            ".select2": {
+                "en": "Question about \"Fluch der 9 Linden Kaiserstuhl\"",
+                "fr": "Question \u00e0 propos de \"Fluch der 9 Linden Kaiserstuhl\"",
+                "de": "Frage zu \"Fluch der 9 Linden Kaiserstuhl\""
+            },
+            ".select3": {
+                "en": "Question about \"In Cantata Vinum Kaiserstuhl\"",
+                "fr": "Question \u00e0 propos de \"In Cantata Vinum Kaiserstuhl\"",
+                "de": "Frage zu \"In Cantata Vinum Kaiserstuhl\""
+            },
+            ".select4": {
+                "en": "Question about \"Buch der 7 Siegel Kaiserstuhl\"",
+                "fr": "Question \u00e0 propos de \"Buch der 7 Siegel Kaiserstuhl\"",
+                "de": "Frage zu \"Buch der 7 Siegel Kaiserstuhl\""
+            },
+            ".select5": {
+                "en": "General inquiry at Kaiserstuhl",
+                "fr": "Demande g\u00e9n\u00e9rale pour Kaiserstuhl",
+                "de": "Allgemeine Anfrage am Kaiserstuhl"
+            },
+            ".texte8": {
+                "en": "Please select",
+                "fr": "S\u00e9lectionnez",
+                "de": "Bitte ausw\u00e4hlen"
+            },
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "ENVOYER",
+                "de": "ABSENDEN"
+            }
+        },
+        "placeholder": {
+            "nom": {
+                "en": "Surname",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "mail": {
+                "en": "E-mail adress",
+                "fr": "Adresse e-mail",
+                "de": "E-mail adresse"
+            },
+            "phone": {
+                "en": "Telephone number",
+                "fr": "Num\u00e9ro de t\u00e9l\u00e9phone",
+                "de": "Telefonnummer"
+            },
+            "text_mail": {
+                "en": "News",
+                "fr": "Message",
+                "de": "Nachricht"
+            }
+        }
+    },
+    "PagePaiement": {
+        "Info": {
+            ".texte11del": {
+                "en": "next",
+                "fr": "suivant",
+                "de": "nächste"
+            },
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "Einreichen"
+            },
+            ".texte113": {
+                "en": "Pay?",
+                "fr": "Payer ?",
+                "de": "Bezahlen?"
+            },
+            ".book_title": {
+                "en": "Payement Page",
+                "fr": "Page de paiement",
+                "de": "Zahlungsseite"
+            },
+            "#cart": {
+                "en": "Cart",
+                "fr": "Chariot",
+                "de": "Wagen"
+            },
+            "#prod": {
+                "en": "Products",
+                "fr": "Produits",
+                "de": "Produkte"
+            },
+            "#person": {
+                "en": "person",
+                "fr": "personne",
+                "de": "Person"
+            },
+            "#for": {
+                "en": "For",
+                "fr": "Pour",
+                "de": "Für"
+            },
+            "#foragroup": {
+                "en": "For a group of ",
+                "fr": "Pour un groupe de ",
+                "de": "Für eine Gruppe von "
+            },
+            "#people": {
+                "en": " people ",
+                "fr": " personnes ",
+                "de": " Personen "
+            },
+            "#foragroupofmore": {
+                "en": " For a group of more than 12 people ",
+                "fr": " Pour un groupe de plus de 12 personnes ",
+                "de": " Für eine Gruppe von mehr als 12 Personen  "
+            },
+            "#subtotal": {
+                "en": "Subtotal",
+                "fr": "Sous-total",
+                "de": "Zwischensumme"
+            },
+            "#prvv": {
+                "en": "To make a reservation, please log in:",
+                "fr": "Pour reserver veuillez vous connectez :",
+                "de": "Um zu buchen, loggen Sie sich bitte ein:"
+            },
+            "#signin": {
+                "en": "Sign In",
+                "fr": "Se connecter",
+                "de": "Eintragen"
+            },
+            "#pasCompte": {
+                "en": "Don't have an account yet? Sign up now!",
+                "fr": "Vous n'avez pas encore de compte ? Inscrivez vous !",
+                "de": "Sie haben noch kein Konto? Melden Sie sich an!"
+            },
+            "#signup": {
+                "en": "Sign Up",
+                "fr": "S'inscrire",
+                "de": "Anmeldung"
+            },
+            "#pay_det": {
+                "en": "Enter your payement details",
+                "fr": "Saisissez les détails de votre paiement",
+                "de": "Geben Sie Ihre Zahlungsdaten ein"
+            },
+            "#pay_q": {
+                "en": "Do you want to pay?",
+                "fr": "Voulez-vous payer ?",
+                "de": "Willst du bezahlen?"
+            },
+            "#pay_exp": {
+                "en": "By pressing the button below, you will accept our <a href='index.php?action=cgv' class='link' target='_blank'>Terms and conditions of sale</a>.<br>Please make sure you have filled the elements of the form correctly. You will also be able to cancel your booking at any time. If you have any questions about the escape games, please check out our <a href='index.php?action=contact' class='link' target='_blank'>contact form</a> and our <a href='index.php?action=FAQ' class='link' target='_blank'>FAQ</a> ",
+                "fr": "En cliquant sur le bouton ci-dessous, vous acceptez notre <a href='index.php?action=cgv' class='link' target='_blank'>Conditions générales de vente</a>.<br>Veillez à remplir correctement les éléments du formulaire. Vous pourrez également annuler votre réservation à tout moment. Si vous avez des questions sur les jeux d'évasion, veuillez consulter notre rubrique <a href='index.php?action=contact' class='link' target='_blank'>formulaire de contact</a> et notre <a href='index.php?action=FAQ' class='link' target='_blank'>FAQ</a> ",
+                "de": "Indem Sie auf die Schaltfläche unten klicken, akzeptieren Sie unsere <a href='index.php?action=cgv' class='link' target='_blank'>Verkaufsbedingungen</a>.<br>Bitte vergewissern Sie sich, dass Sie die Elemente des Formulars korrekt ausgefüllt haben. Sie können Ihre Buchung auch jederzeit stornieren. Wenn Sie Fragen zu den Escape Games haben, besuchen Sie bitte unsere <a href='index.php?action=contact' class='link' target='_blank'>Kontakt-Formular</a> und unser <a href='index.php?action=FAQ' class='link' target='_blank'>FAQ</a> "
+            }
+        },
+        "placeholder": {
+            "name": {
+                "en": "Surname",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "firstName": {
+                "en": "First Name",
+                "fr": "Prénom",
+                "de": "Vorname"
+            },
+            "mail": {
+                "en": "E-mail adress",
+                "fr": "Adresse e-mail",
+                "de": "E-mail adresse"
+            },
+            "mdpCheck": {
+                "en": "Confirm your password",
+                "fr": "Confirmez votre mot de passe",
+                "de": "Bestätigen Sie Ihr Passwort"
+            },
+            "mdp": {
+                "en": "Password",
+                "fr": "Mot de passe",
+                "de": "Passwort"
+            },
+            "numCard": {
+                "en": "Card number",
+                "fr": "Numéro de la carte",
+                "de": "Kartennummer"
+            },
+            "streetAdress": {
+                "en": "Street Adress",
+                "fr": "Adresse postale",
+                "de": "Straße Adresse"
+            },
+            "appartement": {
+                "en": "Appartement,Suite,Unit (optional)",
+                "fr": "Appartement,Suite,Unité (facultatif)",
+                "de": "Appartement,Suite,Einheit (optional)"
+            },
+            "country": {
+                "en": "Country",
+                "fr": "Pays",
+                "de": "Land"
+            },
+            "city": {
+                "en": "City",
+                "fr": "Ville",
+                "de": "Stadt"
+            },
+            "state": {
+                "en": "State",
+                "fr": "État",
+                "de": "Staat"
+            }
+        }
+    },
+    "PageCadeauxAdmin": {
+        ".page_title": {
+            "en": "PACKAGES",
+            "fr": "PACKAGES",
+            "de": "PAKETE"
+        },
+        ".edit": {
+            "en": "✎ Edit",
+            "fr": "✎ Éditer",
+            "de": "✎ Bearbeiten"
+        },
+        ".AddP": {
+            "en": "✚  Add Package",
+            "fr": "✚  Ajouter un paquet",
+            "de": "✚  Paket hinzufügen"
+        },
+        ".PacL": {
+            "en": "Package List",
+            "fr": "Liste des cadeaux",
+            "de": "Liste der Pakete"
+        }
+    },
+    "PageAventuresAdmin": {
+        ".edit": {
+            "en": "✎ Edit",
+            "fr": "✎ Éditer",
+            "de": "✎ Bearbeiten"
+        },
+        ".AddP": {
+            "en": "✚  Add Adventure",
+            "fr": "✚  Ajouter une Aventure",
+            "de": "✚  Abenteuer hinzufügen"
+        },
+        ".AdvcL": {
+            "en": "Adventure List",
+            "fr": "Liste des aventures",
+            "de": "Abenteuer-Liste"
+        },
+        ".button": {
+            "en": "✚ Add Adventure",
+            "fr": "✚ Ajouter une Aventure",
+            "de": "✚ Abenteuer hinzufügen"
+        }
+    },
+    "PageAventureAdmin": {
+        "Info": {
+            ".texte11del": {
+                "en": "DELETE",
+                "fr": "SUPPRIMER",
+                "de": "LÖSCHEN"
+            },
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "Einreichen"
+            },
+            ".page_title": {
+                "en": "ADMIN ADVENTURE",
+                "fr": "AVENTURE ADMIN",
+                "de": "ADMIN-ABENTEUER"
+            },
+            ".phoEx": {
+                "en": "Existing photos :",
+                "fr": "Photos existantes :",
+                "de": "Vorhandene Fotos :"
+            },
+            "#nouvelle_photo_profil": {
+                "en": "New profile photo",
+                "fr": "Nouvelle photo de profil",
+                "de": "Neues Profilbild"
+            },
+            "#nouvelles_photos": {
+                "en": "New photos to be added",
+                "fr": "Nouvelles photos à ajouter",
+                "de": "Neue Fotos zum Hinzufügen"
+            },
+            "#infoLangues": {
+                "en": "INFO LANGUAGES",
+                "fr": "INFO LANGUES",
+                "de": "INFO SPRACHEN"
+            },
+            "#puzzleDificult": {
+                "en": "Puzzle difficulty",
+                "fr": "Difficulté du puzzle",
+                "de": "Rätsel Dificult"
+            },
+            "#walkDificult": {
+                "en": "Walk difficulty",
+                "fr": "Difficulté de marche",
+                "de": "Gehen Schwierig"
+            },
+            "#parking": {
+                "en": "PARKING",
+                "fr": "PARKING",
+                "de": "PARKEN"
+            },
+            "#accebilite": {
+                "en": "ACCESSIBILITY",
+                "fr": "ACCESSIBILITE",
+                "de": "ZULASSUNG"
+            },
+            "#leTitre": {
+                "en": "Existing photos:",
+                "fr": "Photos existantes :",
+                "de": "Vorhandene Fotos:"
+            }
+        },
+        "placeholder": {
+            "nom": {
+                "en": "Name",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "detailEN": {
+                "en": "Detail in English",
+                "fr": "Détail en anglais",
+                "de": "Detail auf Englisch"
+            },
+            "detailFR": {
+                "en": "French Detail",
+                "fr": "Détail en français",
+                "de": "Detail auf Französisch"
+            },
+            "detailDE": {
+                "en": "Detail in German",
+                "fr": "Détail en allemand",
+                "de": "Detail auf Deutsch"
+            },
+            "histoireEN": {
+                "en": "Story in English",
+                "fr": "Histoire en anglais",
+                "de": "Geschichte auf Englisch"
+            },
+            "histoireFR": {
+                "en": "French Story",
+                "fr": "Histoire en français",
+                "de": "Geschichte auf Französisch"
+            },
+            "histoireDE": {
+                "en": "Story in German",
+                "fr": "Histoire en allemand",
+                "de": "Geschichte auf Deutsch"
+            },
+            "descriptionEN": {
+                "en": "Description in English",
+                "fr": "Description en anglais",
+                "de": "Beschreibung auf Englisch"
+            },
+            "descriptionFR": {
+                "en": "French description",
+                "fr": "Description en français",
+                "de": "Beschreibung auf Französisch"
+            },
+            "descriptionDE": {
+                "en": "Description in German",
+                "fr": "Description en allemand",
+                "de": "Beschreibung auf Deutsch"
+            },
+            "emporterEN": {
+                "en": "Take away in English",
+                "fr": "A emporter en anglais",
+                "de": "Zum Mitnehmen auf Englisch"
+            },
+            "emporterFR": {
+                "en": "French Take away",
+                "fr": "A emporter en français",
+                "de": "Zum Mitnehmen auf Französisch"
+            },
+            "emporterDE": {
+                "en": "Take away in German",
+                "fr": "A emporter en allemand",
+                "de": "Zum Mitnehmen auf Deutsch"
+            },
+            "importantEN": {
+                "en": "Important information in English",
+                "fr": "Information important en anglais",
+                "de": "Wichtige Informationen auf Englisch"
+            },
+            "importantFR": {
+                "en": "Important information in French",
+                "fr": "Information important en français",
+                "de": "Wichtige Informationen auf Französisch"
+            },
+            "importantDE": {
+                "en": "Important information in German",
+                "fr": "Information important en allemand",
+                "de": "Wichtige Informationen auf Deutsch"
+            },
+            "cibleEN": {
+                "en": "The target group in English",
+                "fr": "Le groupe cible en anglais",
+                "de": "Die Zielgruppe auf Englisch"
+            },
+            "cibleFR": {
+                "en": "The target group in French",
+                "fr": "Le groupe cible en français",
+                "de": "Die Zielgruppe auf Französisch"
+            },
+            "cibleDE": {
+                "en": "The target group in German",
+                "fr": "Le groupe cible en allemand",
+                "de": "Die Zielgruppe auf Deutsch"
+            },
+            "trainBusEN": {
+                "en": "Train/bus station in English",
+                "fr": "Station de train/bus en anglais",
+                "de": "Zug-/Busbahnhof auf Englisch"
+            },
+            "trainBusFR": {
+                "en": "Train/bus station in French",
+                "fr": "Station de train/bus en français",
+                "de": "Zug-/Busbahnhof auf Französisch"
+            },
+            "trainBusDE": {
+                "en": "Train/bus station in German",
+                "fr": "Station de train/bus en allemand",
+                "de": "Zug-/Busbahnhof auf Deutsch"
+            },
+            "latitude": {
+                "en": "latitude",
+                "fr": "latitude",
+                "de": "Breitengrad"
+            },
+            "longitude": {
+                "en": "longitude",
+                "fr": "longitude",
+                "de": "Längengrad"
+            },
+            "localisation": {
+                "en": "Location",
+                "fr": "Localisation",
+                "de": "Standort"
+            },
+            "adresse": {
+                "en": "Address",
+                "fr": "Adresse",
+                "de": "Adresse"
+            },
+            "duree": {
+                "en": "Duration",
+                "fr": "Duree",
+                "de": "Dauer"
+            },
+            "linkYTB": {
+                "en": "Link to youtube video",
+                "fr": "Lien de la vidéo youtube",
+                "de": "Link zum youtube-Video"
+            },
+            "prix": {
+                "en": "Price",
+                "fr": "Prix",
+                "de": "Preis"
+            }
+        }
+    },
+    "PageAddPackageAdmin": {
+        "Info": {
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "Einreichen"
+            },
+            ".page_title": {
+                "en": "Add PACKAGE",
+                "fr": "Ajouter un PACKAGE",
+                "de": "PAKET hinzufügen"
+            },
+            "#nouvelle_photo_profil": {
+                "en": "New profile photo",
+                "fr": "Nouvelle photo de profil",
+                "de": "Neues Profilbild"
+            },
+            "#nouvelles_photos": {
+                "en": "New photos to be added",
+                "fr": "Nouvelles photos à ajouter",
+                "de": "Neue Fotos zum Hinzufügen"
+            }
+        },
+        "placeholder": {
+            "nom": {
+                "en": "Name",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "descriptionEN": {
+                "en": "Description in English",
+                "fr": "Description en anglais",
+                "de": "Beschreibung auf Englisch"
+            },
+            "descriptionFR": {
+                "en": "French description",
+                "fr": "Description en français",
+                "de": "Beschreibung auf Französisch"
+            },
+            "descriptionDE": {
+                "en": "Description in German",
+                "fr": "Description en allemand",
+                "de": "Beschreibung auf Deutsch"
+            },
+            "hauteur": {
+                "en": "height (in cm)",
+                "fr": "hauteur (en cm)",
+                "de": "Höhe (in cm)"
+            },
+            "largeur": {
+                "en": "width (in cm)",
+                "fr": "largeur (en cm)",
+                "de": "Breite (in cm)"
+            },
+            "prix": {
+                "en": "Price",
+                "fr": "Prix",
+                "de": "Preis"
+            },
+            "temps_livré": {
+                "en": "Delivery time (in days)",
+                "fr": "Temps de livraison (En jours)",
+                "de": "Lieferzeit (In Tagen)"
+            }
+        }
+    },
+    "PagePackageAdmin": {
+        "Info": {
+            ".texte11del": {
+                "en": "DELETE",
+                "fr": "SUPPRIMER",
+                "de": "LÖSCHEN"
+            },
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "EINREICHEN"
+            },
+            ".page_title": {
+                "en": "PACKAGE ADMIN",
+                "fr": "CADEAU ADMIN",
+                "de": "PAKET ADMIN"
+            },
+            "#nouvelle_photo_profil": {
+                "en": "New profile photo",
+                "fr": "Nouvelle photo de profil",
+                "de": "Neues Profilbild"
+            },
+            "#nouvelles_photos": {
+                "en": "Neue Fotos zum Hinzufügen",
+                "fr": "Nouvelles photos à ajouter",
+                "de": "New photos to be added"
+            },
+            "#leTitre": {
+                "en": "Existing photos :",
+                "fr": "Photos existantes :",
+                "de": "Vorhandene Fotos :"
+            }
+        },
+        "placeholder": {
+            "nom": {
+                "en": "Name",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "descriptionEN": {
+                "en": "Description in English",
+                "fr": "Description en anglais",
+                "de": "Beschreibung auf Englisch"
+            },
+            "descriptionFR": {
+                "en": "French description",
+                "fr": "Description en français",
+                "de": "Beschreibung auf Französisch"
+            },
+            "descriptionDE": {
+                "en": "Description in German",
+                "fr": "Description en allemand",
+                "de": "Beschreibung auf Deutsch"
+            },
+            "hauteur": {
+                "en": "height (in cm)",
+                "fr": "hauteur (en cm)",
+                "de": "Höhe (in cm)"
+            },
+            "largeur": {
+                "en": "width (in cm)",
+                "fr": "largeur (en cm)",
+                "de": "Breite (in cm)"
+            },
+            "prix": {
+                "en": "Price",
+                "fr": "Prix",
+                "de": "Preis"
+            },
+            "temps_livré": {
+                "en": "Delivery time (in days)",
+                "fr": "Temps de livraison (En jours)",
+                "de": "Lieferzeit (In Tagen)"
+            }
+        }
+    },
+    "PageAddAventureAdmin": {
+        "Info": {
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "Einreichen"
+            },
+            ".page_title": {
+                "en": "Add aventure",
+                "fr": "Ajouter une aventure",
+                "de": "Aventure hinzufügen"
+            },
+            "#nouvelle_photo_profil": {
+                "en": "New profile photo",
+                "fr": "Nouvelle photo de profil",
+                "de": "Neues Profilbild"
+            },
+            "#nouvelles_photos": {
+                "en": "Neue Fotos zum Hinzufügen",
+                "fr": "Nouvelles photos à ajouter",
+                "de": "New photos to be added"
+            },
+            "#infoLangues": {
+                "en": "INFO LANGUAGES",
+                "fr": "INFO LANGUES",
+                "de": "INFO SPRACHEN"
+            },
+            "#puzzleDificult": {
+                "en": "Dificult puzzle",
+                "fr": "Difficulté du puzzle",
+                "de": "Rätsel Dificult"
+            },
+            "#walkDificult": {
+                "en": "Walk Dificult",
+                "fr": "Difficulté de marche",
+                "de": "Gehen Schwierig"
+            },
+            "#parking": {
+                "en": "PARKING",
+                "fr": "PARKING",
+                "de": "PARKEN"
+            },
+            "#accebilite": {
+                "en": "ACCESSIBILITY",
+                "fr": "ACCESSIBILITE",
+                "de": "ZULASSUNG"
+            }
+        },
+        "placeholder": {
+            "nom": {
+                "en": "Name",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "detailEN": {
+                "en": "Detail in English",
+                "fr": "Détail en anglais",
+                "de": "Detail auf Englisch"
+            },
+            "detailFR": {
+                "en": "French Detail",
+                "fr": "Détail en français",
+                "de": "Detail auf Französisch"
+            },
+            "detailDE": {
+                "en": "Detail in German",
+                "fr": "Détail en allemand",
+                "de": "Detail auf Deutsch"
+            },
+            "histoireEN": {
+                "en": "Story in English",
+                "fr": "Histoire en anglais",
+                "de": "Geschichte auf Englisch"
+            },
+            "histoireFR": {
+                "en": "French Story",
+                "fr": "Histoire en français",
+                "de": "Geschichte auf Französisch"
+            },
+            "histoireDE": {
+                "en": "Story in German",
+                "fr": "Histoire en allemand",
+                "de": "Geschichte auf Deutsch"
+            },
+            "descriptionEN": {
+                "en": "Description in English",
+                "fr": "Description en anglais",
+                "de": "Beschreibung auf Englisch"
+            },
+            "descriptionFR": {
+                "en": "French description",
+                "fr": "Description en français",
+                "de": "Beschreibung auf Französisch"
+            },
+            "descriptionDE": {
+                "en": "Description in German",
+                "fr": "Description en allemand",
+                "de": "Beschreibung auf Deutsch"
+            },
+            "emporterEN": {
+                "en": "Take away in English",
+                "fr": "A emporter en anglais",
+                "de": "Zum Mitnehmen auf Englisch"
+            },
+            "emporterFR": {
+                "en": "French Take away",
+                "fr": "A emporter en français",
+                "de": "Zum Mitnehmen auf Französisch"
+            },
+            "emporterDE": {
+                "en": "Take away in German",
+                "fr": "A emporter en allemand",
+                "de": "Zum Mitnehmen auf Deutsch"
+            },
+            "importantEN": {
+                "en": "Important information in English",
+                "fr": "Information important en anglais",
+                "de": "Wichtige Informationen auf Englisch"
+            },
+            "importantFR": {
+                "en": "Important information in French",
+                "fr": "Information important en français",
+                "de": "Wichtige Informationen auf Französisch"
+            },
+            "importantDE": {
+                "en": "Important information in German",
+                "fr": "Information important en allemand",
+                "de": "Wichtige Informationen auf Deutsch"
+            },
+            "cibleEN": {
+                "en": "The target group in English",
+                "fr": "Le groupe cible en anglais",
+                "de": "Die Zielgruppe auf Englisch"
+            },
+            "cibleFR": {
+                "en": "The target group in French",
+                "fr": "Le groupe cible en français",
+                "de": "Die Zielgruppe auf Französisch"
+            },
+            "cibleDE": {
+                "en": "The target group in German",
+                "fr": "Le groupe cible en allemand",
+                "de": "Die Zielgruppe auf Deutsch"
+            },
+            "trainBusEN": {
+                "en": "Train/bus station in English",
+                "fr": "Station de train/bus en anglais",
+                "de": "Zug-/Busbahnhof auf Englisch"
+            },
+            "trainBusFR": {
+                "en": "Train/bus station in French",
+                "fr": "Station de train/bus en français",
+                "de": "Zug-/Busbahnhof auf Französisch"
+            },
+            "trainBusDE": {
+                "en": "Train/bus station in German",
+                "fr": "Station de train/bus en allemand",
+                "de": "Zug-/Busbahnhof auf Deutsch"
+            },
+            "latitude": {
+                "en": "latitude",
+                "fr": "latitude",
+                "de": "Breitengrad"
+            },
+            "longitude": {
+                "en": "longitude",
+                "fr": "longitude",
+                "de": "Längengrad"
+            },
+            "localisation": {
+                "en": "Location",
+                "fr": "Localisation",
+                "de": "Standort"
+            },
+            "adresse": {
+                "en": "Address",
+                "fr": "Adresse",
+                "de": "Adresse"
+            },
+            "duree": {
+                "en": "Duration",
+                "fr": "Duree",
+                "de": "Dauer"
+            },
+            "linkYTB": {
+                "en": "Link to youtube video",
+                "fr": "Lien de la vidéo youtube",
+                "de": "Link zum youtube-Video"
+            },
+            "prix": {
+                "en": "Price",
+                "fr": "Prix",
+                "de": "Preis"
+            }
+        }
+    },
+    "PageReservationAdmin": {
+        ".page_title": {
+            "en": "BOOKINGS",
+            "fr": "RÉSERVATIONS",
+            "de": "BUCHUNGEN"
+        },
+        ".texte11del": {
+            "en": "Reject",
+            "fr": "Refuser",
+            "de": "Ablehnen"
+        },
+        ".texte11": {
+            "en": "CANCEL",
+            "fr": "ANNULER",
+            "de": "CANCEL"
+        },
+        "#date_t": {
+            "en": "Date:",
+            "fr": "Date :",
+            "de": "Datum:"
+        },
+        "#at": {
+            "en": "at",
+            "fr": "à",
+            "de": "unter"
+        }
+    },
+    "Aventures": {
+        "1": {
+            "info": {
+                ".d\u00e9tail": {
+                    "en": "(Part of the \"Codex\"-Trilogy)",
+                    "fr": "(Partie de la trilogie \"Codex\")",
+                    "de": "(Teil der \"Codex\"-Trilogie)"
+                },
+                ".histoireAV": {
+                    "en": "There is excitement in Ihringen: in 1864, an arsonist sets fire to vines and destroys entire livelihoods. But the villagers form a vigilante group to put a stop to the arsonist. Will you manage to catch the culprit?",
+                    "fr": "A Ihringen, c'est l'effervescence : en 1864, un incendiaire met le feu \u00e0 des vignes et d\u00e9truit des existences enti\u00e8res. Mais les villageois fondent une association de d\u00e9fense pour mettre fin aux agissements de l'incendiaire. Parviendrez-vous \u00e0 arr\u00eater le malfaiteur ?",
+                    "de": "In Ihringen herrscht Aufregung, im Jahre 1864 setzt ein Brandstifter Reben in Flammen und zerst\u00f6rt ganze Existenzen. Doch die Dorfbewohner gr\u00fcnden eine B\u00fcrgerwehr, um dem Brandstifter das Handwerk zu legen. Schafft ihr es, den \u00dcbelt\u00e4ter dingfest zu machen?"
+                },
+                ".descriptionAV": {
+                    "en": "The \"Live Escape\" hike \"Vinea Flamara\" takes you through the south-western part of the Kaiserstuhl with its breathtaking view over the Rhine plain. The view sweeps from Basel and Colmar over the Vosges mountains to the Black Forest. Let yourself be enchanted. Start at the parking lot in August-Meier-Stra\u00dfe in Ihringen. Before the adventure, you will receive a text message with the code for your locker. In it you will find a rucksack with all further information. From then on, you are on your own. The route leads through the forest and through the middle of the vineyards.",
+                    "fr": "La randonn\u00e9e \"Live Escape\" \"Vinea Flamara\" vous emm\u00e8ne \u00e0 travers la partie sud-ouest du Kaiserstuhl avec sa vue imprenable sur la plaine du Rhin. La vue s'\u00e9tend de B\u00e2le et Colmar \u00e0 la For\u00eat-Noire en passant par les Vosges. Laissez-vous envo\u00fbter ! Le d\u00e9part est donn\u00e9 sur le parking de la August-Meier-Stra\u00dfe \u00e0 Ihringen. Avant l'aventure, vous recevrez un SMS avec le code de votre consigne. Vous y trouverez un sac \u00e0 dos contenant toutes les informations n\u00e9cessaires. \u00c0 partir de l\u00e0, vous \u00eates seul(e). Le parcours passe par la for\u00eat et au milieu des vignes.",
+                    "de": "Die \u00bbLive Escape\u00ab Wanderung \u201eVinea Flamara\" f\u00fchrt euch durch den s\u00fcdwestlichen Teil des Kaiserstuhls mit seinem atemberaubenden Blick \u00fcber die Rheinebene. Der Blick schweift von Basel und Colmar \u00fcber die Vogesen bis zum Schwarzwald. Lasst euch verzaubern. Los geht es auf dem Parkplatz in der August-Meier-Stra\u00dfe in Ihringen. Vor dem Abenteuer bekommt ihr eine SMS mit dem Code f\u00fcr euer Schlie\u00dffach. Darin findet ihr einen Rucksack mit allen weiteren Informationen. Ab dann seid ihr auf euch allein gestellt. Die Strecke f\u00fchrt durch Wald und mitten durch die Reben."
+                },
+                ".info1": {
+                    "en": "Good footwear, a good mood and a thirst for adventure. Unfortunately, the adventures are not barrier-free.",
+                    "fr": "De bonnes chaussures, de la bonne humeur et une soif d'aventure. Malheureusement, les aventures ne sont pas exemptes de barri\u00e8res.",
+                    "de": "Gutes Schuhwerk, gute Laune und die Lust auf Abenteuer. Leider sind die Abenteuer nicht barrierefrei."
+                },
+                ".info2": {
+                    "en": "The locker is located in the parking lot of August-Meier-Wege in Ihringen.",
+                    "fr": "Les consignes sont situ\u00e9es dans le parking de August-Meier-Wege \u00e0 Ihringen.",
+                    "de": "Das Schlie\u00dffach befindet sich auf dem Parkplatz der August-Meier-Wege in Ihringen."
+                },
+                ".info3": {
+                    "en": "For puzzle fans",
+                    "fr": "Pour les amateurs de puzzles",
+                    "de": "F\u00fcr R\u00e4tselfans"
+                },
+                ".info4": {
+                    "en": "Easy walk",
+                    "fr": "Marche facile",
+                    "de": "Leichter Spaziergang"
+                },
+                ".info5": {
+                    "en": "From three people, team events, stag parties, families with children aged 12 and over, birthdays, etc.",
+                    "fr": "\u00c0 partir de trois personnes, \u00e9v\u00e9nements d'\u00e9quipe, enterrements de vie de gar\u00e7on, familles avec enfants \u00e0 partir de 12 ans, anniversaires, etc.",
+                    "de": "Ab drei Personen, Team-Events, Junggesellenabschiede, Familien mit Kindern ab 12 Jahren, Geburtstage, etc."
+                },
+                ".info6": {
+                    "en": "Ihringen station",
+                    "fr": "Gare d",
+                    "de": "Bahnhof Ihringen"
+                }
+            },
+            "infoLangues": [
+                "en",
+                "fr"
+            ]
+        },
+        "2": {
+            "info": {
+                ".d\u00e9tail": {
+                    "en": "(Part of the \"Codex\"-Trilogy)",
+                    "fr": "(Partie de la trilogie \"Codex\")",
+                    "de": "(Teil der \"Codex\"-Trilogie)"
+                },
+                ".histoireAV": {
+                    "en": "In the year 1513, postman Jonas narrowly escapes from a coach whose occupants are trying to snatch a parcel from him. A mysterious woman catches his eye. An eerie game of cat and mouse begins. Who is after the supposedly valuable parcel?",
+                    "fr": "En 1513, le facteur Jonas \u00e9chappe de justesse \u00e0 une diligence dont les occupants voulaient lui arracher un paquet. Il remarque alors une femme myst\u00e9rieuse. Commence alors un inqui\u00e9tant jeu du chat et de la souris. Qui a voulu s'emparer du soi-disant pr\u00e9cieux paquet ?",
+                    "de": "Das Jahr 1513. Der Postbote Jonas entkommt nur knapp einer Kutsche, deren Insassen ihm ein Paket entrei\u00dfen wollten. Dabei f\u00e4llt ihm eine geheimnisvolle Frau auf. Ein unheimliches Katz- und Mausspiel beginnt. Wer hat es auf das vermeintlich wertvolle Paket abgesehen?"
+                },
+                ".descriptionAV": {
+                    "en": "The \"Live Escape\" hike \"Spiritus Sancti\" takes you through the south-western part of the Kaiserstuhl with its breathtaking view over the Rhine plain. Let yourself be enchanted. The adventure starts in the car park of Caf\u00e9 Lieblingsplatz in Oberrotweil. Before the adventure, you will receive a text message with the code for your locker. In it you will find a rucksack with all further information. From then on, you are on your own. The route takes you through the forest and through the vineyards.",
+                    "fr": "La randonn\u00e9e \"Live Escape\" \"Spiritus Sancti\" vous emm\u00e8ne \u00e0 travers la partie sud-ouest du Kaiserstuhl avec sa vue imprenable sur la plaine du Rhin. Laissez-vous enchanter par la magie. Le d\u00e9part se fait sur le parking du Caf\u00e9 Lieblingsplatz \u00e0 Oberrotweil. Avant l'aventure, vous recevrez un SMS avec le code de votre consigne. Vous y trouverez un sac \u00e0 dos avec toutes les informations compl\u00e9mentaires. \u00c0 partir de l\u00e0, vous \u00eates seul(e). Le parcours passe par la for\u00eat et au milieu des vignes.",
+                    "de": "Die \u00bbLive Escape\u00ab Wanderung \u201eSpiritus Sancti\" f\u00fchrt euch durch den s\u00fcdwestlichen Teil des Kaiserstuhls mit seinem atemberaubenden Blick \u00fcber die Rheinebene. Lasst euch verzaubern. Los geht es auf dem Parkplatz vom Caf\u00e9 Lieblingsplatz in Oberrotweil. Vor dem Abenteuer bekommt ihr eine SMS mit dem Code f\u00fcr euer Schlie\u00dffach. Darin findet ihr einen Rucksack mit allen weiteren Informationen. Ab dann seid ihr auf euch allein gestellt. Die Strecke f\u00fchrt durch Wald und mitten durch die Reben."
+                },
+                ".info1": {
+                    "en": "Good footwear, a good mood and a thirst for adventure. Unfortunately, the adventures are not barrier-free.",
+                    "fr": "De bonnes chaussures, de la bonne humeur et une soif d'aventure. Malheureusement, les aventures ne sont pas exemptes de barri\u00e8res.",
+                    "de": "Gutes Schuhwerk, gute Laune und die Lust auf Abenteuer. Leider sind die Abenteuer nicht barrierefrei."
+                },
+                ".info2": {
+                    "en": "The locker is located on a wall in the car park of the Lieblingsplatz in Oberrotweil.",
+                    "fr": "La consigne se trouve sur le mur d'une maison sur le parking de la place pr\u00e9f\u00e9r\u00e9e \u00e0 Oberrotweil.",
+                    "de": "Das Schlie\u00dffach steht an einer Hauswand auf dem Parkplatz des Lieblingsplatzes in Oberrotweil."
+                },
+                ".info3": {
+                    "en": "For puzzle fans",
+                    "fr": "Pour les amateurs de puzzles",
+                    "de": "F\u00fcr R\u00e4tselfans"
+                },
+                ".info4": {
+                    "en": "Moderate walk",
+                    "fr": "Marche mod\u00e9r\u00e9e",
+                    "de": "M\u00e4\u00dfiges Gehen"
+                },
+                ".info5": {
+                    "en": "From three people, team events, stag parties, families with children aged 14 and over, birthdays, etc.",
+                    "fr": "\u00c0 partir de trois personnes, \u00e9v\u00e9nements d'\u00e9quipe, enterrements de vie de gar\u00e7on, familles avec enfants \u00e0 partir de 14 ans, anniversaires, etc.",
+                    "de": "Ab drei Personen, Team-Events, Junggesellenabschiede, Familien mit Kindern ab 14 Jahren, Geburtstage, etc."
+                },
+                ".info6": {
+                    "en": " - ",
+                    "fr": " - ",
+                    "de": " - "
+                }
+            },
+            "infoLangues": [
+                "de"
+            ]
+        },
+        "3": {
+            "info": {
+                ".d\u00e9tail": {
+                    "en": "(Part of the \"Codex\"-Trilogy)",
+                    "fr": "(Partie de la trilogie \"Codex\")",
+                    "de": "(Teil der \"Codex\"-Trilogie)"
+                },
+                ".histoireAV": {
+                    "en": "The year is 1209 and the proud castle of Sponeck is in turmoil! Members of the Order of Assassins have conquered the castle of the Knights Templar and captured the Grand Master in order to find the Templar treasure. A young Templar knight asks you for help. The adventure begins...",
+                    "fr": "Nous sommes en 1209 et l'agitation r\u00e8gne autour du fier ch\u00e2teau de Sponeck ! Des membres de l'Ordre des Assassins se sont empar\u00e9s du ch\u00e2teau des Templiers et ont captur\u00e9 le Grand Ma\u00eetre afin de retrouver le tr\u00e9sor des Templiers. Un jeune templier vous demande de l'aide. L'aventure commence...",
+                    "de": "Wir schreiben das Jahr 1209. Aufregung herrscht um die stolze Burg Sponeck! Mitglieder des Ordens der Assassine haben die Burg der Tempelritter erobert und den Gro\u00dfmeister gefangen genommen, um den Templerschatz zu finden. Ein junger Tempelritter bittet euch um Hilfe. Das Abenteuer beginnt\u2026"
+                },
+                ".descriptionAV": {
+                    "en": "The \"Live Escape\" hike \"Kredo Castello\" takes you through the south-western part of the Kaiserstuhl with its breathtaking view over the Rhine plain. Let yourself be enchanted. The tour starts at the Burkhart roastery in Jechtingen. Before the adventure, you will receive a text message with the code for your locker. In it you will find a rucksack with all further information. From then on, you are on your own. The route takes you through the forest and through the middle of the vineyards.",
+                    "fr": "La randonn\u00e9e \"Live Escape\" \"Kredo Castello\" vous emm\u00e8ne \u00e0 travers la partie sud-ouest du Kaiserstuhl avec sa vue imprenable sur la plaine du Rhin. Laissez-vous enchanter par la magie. Le d\u00e9part se fait \u00e0 la torr\u00e9faction Burkhart \u00e0 Jechtingen. Avant l'aventure, vous recevrez un SMS avec le code de votre consigne. Vous y trouverez un sac \u00e0 dos avec toutes les informations n\u00e9cessaires. \u00c0 partir de l\u00e0, vous \u00eates seul(e). Le parcours se d\u00e9roule \u00e0 travers la for\u00eat et au milieu des vignes.",
+                    "de": "Die \u00bbLive Escape\u00ab Wanderung \u201eKredo Castello\" f\u00fchrt euch durch den s\u00fcdwestlichen Teil des Kaiserstuhls mit seinem atemberaubenden Blick \u00fcber die Rheinebene. Lasst euch verzaubern. Los geht es an der R\u00f6sterei Burkhart in Jechtingen. Vor dem Abenteuer bekommt ihr eine SMS mit dem Code f\u00fcr euer Schlie\u00dffach. Darin findet ihr einen Rucksack mit allen weiteren Informationen. Ab dann seid ihr auf euch allein gestellt. Die Strecke f\u00fchrt durch Wald und mitten durch die Reben."
+                },
+                ".info1": {
+                    "en": "Good footwear, a good mood and a thirst for adventure. Unfortunately, the adventures are not barrier-free.",
+                    "fr": "De bonnes chaussures, de la bonne humeur et une soif d'aventure. Malheureusement, les aventures ne sont pas exemptes de barri\u00e8res.",
+                    "de": "Gutes Schuhwerk, gute Laune und die Lust auf Abenteuer. Leider sind die Abenteuer nicht barrierefrei."
+                },
+                ".info2": {
+                    "en": "The locker is around the corner by the entrance under the stairs.",
+                    "fr": "La consigne se trouve au coin de la rue, \u00e0 l'entr\u00e9e, sous l'escalier.",
+                    "de": "Das Schlie\u00dffach steht um die Ecke beim Eingang unter der Treppe. "
+                },
+                ".info3": {
+                    "en": "For puzzle fans",
+                    "fr": "Pour les amateurs de puzzles",
+                    "de": "F\u00fcr R\u00e4tselfans"
+                },
+                ".info4": {
+                    "en": "Easy walk",
+                    "fr": "Marche facile",
+                    "de": "Leichter Spaziergang"
+                },
+                ".info5": {
+                    "en": "From three people, team events, stag parties, families with children aged 14 and over, birthdays, etc.",
+                    "fr": "\u00c0 partir de trois personnes, \u00e9v\u00e9nements d'\u00e9quipe, enterrements de vie de gar\u00e7on, familles avec enfants \u00e0 partir de 14 ans, anniversaires, etc.",
+                    "de": "Ab drei Personen, Team-Events, Junggesellenabschiede, Familien mit Kindern ab 14 Jahren, Geburtstage, etc."
+                },
+                ".info6": {
+                    "en": " - ",
+                    "fr": " - ",
+                    "de": " - "
+                }
+            },
+            "infoLangues": [
+                "de",
+                "fr",
+                "en"
+            ]
+        }
+    },
+    "Packages": {
+        "2": {
+            ".description": {
+                "en": "Whether it's a birthday, engagement or golden wedding anniversary, there's always a good reason to give a gift. With this option, you will receive a high-quality DaVinci lock and a lovingly designed wooden card. The first puzzle is how to open the lock to get your voucher. You'll find the clues on the puzzle card. <br><br>All parts are made by us and delivered in high-quality packaging. We have also made sure that you can solve the puzzle at the end in any case so that you can get your voucher safely.",
+                "fr": "Que ce soit pour un anniversaire, des fian\u00e7ailles ou des noces d'or, il y a toujours une bonne occasion de se faire offrir un cadeau. Avec cette option, vous recevrez un cadenas DaVinci de grande qualit\u00e9 et une carte en bois joliment d\u00e9cor\u00e9e. La premi\u00e8re \u00e9nigme est de savoir comment ouvrir le cadenas pour obtenir votre bon. Vous trouverez des indications \u00e0 ce sujet sur la carte. <br><br>Toutes les pi\u00e8ces sont fabriqu\u00e9es par nos soins et livr\u00e9es dans un emballage de qualit\u00e9. De plus, nous avons fait en sorte que vous puissiez r\u00e9soudre l'\u00e9nigme \u00e0 la fin et que vous puissiez ainsi obtenir votre bon en toute s\u00e9curit\u00e9.",
+                "de": "Ob zum Geburtstag, zur Verlobung oder zur Goldenen Hochzeit, es gibt immer einen guten Anlass, beschenkt zu werden. Mit dieser Option erhaltet ihr ein hochwertiges DaVinci-Schloss und eine liebevoll gestaltete Karte aus Holz. Wie ihr das Schloss \u00f6ffnet, um an euren Gutschein zu kommen, ist bereits das erste R\u00e4tsel. Hinweise findet ihr dazu auf der R\u00e4tselkarte. <br><br>Alle Teile werden von uns selbst hergestellt und in einer hochwertigen Verpackung geliefert. Au\u00dferdem haben wir daf\u00fcr gesorgt, dass ihr das R\u00e4tsel am Ende auf jeden Fall l\u00f6sen k\u00f6nnt und ihr somit sicher zu eurem Gutschein kommt."
+            }
+        },
+        "3": {
+            ".description": {
+                "en": "testen",
+                "fr": "dee",
+                "de": "dee"
+            }
+        },
+        "4": {
+            ".description": {
+                "en": "test",
+                "fr": "testfr",
+                "de": "testde"
+            }
+        }
+    },
+    "Questions": {
+        ".title": {
+            "en": "FREQUENTLY ASKED QUESTIONS",
+            "fr": "QUESTIONS FR\u00c9QUENTES",
+            "de": "H\u00c4UFIG GESTELLTE FRAGEN"
+        },
+        ".question1": {
+            "en": "IN VINO VERITAS - CAN I HAVE MORE THAN ONE BOTTLE OF WINE?",
+            "fr": "IN VINO VERITAS - PUIS-JE AVOIR PLUS D'UNE BOUTEILLE DE VIN ?",
+            "de": "IN VINO VERITAS - KANN ICH MEHR ALS EINE FLASCHE WEIN HABEN?"
+        },
+        ".reponse1": {
+            "en": "Our \"In Vino Veritas\" tours include one bottle of wine and one glass per booking. These are game items and are needed to solve a puzzle. Of course, you can take the wine home with you or drink it on site. If you would like to have more wine, please have a look at the offers of our cooperation partners in the FAQs of the individual adventures, or bring your own. (Please take your empty bottles home with you - our locker is not a bottle bank).",
+            "fr": "Pour nos visites \"In Vino Veritas\", une bouteille de vin et un verre sont inclus par r\u00e9servation. Ce sont des objets de jeu et sont n\u00e9cessaires pour r\u00e9soudre une \u00e9nigme. Vous pouvez bien entendu emporter le vin chez vous ou le boire sur place. Si vous souhaitez avoir plus de vin, n'h\u00e9sitez pas \u00e0 consulter l'offre de nos partenaires de coop\u00e9ration dans la FAQ de chaque aventure ou \u00e0 en apporter vous-m\u00eame. (Merci de ramener vos bouteilles vides \u00e0 la maison - notre consigne n'est pas un conteneur \u00e0 verre usag\u00e9).",
+            "de": "Bei unseren Touren \"In Vino Veritas\" ist pro Buchung eine Flasche Wein und ein Glas inkludiert. Diese sind Spielgegenst\u00e4nde und werden zum L\u00f6sen eines R\u00e4tsels ben\u00f6tigt. Selbstverst\u00e4ndlich k\u00f6nnt ihr den Wein mit nach Hause nehmen, oder vor Ort trinken. Wenn ihr mehr Wein haben m\u00f6chtet, schaut euch gerne das Angebot unserer Kooperationspartner in den FAQs der einzelnen Abenteuer an, oder bringt euch selbst etwas mit. (Bitte nehmt eure leeren Flaschen wieder mit nach Hause - unser Schlie\u00dffach ist kein Altglascontainer.)"
+        },
+        ".question2": {
+            "en": "RECOMMENDED GROUP SIZE",
+            "fr": "TAILLE RECOMMAND\u00c9E DU GROUPE",
+            "de": "EMPFOHLENE GRUPPENGR\u00d6SSE"
+        },
+        ".reponse2": {
+            "en": "You can start with up to 10 people at the same time. However, the recommended group size is 6-8 people. If you are a larger group, we recommend splitting into several teams, which start with a time delay of approx. 20 minutes. This way, all participants will get their money's worth and have maximum puzzle fun. If you are unsure, please contact us by e-mail or telephone.",
+            "fr": "Vous pouvez prendre le d\u00e9part avec jusqu'\u00e0 10 personnes \u00e0 la fois. La taille recommand\u00e9e pour les groupes est toutefois de 6 \u00e0 8 personnes. Si vous \u00eates un groupe plus important, nous vous recommandons de vous diviser en plusieurs \u00e9quipes, qui commenceront avec un d\u00e9calage d'environ 20 minutes. Ainsi, tous les participants y trouveront leur compte et auront un maximum de plaisir \u00e0 r\u00e9soudre les \u00e9nigmes. Si vous n'\u00eates pas s\u00fbr(e), n'h\u00e9sitez pas \u00e0 nous contacter par e-mail ou par t\u00e9l\u00e9phone.",
+            "de": "Ihr k\u00f6nnt mit bis zu 10 Personen gleichzeitig an den Start gehen. Die empfohlene Gruppengr\u00f6\u00dfe ist jedoch 6-8 Personen. Solltet ihr eine gr\u00f6\u00dfere Gruppe sein, empfehlen wir euch eine Aufteilung in mehrere Teams, die mit ca. 20 min Zeitversatz starten. So kommen alle Teilnehmer auf ihre Kosten und haben den maximalen R\u00e4tselspa\u00df. Falls Ihr unsicher seid, kontaktiert uns gerne per E-Mail oder Telefon."
+        },
+        ".question3": {
+            "en": "CAN WE BRING OUR DOG WITH US?",
+            "fr": "POUVONS-NOUS AMENER NOTRE CHIEN ?",
+            "de": "K\u00d6NNEN WIR UNSEREN HUND MITBRINGEN?"
+        },
+        ".reponse3": {
+            "en": "Naturally. All our adventures take place on public paths in the countryside. 2 - 3 hours in the vineyards\/forest are fun for every four-legged friend. Just keep them on a lead, as prescribed by the forestry office.",
+            "fr": "Bien entendu, cela va de soi. Toutes nos aventures se d\u00e9roulent sur des chemins publics en pleine nature. Deux \u00e0 trois heures dans les vignes\/la for\u00eat font plaisir \u00e0 tous les quadrup\u00e8des. Respectez simplement l'obligation de tenir votre chien en laisse, comme le prescrit l'Office des for\u00eats.",
+            "de": "Selbstverst\u00e4ndlich. Alle unsere Abenteuer finden auf \u00f6ffentlichen Wegen in der Natur statt. 2 \u2013 3 Stunden in den Reben\/Wald bereiten doch jedem Vierbeiner Freude. Haltet euch einfach an die Leinenpflicht, wie vom Forstamt vorgeschrieben."
+        },
+        ".question4": {
+            "en": "DO CHILDREN COST EXTRA?",
+            "fr": "LES ENFANTS SONT-ILS PAYANT ?",
+            "de": "KOSTEN KINDER EXTRA?"
+        },
+        ".reponse4": {
+            "en": "Children up to the age of 13 can take part in the tour free of charge. From the age of 14, young people pay the full price. (Except for the adventure \"Book of the 7 Seals\" Please read below)",
+            "fr": "Jusqu'\u00e0 13 ans, les enfants peuvent participer gratuitement \u00e0 la visite. \u00c0 partir de 14 ans, les jeunes paient le prix fort. (A l'exception de l'aventure \"Livre des 7 sceaux\" Veuillez lire ci-dessous)",
+            "de": "Bis 13 Jahre k\u00f6nnen Kinder kostenlos an der Tour teilnehmen. Ab 14 Jahren zahlen Jugendliche den vollen Preis. (Ausgenommen das Abenteuer \u201cBuch der 7 Siegel\u201d Bitte unten nachlesen)"
+        },
+        ".question5": {
+            "en": "ARE THE ADVENTURES ACCESSIBLE?",
+            "fr": "LES AVENTURES SONT-ELLES ACCESSIBLES AUX PERSONNES HANDICAP\u00c9ES ?",
+            "de": "SIND DIE ABENTEUER BARRIEREFREI?"
+        },
+        ".reponse5": {
+            "en": "Please consult the practical information for the desired adventure.",
+            "fr": "Veuillez consulter les informations pratique de l'aventure souhait\u00e9e.",
+            "de": "Bitte beachten Sie die praktischen Informationen zum gew\u00fcnschten Abenteuer."
+        },
+        ".question6": {
+            "en": "WHAT HAPPENS WHEN IT RAINS?",
+            "fr": "QUE SE PASSE-T-IL S'IL PLEUT ?",
+            "de": "WAS PASSIERT, WENN ES REGNET?"
+        },
+        ".reponse6": {
+            "en": "In the event of heavy rain, you can change the adventure to another free date at short notice free of charge. Simply give us a call or send us an e-mail with the desired date.",
+            "fr": "En cas de fortes pluies, vous pouvez changer la date de l'aventure \u00e0 court terme sans frais pour une autre date disponible. Pour cela, il suffit d'appeler ou d'envoyer un mail avec la date souhait\u00e9e.",
+            "de": "Bei starkem Regen k\u00f6nnt ihr das Abenteuer kurzfristig kostenlos auf ein anderes freies Datum umbuchen. Dazu einfach anrufen oder per Mail den gew\u00fcnschten Termin durchgeben."
+        },
+        ".question7": {
+            "en": "WE HAVE BOOKED FOR 4 PEOPLE, BUT ARE COMING WITH 5 PEOPLE.",
+            "fr": "NOUS AVONS R\u00c9SERV\u00c9 POUR 4 PERSONNES, MAIS VENONS AVEC 5 PERSONNES.",
+            "de": "WIR HABEN F\u00dcR 4 PERSONEN GEBUCHT, ABER KOMMEN MIT 5 PERSONEN."
+        },
+        ".reponse7": {
+            "en": "Additional persons can be booked at any time at the single person price.",
+            "fr": "D'autres personnes peuvent \u00eatre inscrites \u00e0 tout moment au tarif individuel.",
+            "de": "Weitere Personen k\u00f6nnen jederzeit zum Einzelpersonenpreis aufgebucht werden."
+        },
+        ".question8": {
+            "en": "WE BOOKED FOR 5 PEOPLE, BUT ONLY CAME WITH 4 PEOPLE.",
+            "fr": "NOUS AVONS R\u00c9SERV\u00c9 POUR 5 PERSONNES, MAIS NOUS NE VENONS QU'AVEC 4 PERSONNES.",
+            "de": "WIR HABEN F\u00dcR 5 PERSONEN GEBUCHT, ABER KOMMEN NUR MIT 4 PERSONEN."
+        },
+        ".reponse8": {
+            "en": "If one or more people are unable to play, rebooking fees may be charged. Depending on the time of the rebooking, the difference will only be paid out as a voucher.",
+            "fr": "Si une ou plusieurs personnes ne peuvent pas participer, des frais de changement de r\u00e9servation seront \u00e9ventuellement factur\u00e9s. Selon le moment de la modification de la r\u00e9servation, la diff\u00e9rence ne sera vers\u00e9e que sous forme de bon d'achat.",
+            "de": "Wenn eine oder mehrere Personen nicht mitspielen k\u00f6nnen, werden gegebenfalls Umbuchungsgeb\u00fchren berechnet. Je nach Zeitpunkt der Umbuchung wird der Differenzbetrag nur noch als Gutschein ausgezahlt."
+        },
+        ".question9": {
+            "en": "HOW LONG ARE YOUR VOUCHERS VALID FOR?",
+            "fr": "QUELLE EST LA DUR\u00c9E DE VALIDIT\u00c9 DE VOS BONS D'ACHAT ?",
+            "de": "WIE LANGE SIND EURE GUTSCHEINE G\u00dcLTIG?"
+        },
+        ".reponse9": {
+            "en": "3 years from date of purchase. Vouchers cannot be exchanged, canceled or paid out in cash. Shipping abroad is not possible.",
+            "fr": "3 ans \u00e0 partir de la date d'achat. Les bons ne peuvent pas \u00eatre \u00e9chang\u00e9s, annul\u00e9s ou pay\u00e9s en esp\u00e8ces. L'envoi \u00e0 l'\u00e9tranger n'est pas possible.",
+            "de": "3 Jahre ab Kaufdatum. Gutscheine k\u00f6nnen nicht umgetauscht, storniert, oder in Bar ausgezahlt werden. Ein Versand ins Ausland ist nicht m\u00f6glich."
+        },
+        ".question10": {
+            "en": "WHAT HAPPENS IF WE ARE LATE?",
+            "fr": "QUE SE PASSE-T-IL SI NOUS SOMMES EN RETARD ?",
+            "de": "WAS PASSIERT WENN WIR ZU SP\u00c4T KOMMEN?"
+        },
+        ".reponse10": {
+            "en": "In the event of a delay, we can unfortunately no longer guarantee the start of the tour so that the following players are not disadvantaged. So please be on time!",
+            "fr": "En cas de retard, nous ne pouvons malheureusement plus garantir le d\u00e9but du tour, afin que les joueurs suivants ne soient pas d\u00e9savantag\u00e9s. Nous vous prions donc d'\u00eatre ponctuels !",
+            "de": "Bei einer Versp\u00e4tung, k\u00f6nnen wir leider den Tourstart nicht mehr gew\u00e4hrleisten, damit den nachfolgenden Spielern kein Nachteil entsteht. Bitte seid daher p\u00fcnktlich!"
+        },
+        ".question11": {
+            "en": "WHAT ARE THE CANCELLATION CONDITIONS?",
+            "fr": "QUELLES SONT LES CONDITIONS D'ANNULATION ?",
+            "de": "WAS SIND DIE STORNIERUNGSBEDINUNGEN?"
+        },
+        ".reponse11": {
+            "en": "Cancellations are possible during our business hours (Mon-Fri from 9am - 4pm) by e-mail or telephone. Our cancellation conditions: You can cancel free of charge up to 7 days before the start of the adventure. Up to 2 days before the start of the adventure, 50% of the purchase price will be charged. If you cancel within 2 days before the adventure, we will charge 100% of the purchase price. You can find more details in the terms and conditions.",
+            "fr": "Les annulations sont possibles pendant nos heures d'ouverture (du lundi au vendredi de 9h \u00e0 16h) par e-mail ou par t\u00e9l\u00e9phone. Nos conditions d'annulation : Jusqu'\u00e0 7 jours avant le d\u00e9but de l'aventure, vous pouvez annuler sans frais. Jusqu'\u00e0 2 jours avant le d\u00e9but de l'aventure, nous facturons 50% du prix d'achat. En cas d'annulation dans les 2 jours pr\u00e9c\u00e9dant l'aventure, nous facturons 100% du prix d'achat. Vous trouverez plus de d\u00e9tails dans les conditions g\u00e9n\u00e9rales de vente.",
+            "de": "Stornierungen sind zu unseren Gesch\u00e4ftszeiten (Mo-Fr. von 9 - 16Uhr) per E-Mail oder Telefon m\u00f6glich. Unsere Stornierungskonditionen: Bis 7 Tage vor Abenteuerstart k\u00f6nnt ihr kostenlos stornieren. Bis 2 Tage vor Abenteuerstart werden 50% des Kaufpreises berechnet. Bei einer Stornierung innerhalb 2 Tage vor dem Abenteuer berechnen wir 100% des Kaufpreises. Genaueres k\u00f6nnt ihr in den AGBs nachlesen."
+        },
+        ".question12": {
+            "en": "ARE THERE CATERING OPTIONS ALONG THE WAY?",
+            "fr": "Y A-T-IL DES POSSIBILIT\u00c9S DE SE RESTAURER EN COURS DE ROUTE ?",
+            "de": "GIBT ES UNTERWEGS VERPFLEGUNGS-M\u00d6GLICHKEITEN?"
+        },
+        ".reponse12": {
+            "en": "As you are in the middle of nature, there are no opportunities to buy drinks during our tours. So bring everything you want to drink on the way with you in advance. Please remember to bring enough water in summer.",
+            "fr": "Comme vous vous trouvez au milieu de la nature, il n'y a pas de possibilit\u00e9 d'acheter des boissons pendant nos excursions. Apportez donc vous-m\u00eame \u00e0 l'avance tout ce que vous souhaitez boire en route. N'oubliez pas d'emporter suffisamment d'eau en \u00e9t\u00e9.",
+            "de": "Da ihr euch mitten in der Natur befindet, gibt es w\u00e4hrend unserer Touren keine M\u00f6glichkeiten, sich Getr\u00e4nke zu kaufen. Bringt euch daher vorab alles selbst mit, was ihr unterwegs trinken m\u00f6chtet. Denkt im Sommer bitte an gen\u00fcgend Wasser."
+        }
+    },
+    "PagesLog": {
+        "login": {
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "Einreichen"
+            },
+            ".page_title": {
+                "en": "Login",
+                "fr": "Connexion",
+                "de": "Anmeldung"
+            },
+            "#signin": {
+                "en": "Sign In",
+                "fr": "Se connecter",
+                "de": "Sich anmelden"
+            },
+            "#signup": {
+                "en": "Sign Up",
+                "fr": "S'inscrire",
+                "de": "Registrierung"
+            }
+        },
+        "placeholder": {
+            "name": {
+                "en": "Name",
+                "fr": "Nom",
+                "de": "Name"
+            },
+            "mail": {
+                "en": "E-mail adress",
+                "fr": "Adresse e-mail",
+                "de": "E-mail adresse"
+            },
+            "firstName": {
+                "en": "First Name",
+                "fr": "Pr\u00e9nom",
+                "de": "Vorname"
+            },
+            "mdp": {
+                "en": "Password",
+                "fr": "Mot de passe",
+                "de": "Passwort"
+            },
+            "mdpCheck": {
+                "en": "Confirm your password",
+                "fr": "Confirmez votre mot de passe",
+                "de": "Best\u00e4tigen Sie Ihr Passwort"
+            }
+        },
+        "logout": {
+            ".page_title": {
+                "en": "LOGOUT?",
+                "fr": "DÉCONNEXION ?",
+                "de": "LOGOUT?"
+            },
+            ".warning": {
+                "en": "Do you wish to log out?",
+                "fr": "Voulez-vous vous d\u00e9connecter?",
+                "de": "M\u00f6chten Sie sich abmelden?"
+            },
+            ".yes": {
+                "en": "Yes",
+                "fr": "Oui",
+                "de": "Ja"
+            },
+            ".no": {
+                "en": "No",
+                "fr": "Non",
+                "de": "Nein"
+            },
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "ENVOYER",
+                "de": "ABSENDEN"
+            }
+        }
+    },
+    "PageInfoGenAdmin": {
+        "Info": {
+            ".texte11": {
+                "en": "SUBMIT",
+                "fr": "SOUMETTRE",
+                "de": "Einreichen"
+            },
+            ".page_title": {
+                "en": "GENERAL INFO",
+                "fr": "INFO GÉNÉRALE",
+                "de": "ALLGEMEINE INFO"
+            }
+        },
+        "placeholder": {
+            "num_tel": {
+                "en": "Phone number",
+                "fr": "Numéro de téléphone",
+                "de": "Telefonnummer"
+            },
+            "mail": {
+                "en": "E-mail adress",
+                "fr": "Adresse e-mail",
+                "de": "E-mail adresse"
+            },
+            "adresse": {
+                "en": "Address",
+                "fr": "Adresse",
+                "de": "Adresse"
+            }
+        }
+    },
+    "InfoCompte": {
+        "#ed_acc_t": {
+            "en": "Edit Account",
+            "fr": "Modifier le compte",
+            "de": "Konto bearbeiten"
+        },
+        "#ed_pas_t": {
+            "en": "Edit Password",
+            "fr": "Modifier le mot de passe",
+            "de": "Passwort bearbeiten"
+        },
+        ".password_edit": {
+            "en": "Password must contain <span class='must'>uppercase, lowercase, symbols, numbers and at least 8 characters<\/span>",
+            "fr": "Le mot de passe doit contenir <span class='must'>des majuscules, des minuscules, des symboles, des chiffres et au moins 8 caractères</span>.",
+            "de": "Das Passwort muss <span class='must'>Großbuchstaben, Kleinbuchstaben, Symbole, Zahlen und mindestens 8 Zeichen enthalten<\/span>"
+        }
+    },
+    "details": {
+        "langues": {
+            "en": {
+                "en": "English",
+                "fr": "Anglais",
+                "de": "Englisch"
+            },
+            "de": {
+                "en": "German",
+                "fr": "Allemand",
+                "de": "Deutsch"
+            },
+            "fr": {
+                "en": "French",
+                "fr": "Fran\u00e7ais",
+                "de": "Franz\u00f6sisch"
+            }
+        },
+        "oui_non": {
+            "Yes": {
+                "en": "Yes",
+                "fr": "Oui",
+                "de": "Ja"
+            },
+            "No": {
+                "en": "No",
+                "fr": "Non",
+                "de": "Nicht "
+            }
+        }
+    }
+}
