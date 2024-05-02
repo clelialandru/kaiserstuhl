@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost:3306
--- Généré le : jeu. 02 mai 2024 à 12:40
+-- Généré le : jeu. 02 mai 2024 à 18:48
 -- Version du serveur : 10.11.6-MariaDB-0+deb12u1
 -- Version de PHP : 8.2.18
 
@@ -61,9 +61,9 @@ CREATE TABLE `escape_game` (
 --
 
 INSERT INTO `escape_game` (`id_game`, `nom`, `localisation`, `adresse`, `prix`, `duree`, `parking`, `accebilite`, `latitude`, `longitude`, `linkYTB`) VALUES
-(1, 'Vinea Flamara', 'Ihringen', 'August-Meier-Weg 1, 79241 Ihringen, Allemagne', 105, '06:00:00', 0, 1, 48.0479, 7.64924, 'https://youtu.be/nB4EnEo39N8'),
-(2, 'Exemple2', 'Climbach', '1er rue de Bitche, 67510 Climbach, France', 200, '02:00:00', 1, 0, 49.0173, 7.84526, ''),
-(3, 'Gourde', 'Mulhouse sur brurne', '3 Rue des Frères Lumière, 68100 Mulhouse', 130, '01:00:00', 1, 1, 47.7309, 7.3007, '');
+(1, 'Vinea Flamara', 'Ihringen', 'August-Meier-Weg 1, 79241 Ihringen, Allemagne', 89, '02:00:00', 0, 1, 48.0479, 7.64924, 'https://youtu.be/nB4EnEo39N8'),
+(2, 'Spiritus Sancti', 'Kaiserstuhl', 'Lieblingsplatz -Haus der guten Dinge-, Bahnhofstraße 37, Oberrotweil 79235 Vogtsburg', 89, '02:00:00', 1, 0, 48.0903, 7.62181, 'https://youtu.be/KtSb-jO4djw'),
+(3, 'Kredo Castello', 'Kaiserstuhl', 'Haberberg 1, 79361 Sasbach am Kaiserstuhl', 89, '02:00:00', 1, 1, 48.1178, 7.59793, '');
 
 -- --------------------------------------------------------
 
@@ -134,9 +134,9 @@ CREATE TABLE `package` (
 
 INSERT INTO `package` (`id_package`, `nom`, `prix`, `temps_livré`, `type`, `hauteur`, `largeur`) VALUES
 (1, 'Carte cadeau', 0, 0, 'carte', 0, 0),
-(2, 'Puzzle El Nico test', 144, 21, 'cadeau', 0, 0),
-(3, 'David', 1444, 3, 'cadeau', 2, 3),
-(4, 'cailloux', 2, 93, 'cadeau', 0, 0);
+(2, 'DaVinci Lock', 50, 7, 'cadeau', 17, 13),
+(3, 'Wooden Box', 30, 7, 'cadeau', 15, 10),
+(4, 'Enveloppe', 7, 7, 'cadeau', 11, 21);
 
 -- --------------------------------------------------------
 
@@ -219,7 +219,7 @@ ALTER TABLE `commander`
 -- AUTO_INCREMENT pour la table `escape_game`
 --
 ALTER TABLE `escape_game`
-  MODIFY `id_game` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id_game` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 
 --
 -- AUTO_INCREMENT pour la table `info_general`
@@ -237,7 +237,7 @@ ALTER TABLE `membre`
 -- AUTO_INCREMENT pour la table `package`
 --
 ALTER TABLE `package`
-  MODIFY `id_package` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id_package` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
 
 --
 -- AUTO_INCREMENT pour la table `reserver`

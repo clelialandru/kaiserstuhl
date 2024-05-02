@@ -65,10 +65,32 @@ class Routeur
   public function routerRequete()
   {
 
-    // if(empty($_SESSION['lang'])){
-    //   $_SESSION['lang'] = "en";
-    // }
-    // if(!empty($_GET['lang'])) $_SESSION['lang'] = $_GET['lang'];
+    if(isset($_SESSION['infoReservation']) ||
+      isset($_SESSION['infoCommande']) &&
+
+    (!empty($_SESSION['infoReservation'] || 
+    $_SESSION['infoAventure'] || 
+    $_SESSION['infoCommande'] || 
+    $_SESSION['infoCadeau'] )) &&(
+    $_GET["action"] != "paiement"||
+    $_GET["action"] != "connectToPay"||
+    $_GET["action"] != "createToPay"||
+    $_GET["action"] != "nextToPay"||
+    $_GET["action"] != "payer")){
+      if($_SESSION['infoReservation']){
+        unset($_SESSION['infoAventure']);
+        unset($_SESSION['infoReservation']);
+      }
+      else {
+        unset($_SESSION['infoCadeau']);
+        unset($_SESSION['infoCommande']);        
+      }
+      unset($_SESSION['infoCard']);
+
+
+    }
+
+
 
 
     try {
