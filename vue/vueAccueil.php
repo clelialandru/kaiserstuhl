@@ -5,8 +5,15 @@ $style = '<link rel="stylesheet" href="style/accueil.style.css">
 $script = '<script src="js/reviews.script.js"></script>
 <script src="js/accueil.script.js"></script>
 <script>
-    DonneesTraductionMain(localStorage.getItem("lang"));
-</script>';
+if (localStorage.getItem("lang") === null) {
+    localStorage.setItem("lang", "en");
+}else{
+    var langue = localStorage.getItem("lang");
+        DonneesTraductionMain(langue);
+    }
+</script>
+
+';
 ?>
 
 

@@ -158,10 +158,10 @@ header {
     position: fixed;
     z-index: 3;
     top: 0;
-    width: 99.1%;
+    width: 100%;
     background-color: var(--noir);
     color: var(--text-white-color);
-    padding: 20px;
+    padding: 20px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -249,13 +249,19 @@ nav>div:hover {
 #logo_header {
     width: 100%;
     height: auto;
+    margin-left: 20px;
 }
 
 
 #navig {
     display: block;
+    margin-left: 20px;
 }
 
+
+#log{
+    margin-right: 20px;
+}
 #menu:hover {
     transform: scaleX(120%);
 }
