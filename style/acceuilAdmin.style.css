@@ -1,0 +1,37 @@
+
+/**************************************************************************/
+/**                             Marges                                   **/
+/**************************************************************************/
+.left {
+  text-align: left;
+  margin: 5vh 5vw;
+  font-size: 25px;
+}
+
+/**************************************************************************/
+/**                       Boutons / Liens                                **/
+/**************************************************************************/
+.btnAdmin {
+  background-color: #FFAE00;
+  padding: 21px 70px;
+  border-radius: 10px;
+  color: var(--noir);
+  font-weight: bold;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btnAdmin:hover {
+  background-color: #f8c14b;
+}
+
+.posBtnAdmin {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+

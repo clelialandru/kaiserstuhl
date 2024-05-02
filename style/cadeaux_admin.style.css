@@ -1,0 +1,139 @@
+/**************************************************************************/
+/**                           Titre de la page                           **/
+/**************************************************************************/
+
+.page_title {
+    display: block;
+    margin-top: 15vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    margin: 2vh auto;
+}
+
+/**************************************************************************/
+/**                         Liste des packages                           **/
+/**************************************************************************/
+
+.pack_list {
+    max-width: 90vw;
+    margin: 5vh auto;
+}
+
+/**************************************************************************/
+/**                           Carte de Package                           **/
+/**************************************************************************/
+.pack_list>div {
+    background-color: var(--noir);
+    padding: 1vh 3vw;
+    border-radius: 8px;
+}
+
+.cover {
+    margin: 1vh 0;
+    border-radius: 8px;
+}
+
+/**************************************************************************/
+/**                           Boutons / Liens                            **/
+/**************************************************************************/
+
+.button:any-link {
+    color: var(--color-black);
+    background-color: var(--color-orange);
+    border: var(--color-orange) solid 1px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin: 0 auto;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.edit:any-link {
+    max-width: 30vw;
+    padding: 2vh 3vw;
+    color: var(--color-black);
+    background-color: var(--color-orange);
+    border: var(--color-orange) solid 1px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin: 0 auto;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.button:hover,
+.edit:hover {
+    background-color: transparent;
+    color: var(--color-orange);
+    transition: 0.2s;
+}
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    .page_title {
+        font-size: 80px;
+    }
+
+    .button:any-link {
+        padding: 2vh 3vw;
+        max-width: 30vw;
+    }
+
+    .pack_list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pack_list>div {
+        max-width: 20vw;
+    }
+}
+
+@media (orientation:portrait) {
+    .page_title {
+        font-size: 50px;
+    }
+
+    .button:any-link {
+        padding: 1vh 2vw;
+        max-width: 50vw;
+    }
+
+    .pack_list {
+        display: block;
+        max-width: 90vw;
+        margin: 5vh auto;
+    }
+
+    .pack_list>div {
+        max-width: 50vw;
+        margin: 5vh auto;
+        background-color: var(--noir);
+        padding: 1vh 3vw;
+        border-radius: 8px;
+    }
+}

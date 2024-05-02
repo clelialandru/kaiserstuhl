@@ -1,0 +1,81 @@
+/**************************************************************************/
+/**                        Titres de la page                             **/
+/**************************************************************************/
+
+.page_title {
+    display: block;
+    margin: 15vh auto;
+    text-overflow: "-";
+    max-width: 80vw;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 5vh 10vw;
+    color: var(--color-orange);
+}
+
+h3 {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 5vh 10vw;
+    color: var(--color-orange);
+}
+
+/**************************************************************************/
+/**                             Paragraphes                              **/
+/**************************************************************************/
+
+p,
+ul {
+    font-size: 20px;
+    margin: 1vh auto;
+    max-width: 80vw;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--color-orange);
+}
+
+.link:any-link {
+    color: var(--color-orange);
+    font-size: 20px;
+}
+
+.link:hover {
+    color: #f8c14b;
+    transition: 0.2s;
+}
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+@media (orientation:landscape) {
+    .page_title {
+        font-size: 80px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+}
+
+@media (orientation:portrait) {
+    .page_title {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+}

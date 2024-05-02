@@ -1,0 +1,45 @@
+.container {
+    position: relative;
+}
+
+/* Cache les images par défaut */
+
+.slide {
+    display: none;
+}
+
+/* Ajoute le pointeur quand on hover les images */
+
+.cursor {
+    cursor: pointer;
+}
+
+/* Boutons suivant & précédent */
+.prev,
+.next {
+    cursor: pointer;
+    position: absolute;
+    top: 65%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* Au hover, ajoute un background noir avec un peu de transparence */
+
+.prev:hover,
+.next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: 0.2s;
+}

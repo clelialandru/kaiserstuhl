@@ -1,0 +1,170 @@
+/**************************************************************************/
+/**                         Titres de la page                            **/
+/**************************************************************************/
+
+.page_title {
+    display: block;
+    margin-top: 15vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin: 10vh;
+}
+
+h3 {
+    margin: 1vh 0;
+    color: var(--color-orange);
+}
+
+.titre_es{
+    color: var(--color-orange);
+}
+
+/**************************************************************************/
+/**                         Infos Escape game                            **/
+/**************************************************************************/
+
+.infos,
+.reservation {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 80vw;
+    margin: 0 auto;
+    background-color: var(--noir);
+    padding: 2vh 5vw;
+    border-radius: 8px;
+}
+
+.reservation{
+    gap: 10%;
+}
+
+.flex_p {
+    display: flex;
+    gap: 0.5em;
+}
+
+/**************************************************************************/
+/**                          Boutons annulation                          **/
+/**************************************************************************/
+
+form{
+    display: flex;
+    justify-content: center;
+    max-width: 50vw;
+    align-items: center;
+    margin: 15vh auto;
+}
+
+
+/**************************************************************************/
+/**                         Boutons sur la page                          **/
+/**************************************************************************/
+
+.button:any-link {
+    margin-top: 5vh;
+    margin-left: auto;
+    padding: 2vh 5vw;
+    border-radius: 8px;
+    border: var(--color-orange) 2px solid;
+    background-color: var(--color-orange);
+    color: var(--background-color);
+    text-transform: uppercase;
+    font-weight: bold;
+    max-width: fit-content;
+    display: flex;
+    justify-content: end;
+}
+
+
+.button:hover {
+    border-color: var(--color-orange);
+    color: var(--color-orange);
+    background-color: var(--noir);
+    transition: 0.2s;
+}
+
+.button_b:any-link{
+    margin: 5vh auto;
+    padding: 2vh 5vw;
+    border-radius: 8px;
+    border: var(--color-orange) 2px solid;
+    background-color: var(--color-orange);
+    color: var(--background-color);
+    text-transform: uppercase;
+    font-weight: bold;
+    max-width: fit-content;
+    display: flex;
+}
+
+.button_b:hover {
+    border-color: var(--color-orange);
+    color: var(--color-orange);
+    background-color: transparent;
+    transition: 0.2s;
+}
+/**************************************************************************/
+/**                                  Map                                 **/
+/**************************************************************************/
+
+#map {
+    margin: 0 auto;
+    z-index: 2;
+    border-radius: 8px;
+}
+
+/**************************************************************************/
+/**             En fonction de l'orientation de la page                  **/
+/**************************************************************************/
+@media (orientation:landscape) {
+    .page_title {
+        font-size: 80px;
+    }
+
+    h2 {
+        font-size: 70px;
+    }
+
+    #det_t,
+    #yo_b_t {
+        font-size: 60px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    #map {
+        height: 25rem;
+        width: 25rem;
+    }
+}
+
+@media (orientation:portrait) {
+    .page_title {
+        font-size: 50px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    #det_t,
+    #yo_b_t {
+        font-size: 35px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    #map {
+        height: 15rem;
+        width: 15rem;
+    }
+}

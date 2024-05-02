@@ -1,0 +1,199 @@
+/**************************************************************************/
+/**                              Sous-titres                             **/
+/**************************************************************************/
+
+h2 {
+    color: var(--color-orange);
+    font-size: 25px;
+}
+
+/**************************************************************************/
+/**                         Image de landing                             **/
+/**************************************************************************/
+
+.titre_package {
+    font-size: 80px;
+    text-transform: uppercase;
+    position: relative;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+
+.landing {
+    width: calc(100vw - (100vw - 100%));
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10vh;
+}
+
+.pack_title {
+    font-size: 35px;
+    color: var(--text-white-color);
+    text-transform: uppercase;
+    margin-bottom: 5vh;
+}
+
+/**************************************************************************/
+/**                         Section de côté                              **/
+/**************************************************************************/
+aside {
+    height: fit-content;
+    max-width: fit-content;
+}
+
+
+.liste-photo {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1%;
+    align-items: center;
+}
+
+.liste-photo>img {
+    width: 14rem;
+    height: 10rem;
+    margin: 1vh 0;
+    object-fit: cover;
+}
+
+/**************************************************************************/
+/**                         Texte descriptif                             **/
+/**************************************************************************/
+
+.text_package {
+    margin: 5vh 5vw;
+}
+
+ul {
+    margin-left: 2vw;
+}
+
+.orange {
+    color: var(--color-orange);
+    font-weight: bold;
+}
+
+/**************************************************************************/
+/**                         Liens / boutons                              **/
+/**************************************************************************/
+
+
+#link_buy:any-link {
+    padding: 3vh 25vw;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    font-weight: bold;
+    color: var(--color-black);
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+#link_buy:hover {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+/**************************************************************************/
+/**                         Select du prix                               **/
+/**************************************************************************/
+
+.custom-select {
+    margin: 5vh 0;
+}
+
+select {
+    appearance: none;
+    /* safari */
+    -webkit-appearance: none;
+    /* other styles for aesthetics */
+    font-size: 1rem;
+    padding: 0.5em 1em;
+    background-color: var(--text-white-color);
+    border: 1px solid #caced1;
+    border-radius: 0.25rem;
+    color: #000;
+    cursor: pointer;
+    position: relative;
+}
+
+
+.custom-select::before,
+.custom-select::after {
+    size: 3rem;
+    position: absolute;
+    content: "";
+    right: 1rem;
+    pointer-events: none;
+}
+
+/**************************************************************************/
+/**            En fonction de l'orientation de l'écran                   **/
+/**************************************************************************/
+
+
+@media (orientation:landscape) {
+
+    .titre_package {
+        top: 50%;
+    }
+
+    aside {
+        width: 40vw;
+        float: right;
+        padding-left: 0.5rem;
+        margin-left: 0.5rem;
+    }
+
+    .landing {
+        height: 100vh;
+    }
+
+    aside>img {
+        width: 15vw;
+    }
+
+    select {
+        width: 20vw;
+    }
+
+    .custom-select {
+        width: 20vw;
+    }
+}
+
+
+@media (orientation:portrait) {
+
+    .titre_package {
+        top: 20%;
+    }
+
+    aside {
+        width: 90vw;
+        gap: 2%;
+        float: none;
+        display: flex;
+        flex-wrap: wrap;
+        padding-left: 0.5rem;
+        margin-left: 3rem;
+    }
+
+    .landing {
+        height: 40vh;
+    }
+
+    aside>img {
+        width: 40vw;
+    }
+
+    select {
+        width: 50vw;
+    }
+
+    .custom-select {
+        width: 50vw;
+    }
+}

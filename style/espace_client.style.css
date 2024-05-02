@@ -1,0 +1,198 @@
+/**************************************************************************/
+/**                         Titres de la page                            **/
+/**************************************************************************/
+
+.page_title {
+    display: block;
+    margin-top: 15vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin: 10vh;
+}
+
+h3 {
+    text-align: center;
+    margin: 1vh 0;
+}
+
+/**************************************************************************/
+/**              Message de bienvenue pour l'utilisateur                 **/
+/**************************************************************************/
+
+.welcome {
+    text-align: center;
+}
+
+#member_name {
+    color: var(--color-orange);
+}
+
+/**************************************************************************/
+/**                Elements du profil de l'utilisateur                   **/
+/**************************************************************************/
+
+.cat {
+    color: var(--color-orange);
+    font-weight: 500;
+    font-size: larger;
+}
+
+.p_element>p:nth-child(2){
+    margin-left: 2vw;
+}
+
+.profile {
+    margin: 1vh auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: var(--noir);
+    padding: 5vh 6vw;
+    border-radius: 8px;
+}
+
+.profile>div {
+    margin: 1vh 0;
+}
+
+/**************************************************************************/
+/**                         Boutons sur la page                          **/
+/**************************************************************************/
+
+.button:any-link {
+    margin-top: 5vh;
+    margin-left: auto;
+    padding: 2vh 5vw;
+    border-radius: 8px;
+    border: var(--color-orange) 2px solid;
+    background-color: var(--color-orange);
+    color: var(--background-color);
+    text-transform: uppercase;
+    font-weight: bold;
+    max-width: fit-content;
+    display: flex;
+    justify-content: end;
+}
+
+.log:any-link{
+    margin: 5vh auto;
+    padding: 2vh 5vw;
+    border-radius: 8px;
+    border: var(--color-orange) 2px solid;
+    background-color: var(--color-orange);
+    color: var(--background-color);
+    text-transform: uppercase;
+    font-weight: bold;
+    max-width: fit-content;
+    display: flex;
+}
+
+
+.button:hover {
+    border-color: var(--color-orange);
+    color: var(--color-orange);
+    background-color: var(--noir);
+    transition: 0.2s;
+}
+
+.log:hover{
+    border-color: var(--color-orange);
+    color: var(--color-orange);
+    background-color: transparent;
+    transition: 0.2s;
+}
+
+/**************************************************************************/
+/**                            Réservations                              **/
+/**************************************************************************/
+
+.booking_card {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2vh auto;
+    align-items: center;
+    gap: 5%;
+    background-color: var(--noir);
+    padding: 2vh 5vw;
+    border-radius: 8px;
+}
+
+.booking_card>img {
+    max-width: 30%;
+    border-radius: 8px;
+}
+
+#date,
+#time {
+    display: flex;
+    gap: 5%;
+}
+
+.date{
+    margin-left: 2vw;
+}
+
+.det_t {
+    color: var(--color-orange);
+    font-weight: 500;
+}
+
+
+/**************************************************************************/
+/**             En fonction de l'orientation de la page                  **/
+/**************************************************************************/
+@media (orientation:landscape) {
+    .page_title {
+        font-size: 80px;
+    }
+
+    .welcome>span {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 70px;
+    }
+
+    h3{
+        font-size: 50px;
+    }
+
+    .profile {
+        max-width: 50vw;
+    }
+
+    .booking_card {
+        max-width: 80vw;
+    }
+}
+
+@media (orientation:portrait) {
+    .page_title {
+        font-size: 50px;
+    }
+
+    .welcome>span {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h3{
+        font-size: 30px;
+    }
+
+    .profile {
+        max-width: 80vw;
+    }
+
+    .booking_card {
+        max-width: 50vw;
+    }
+}

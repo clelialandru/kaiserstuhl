@@ -1,0 +1,103 @@
+h2 {
+    display: none;
+}
+
+/**************************************************************************/
+/**                    Elements du formulaire                            **/
+/**************************************************************************/
+form {
+    margin: 5vh 0;
+}
+
+
+input[type=text],
+input[type=email],
+input[type=password] {
+    width: 15vw;
+    padding: 0.675em 1.8em 0.675em 1em;
+    font-size: 1rem;
+    border-radius: 8px;
+}
+
+form>div {
+    margin: 1vh 0;
+}
+
+/**************************************************************************/
+/**                               Boutons                                **/
+/**************************************************************************/
+
+.button_login {
+    margin: 0 auto;
+    text-align: center;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    color: var(--color-black);
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 0.675em 1.8em;
+}
+
+.button_login:hover {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+/**************************************************************************/
+/**                 Change le style du formulaire actif                  **/
+/**************************************************************************/
+.active {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+}
+
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    .formulaires {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        max-width: 50vw;
+        margin: 10vh auto;
+    }
+    
+    .button_login {
+        width: 15vw;
+    }
+    
+    input[type=text],
+    input[type=email],
+    input[type=password] {
+        width: 15vw;
+    }
+}
+
+@media (orientation:portrait) {
+    .formulaires {
+        display: flex;
+        flex-direction: column;
+        max-width: fit-content;
+        margin: 10vh auto;
+    }
+
+    .formulaires>div{
+        margin: 1vw;
+    }
+
+    .button_login {
+        width: 50vw;
+    }
+
+    input[type=text],
+    input[type=email],
+    input[type=password] {
+        width: 50vw;
+    }
+}

@@ -1,0 +1,192 @@
+/**************************************************************************/
+/**                         Image de landing                             **/
+/**************************************************************************/
+
+.landing_adventures {
+    background-image: url('../img/our_adventures.png');
+    width: calc(100vw - (100vw - 100%));
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10vh;
+}
+
+.landing_adventures>h1 {
+    text-transform: uppercase;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+
+/**************************************************************************/
+/**                         Carte d'aventure                             **/
+/**************************************************************************/
+
+.aventure {
+    background-color: var(--noir);
+    padding: 3vh 2vw;
+    border-radius: 8px;
+    max-width: 80vw;
+    height: fit-content;
+    margin: 2.5vh auto;
+}
+
+.aventure>div>img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.aventure>a:any-link {
+    color: var(--color-orange);
+    text-decoration: none;
+}
+
+.adventure_text>div {
+    text-align: left;
+    margin-left: 5vw;
+    color: var(--text-white-color);
+}
+
+.nom_escape {
+    color: var(--text-white-color);
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+
+.orange { /*    Span qui change la couleur en orange    */
+    color: var(--color-orange);
+    font-weight: bold;
+}
+
+.summary {
+    margin-top: 1vh;
+}
+
+.desc {
+    margin-top: 5vh;
+}
+
+.details {
+    margin-left: 5vw;
+    margin-bottom: 5vh;
+}
+
+/**************************************************************************/
+/**                         Liens / Boutons                              **/
+/**************************************************************************/
+
+.see_details:any-link {
+    text-transform: uppercase;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    font-weight: bold;
+    color: var(--color-black);
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.see_details:hover {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--noir);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+
+
+/**************************************************************************/
+/**            En fonction de l'orientation de l'écran                   **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    .landing_adventures {
+        height: 100vh;
+    }
+
+    /*      Change la position des éléments en fonction du sens de lecture en Z     */
+
+    .liste>div:nth-child(odd)>div>.adventure_text {
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    .liste>div:nth-child(odd)>div>img {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .liste>div:nth-child(even)>div>img {
+        grid-column: 2;
+        grid-row: 1;
+    }
+
+    .liste>div:nth-child(even)>div>.adventure_text {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .aventure>div {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 50%));
+    }
+
+    .summary {
+        max-width: 30vw;
+    }
+
+    .nom_escape {
+        font-size: 30px;
+    }
+
+    .landing_adventures>h1 {
+        font-size: 80px;
+    }
+
+    .see_details:any-link {
+        padding: 3vh 10vw;
+
+    }
+}
+
+@media (orientation:portrait) {
+
+    .landing_adventures>h1 {
+        font-size: 50px;
+    }
+
+    .landing_adventures {
+        height: 45vh;
+    }
+
+    .aventure>div {
+        display: block;
+    }
+
+    .summary {
+        max-width: 72vw;
+    }
+
+    .nom_escape {
+        font-size: 50px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .adventure_text>div,
+    .adventure_text>div>span,
+    .adventure_text>div>div,
+    .adventure_text>div>div>span,
+    .details>li {
+        font-size: 20px;
+    }
+
+    .see_details:any-link {
+        padding: 2vh 25vw;
+        margin: 0;
+        width: 80vw;
+        font-size: 12px;
+    }
+}
+

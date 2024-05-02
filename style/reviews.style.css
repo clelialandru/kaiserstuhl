@@ -1,0 +1,165 @@
+/**************************************************************************/
+/**     En fonction de l'orientation de l'écran de l'utilisateur         **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+
+    .testimonial {
+        max-width: 50vw;
+    }
+
+    .testimonial-list{
+        max-width: 50vw;
+    }
+
+    .testimonial blockquote{
+        max-width: 30vw;
+    }
+}
+
+
+@media(orientation:portrait) {
+    .testimonial {
+        max-width: 80vw;
+    }
+
+    .testimonial-list{
+        max-width: 80vw;
+    }
+
+    .testimonial blockquote{
+        max-width: 60vw;
+    }
+}
+
+
+button {
+    cursor: pointer;
+    border: none;
+    color: var(--color-orange);
+}
+
+.testimonial-slider {
+    max-width: 1200px;
+    width: 90%;
+    background-color: var(--text-white-color);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    position: relative;
+    overflow: hidden;
+}
+
+.testimonial-list {
+    display: flex;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.testimonial {
+    flex: 1 0 100%;
+    text-align: center;
+    padding: 20px;
+
+    margin: 0 auto;
+    transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+    background-color: var(--noir);
+    border-radius: 8px;
+}
+
+.testimonial .bi-quote {
+    font-size: 4rem;
+    color: var(--text-orange-color);
+    opacity: 0.75;
+}
+
+.testimonial blockquote {
+    font-size: 1.25rem;
+    margin: 1vh 10vw;
+
+}
+
+.user-info {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+
+.user-details {
+    display: flex;
+    max-width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.user-details .name {
+    font-size: 1.15rem;
+    font-weight: 500;
+    text-align: center;
+    color: var(--text-orange-color);
+}
+
+.user-details .company {
+    color: var(--muted-color);
+}
+
+/* Navigation avec des boutons */
+
+.navigation {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 42px;
+    height: 42px;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    background-color: var(--text-white-color);
+    color: var(--text-orange-color);
+    transition: 0.3s;
+    opacity: 0;
+}
+
+.testimonial-slider:hover .navigation {
+    opacity: 1;
+}
+
+.navigation:hover {
+    background-color: var(--text-orange-color);
+    color: var(--text-white-color);
+}
+
+.navigation.prev {
+    left: 10px;
+}
+
+.navigation.next {
+    right: 10px;
+}
+
+/* dot navigation */
+
+.dots-container {
+    text-align: center;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-inline: 5px;
+    background-color: var(--text-white-color);
+    transition: width 0.5s;
+}
+
+.dot.active {
+    width: 30px;
+    background-color: var(--text-orange-color);
+}

@@ -1,0 +1,361 @@
+
+/**************************************************************************/
+/**                          Image de landing                            **/
+/**************************************************************************/
+.landing {
+    background-image: url('../img/landing_accueil.png');
+    width: calc(100vw - (100vw - 100%));
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.landing>img {
+    position: relative;
+}
+
+/**************************************************************************/
+/**                          Titres de la page                           **/
+/**************************************************************************/
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2,
+.bolder {
+    text-align: center;
+    margin-bottom: 10vh;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 2vh 0;
+}
+
+.sous-titre {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+/**************************************************************************/
+/**                            Liens / Boutons                           **/
+/**************************************************************************/
+
+
+.see_vouch:any-link {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border-radius: 8px;
+    text-align: center;
+    background-color: var(--color-orange);
+    color: var(--color-black);
+    border: var(--color-orange) solid 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15vh;
+}
+
+.book:any-link {
+    margin: 0 auto;
+    border-radius: 8px;
+    text-align: center;
+    padding: 2vh 3.5vw;
+    display: flex;
+    justify-content: center;
+    background-color: var(--color-orange);
+    color: var(--color-black);
+    border: var(--color-orange) solid 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.see_more:any-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 20vw;
+    margin: 0 auto;
+    border-radius: 8px;
+    text-align: center;
+    padding: 2vh 15vw;
+    background-color: var(--color-orange);
+    color: var(--color-black);
+    border: var(--color-orange) solid 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15vh;
+}
+
+
+.see_more:hover,
+.see_vouch:hover {
+    background-color: transparent;
+    color: var(--color-orange);
+    transition: 0.2s;
+}
+
+.book:hover {
+    background-color: transparent;
+    color: var(--color-orange);
+    transition: 0.2s;
+}
+
+
+
+/**************************************************************************/
+/**                       Liste des escape games                         **/
+/**************************************************************************/
+
+.liste_escape {
+    max-width: 80vw;
+    margin: 15vh auto;
+}
+
+/**************************************************************************/
+/**                          Carte des escape games                      **/
+/**************************************************************************/
+.liste_escape>div {
+    background-color: var(--noir);
+    padding: 1vh 2vw;
+    padding-bottom: 5vh;
+    border-radius: 8px;
+}
+
+.title_game {
+    margin: 3vh 0;
+}
+
+.orange {
+    color: var(--color-orange);
+    font-weight: bold;
+}
+
+
+
+
+/**************************************************************************/
+/**                               Bon cadeau                             **/
+/**************************************************************************/
+
+.voucher>.flex>img {
+    border-radius: 8px;
+}
+
+.voucher {
+    background-image: url('../img/fond_fonce.svg');
+    background-size: cover;
+    padding: 10vh 0;
+    width: calc(100vw - (100vw - 100%));
+    background-position: center;
+    background-repeat: no-repeat;
+    height: fit-content;
+}
+
+.voucher>.flex {
+    margin: 0 auto;
+    max-width: 90vw;
+}
+
+.experiences {
+    text-align: center;
+}
+
+/**************************************************************************/
+/**                                Partenaires                           **/
+/**************************************************************************/
+
+.partners{
+    text-align: center;
+    font-size: 2rem;
+    margin: 10vh auto;
+    max-width: 60vw;
+}
+
+/**************************************************************************/
+/**                              Autres styles                           **/
+/**************************************************************************/
+
+.bold{
+    font-weight: bold;
+    font-size: 2rem;
+    color: var(--color-orange);
+}
+
+ul {
+    margin-bottom: 5vh;
+}
+
+iframe {
+    width: calc(70vw - (110vw - 100%));
+    border-radius: 8px;
+    display: block;
+    box-shadow: var(--color-orange) 0px 5px 15px;
+}
+
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    .landing {
+        height: 110vh;
+    }
+
+    .landing>img {
+        top: calc(100% - 75%);
+        width: 70%;
+        left: 12.5%;
+    }
+
+    h1 {
+        font-size: 70px;
+        max-width: 60vw;
+        margin: 15vh auto;
+    }
+
+    iframe {
+        height: 60vh;
+        margin: 10vh auto;
+    }
+
+    .sous-titre {
+        margin: 2vh 0;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .liste_escape {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 30%));
+        column-gap: 3%;
+    }
+
+    .liste_escape>div {
+        max-width: 25vw;
+    }
+
+    ul {
+        margin-left: 2vw;
+    }
+
+    .book:any-link {
+        max-width: 10vw;
+    }
+
+    .flex {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5%;
+        flex-wrap: wrap;
+    }
+
+    .voucher>.flex>img {
+        width: 50%;
+        border-radius: 8px;
+    }
+
+    .gift_ad {
+        max-width: 30vw;
+        font-size: 50px;
+    }
+
+    .see_vouch:any-link {
+        max-width: 20vw;
+        padding: 2vh 5vw;
+    }
+
+
+    .experiences>h3 {
+        font-size: 30px;
+        max-width: 50vw;
+        margin: 5vh auto;
+    }
+}
+
+
+@media (orientation:portrait) {
+
+    .gift_ad {
+        max-width: 100%;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .landing {
+        height: 45vh;
+    }
+
+    .landing>img {
+        top: calc(100% - 75%);
+        width: 70%;
+        left: 15%;
+    }
+
+    h1 {
+        font-size: 40px;
+        max-width: 90vw;
+        margin: 5vh auto;
+    }
+
+    iframe {
+        height: 15vh;
+        margin: 5vh auto;
+    }
+
+    .sous-titre {
+        display: block;
+        max-width: 80vw;
+        font-size: 25px;
+        margin: 2vh auto;
+    }
+
+    .liste_escape>div {
+        max-width: 90vw;
+        margin: 2vh auto;
+    }
+
+    ul {
+        margin-left: 10vw;
+    }
+
+    .book:any-link {
+        max-width: 50vw;
+    }
+
+    .flex {
+        display: block;
+    }
+
+    .voucher>.flex>img {
+        width: 80vw;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+
+    .see_vouch:any-link {
+        max-width: 50vw;
+        padding: 2vh 10vw;
+    }
+
+    .experiences>h3 {
+        font-size: 25px;
+        max-width: 70vw;
+        margin: 5vh auto;
+    }
+
+    .experiences>p{
+        font-size: 16px;
+    }
+}

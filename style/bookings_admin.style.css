@@ -1,0 +1,83 @@
+/**************************************************************************/
+/**                          Titres de la page                           **/
+/**************************************************************************/
+
+.page_title {
+    display: block;
+    margin-top: 15vh;
+    text-transform: uppercase;
+    text-align: center;
+} 
+
+h3{
+    color: var(--color-orange);
+    margin: 1vh 0;
+    text-align: center;
+}
+
+
+/**************************************************************************/
+/**                          Liste annulations                           **/
+/**************************************************************************/
+.liste_ann{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 90vw;
+    justify-content: center;
+    align-items: center;
+    margin: 5vh auto;
+}
+
+/**************************************************************************/
+/**                         Carte d'annulation                           **/
+/**************************************************************************/
+
+.ann_card{
+    background-color: var(--noir);
+    padding: 2vh 5vw;
+    border-radius: 8px;
+    margin: 5vh 5vw;
+}
+
+.ann_card>form>div{
+    margin: 2vh 0;
+}
+
+.details>div{
+    margin: 1vh;
+}
+
+#form{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .2vw;
+    justify-content: center;
+}
+
+#date_t{
+    color: var(--color-orange);
+    font-weight: 500;
+}
+/**************************************************************************/
+/**             En fonction de l'orientation de la page                  **/
+/**************************************************************************/
+@media (orientation:landscape) {
+    .page_title {
+        font-size: 80px;
+    }
+
+    h3{
+        font-size: 30px;
+    }
+}
+
+@media (orientation:portrait) {
+    .page_title {
+        font-size: 50px;
+    }
+
+    h3{
+        font-size: 20px;
+    }
+}

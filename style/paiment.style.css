@@ -1,0 +1,277 @@
+/**************************************************************************/
+/**                           Titres de la page                          **/
+/**************************************************************************/
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 30px;
+    margin: 5vh 10vw;
+    color: var(--color-orange);
+}
+
+h1 {
+    margin-top: 15vh;
+}
+
+
+/**************************************************************************/
+/**                    Elements du formulaire                            **/
+/**************************************************************************/
+form {
+    margin: 5vh auto;
+    max-width: 50vw;
+}
+
+input[type=text],
+input[type=email],
+input[type=password],
+input[type=number] {
+    background-color: var(--background-color);
+    color: var(--text-white-color);
+    border: var(--text-white-color) 2px solid;
+    padding: 0.675em 1.8em 0.675em 1em;
+    font-size: 1rem;
+    border-radius: 8px;
+}
+
+form>div {
+    margin: 1vh 0;
+}
+
+/**************************************************************************/
+/**                         Image de landing                             **/
+/**************************************************************************/
+
+.book_title {
+    font-size: 80px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+/**************************************************************************/
+/**                      Zone flottante sur le côté                      **/
+/**************************************************************************/
+
+aside {
+    padding-left: 1.8rem;
+    margin: 5vh 1%;
+    background-color: var(--noir);
+    padding: 1vh 2vw;
+    border-radius: 8px;
+
+}
+
+
+.svg_aside {
+    width: 3rem;
+}
+
+.cart {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2vw;
+}
+
+#cart {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: var(--color-orange);
+}
+
+.product_list>h3,
+.subt>h3 {
+    text-transform: uppercase;
+    margin: 2vh 0;
+    font-size: 20px;
+}
+
+
+.flex {
+    display: flex;
+    align-items: center;
+    gap: 5vw;
+}
+
+.flex>img {
+    width: 10em;
+    height: 5em;
+    object-fit: cover;
+}
+
+#name,
+#name_pack {
+    color: var(--color-orange);
+}
+
+#nb_peo {
+    margin-left: 2vw;
+}
+
+.date,
+.deliv_time,
+.hour {
+    display: flex;
+    align-items: center;
+    gap: 1vw;
+}
+
+.date>img,
+.hour>img {
+    width: 1.8rem;
+}
+
+.app_d_h {
+    margin: 1vh 0;
+}
+
+.prix {
+    color: var(--color-orange);
+    text-align: right;
+    font-weight: 500;
+}
+
+.subt {
+    display: flex;
+    gap: 10vw;
+    align-items: center;
+}
+
+.cover{
+    border-radius: 8px;
+}
+
+/**************************************************************************/
+/**                               Boutons                                **/
+/**************************************************************************/
+
+.flex_button {
+    display: flex;
+    align-items: center;
+    max-width: 60vw;
+}
+
+.button_login {
+
+    margin: 5vh auto;
+    text-align: center;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    color: var(--color-black);
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 0.675em 1.8em;
+}
+
+.button_login:hover {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+/**************************************************************************/
+/**                 Change le style du formulaire actif                  **/
+/**************************************************************************/
+.active {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+}
+
+/**************************************************************************/
+/**                         Méthode de paiement                          **/
+/**************************************************************************/
+
+.payement_methods {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vw;
+    align-items: center;
+    margin: 1vw 15vw;
+}
+
+.pay_met:hover {
+    cursor: pointer;
+}
+
+.pay_met:first-child {
+    border-bottom: var(--color-orange) 2px solid;
+}
+
+/**************************************************************************/
+/**                           Texte de la page                           **/
+/**************************************************************************/
+
+#pay_exp,
+#pay_exp>a {
+    font-size: 20px;
+    max-width: 40vw;
+    margin: 0 auto;
+}
+
+.link:any-link {
+    color: var(--color-orange);
+}
+
+.link:hover {
+    text-decoration: underline;
+    transform: 0.2s;
+}
+
+
+main {
+    margin-bottom: 15vh;
+}
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    aside {
+        float: right;
+        max-width: 20vw;
+    }
+
+    .payement_methods {
+        max-width: 800;
+    }
+
+    .pay_met {
+        max-width: 5vw;
+    }
+
+    input[type=text],
+    input[type=email],
+    input[type=password],
+    input[type=number] {
+        width: 30vw;
+    }
+}
+
+@media (orientation:portrait) {
+    aside {
+        float: unset;
+        max-width: 80vw;
+        margin: 5vh auto;
+    }
+
+    .payement_methods {
+        max-width: 80vw;
+    }
+
+    .pay_met {
+        max-width: 10vw;
+    }
+
+    input[type=text],
+    input[type=email],
+    input[type=password],
+    input[type=number] {
+        width: 70vw;
+    }
+}

@@ -1,0 +1,478 @@
+/**************************************************************************/
+/**                           Titres de la page                          **/
+/**************************************************************************/
+
+h1 {
+    margin: 5vh 0vw;
+}
+
+aside>div>h2 {
+    color: var(--color-orange);
+    font-weight: normal;
+}
+
+.calendar>div>h3 {
+    margin: 5vh 0;
+}
+
+#title_escape {
+    margin: 5vh 0;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+/**************************************************************************/
+/**                         Image de Landing                             **/
+/**************************************************************************/
+
+.landing {
+    /* background-image: url('../img/aventure_test.png'); */
+    width: calc(100vw - (100vw - 100%));
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/**************************************************************************/
+/**                      Zone flottante sur le côté                      **/
+/**************************************************************************/
+
+aside {
+    padding-left: 1.8rem;
+    margin-left: 1%;
+}
+
+
+/**************************************************************************/
+/**                                  Map                                 **/
+/**************************************************************************/
+
+#map {
+    margin: 0 auto;
+    z-index: 2;
+    border-radius: 8px;
+}
+
+
+
+/**************************************************************************/
+/**                              Autres infos                            **/
+/**************************************************************************/
+
+.price {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5vw;
+}
+
+
+.bigger {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.orange {
+    color: var(--color-orange);
+    font-size: bold;
+}
+
+#practical_information,
+#event_location_title {
+    margin: 5vh 5vw;
+}
+
+.event_loc {
+    background-color: var(--noir);
+    max-width: 80vw;
+    margin: 5vh auto;
+    padding: 2vh 3vw;
+    border-radius: 8px;
+}
+
+
+/**************************************************************************/
+/**                       Pictos d'information                           **/
+/**************************************************************************/
+.picto {
+    background-color: var(--noir);
+    max-width: 80vw;
+    margin: 0 auto;
+    border-radius: 8px;
+    padding: 2vh 3vw;
+}
+
+.picto>div>img {
+    width: 3rem;
+    height: 3rem;
+    object-fit: contain;
+}
+
+.picto>div {
+    display: flex;
+
+    align-items: center;
+    gap: 5%;
+    flex-wrap: wrap;
+}
+
+
+/**************************************************************************/
+/**                                Infos                                 **/
+/**************************************************************************/
+
+#infos>div>img {
+    width: 10%;
+}
+
+#infos>div {
+    display: flex;
+    align-items: center;
+    gap: 5%;
+}
+
+#infos>div>div {
+    margin: 3vh 0;
+}
+
+.event_loc {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 45%));
+    justify-content: center;
+    align-items: center;
+}
+
+/**************************************************************************/
+/**                         Histoire du jeu                              **/
+/**************************************************************************/
+
+#story {
+    color: var(--color-orange);
+    font-weight: bold;
+}
+
+.story {
+    margin: 5vh 0;
+}
+
+.desc {
+    margin: 5vh 5vw;
+}
+
+
+/**************************************************************************/
+/**                         Choix de l'horaire                           **/
+/**************************************************************************/
+
+.time_slots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin: 5vh auto;
+}
+
+.time_slot {
+    appearance: none;
+    border: var(--neutral) 2px solid;
+    padding: 1vh 1vw;
+    border-radius: 8px;
+    display: flex;
+    cursor: pointer;
+    gap: 10px;
+    font-weight: 500;
+}
+
+.time_slot::before {
+    content: "";
+    background-color: var(--neutral);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    transition: border .2s linear;
+}
+
+.time_slot::after {
+    content: attr(label);
+    color: var(--text-white-color);
+    text-transform: uppercase;
+}
+
+.time_slot:hover {
+    border: var(--color-orange) solid 2px;
+    transition: 0.2s;
+}
+
+
+.time_slot:checked {
+    background-color: var(--color-orange);
+    border: var(--color-orange) solid 2px;
+    transition: 0.2s;
+}
+
+.time_slot:checked::before {
+    border: var(--text-white-color) solid 4px;
+    background-color: var(--color-orange);
+}
+
+.time_slot:checked::after {
+    color: var(--color-black);
+}
+
+
+/**************************************************************************/
+/**                         Choix de la date                             **/
+/**************************************************************************/
+
+input[type=date] {
+    border: none;
+    font-size: 1.2rem;
+    padding: 1vh 1vw;
+    border-radius: 8px;
+    margin: 2vh auto;
+    width: 95%;
+}
+
+#choose_a_date {
+    margin: 5vh 0;
+}
+
+
+/**************************************************************************/
+/**                        Choix nb personnes                            **/
+/**************************************************************************/
+
+.custom-select-people {
+    min-width: 30vw;
+
+}
+
+select {
+    appearance: none;
+    /* safari */
+    -webkit-appearance: none;
+    /* other styles for aesthetics */
+    font-size: 1.2rem;
+    background-color: var(--color-black);
+    border: 3px solid var(--text-white-color);
+    border-radius: 0.25rem;
+    color: var(--text-white-color);
+    cursor: pointer;
+    left: 3%;
+    padding: 0.5em 1em;
+    position: relative;
+    margin: 3vh auto;
+}
+
+select:hover {
+    border-color: var(--color-orange);
+    transition: 0.2s;
+}
+
+
+.custom-select-people::before,
+.custom-select-people::after {
+    size: 0.3rem;
+    position: absolute;
+    content: "";
+    right: 1rem;
+    pointer-events: none;
+}
+
+
+/**************************************************************************/
+/**                           Boutons / Liens                            **/
+/**************************************************************************/
+
+#FAQ:any-link {
+    text-transform: uppercase;
+    padding: 2vh 10vw;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    margin: 15vh auto;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    font-weight: bold;
+    color: var(--color-black);
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+#FAQ:hover {
+    color: var(--color-orange);
+    background-color: transparent;
+    border: var(--color-orange) solid 1px;
+    transition: 0.2s;
+}
+
+.valid {
+    text-transform: uppercase;
+    padding: 2vh 10vw;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    font-weight: bold;
+    color: var(--color-black);
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.valid:hover {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    .landing {
+        height: 80vh;
+    }
+
+    aside {
+        float: right;
+        width: 40%;
+        border-left: var(--color-orange) solid 3px;
+    }
+
+    #map {
+        height: 25rem;
+        width: 25rem;
+    }
+
+    aside>div>h2 {
+        font-size: 50px;
+    }
+
+    .time_slots {
+        max-width: 30vw;
+    }
+
+    #FAQ:any-link {
+        min-width: 30vw;
+        max-width: 30vw;
+    }
+
+    .valid {
+        min-width: 15vw;
+        max-width: 15vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    .picto {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 25%));
+    }
+
+    .picto>div {
+        max-width: 50vw;
+    }
+
+
+    .picto>div>p,
+    .picto>div>div,
+    li {
+        max-width: 12vw;
+        font-size: 10.5px;
+    }
+
+    .container {
+        width: 50%;
+        margin-left: 5vw;
+    }
+
+    .custom-select-people {
+        max-width: 31vw;
+    }
+}
+
+@media (orientation:portrait) {
+    .landing {
+        height: 50vh;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    aside {
+        float: unset;
+    }
+
+    aside>div>h2 {
+        font-size: 30px;
+    }
+
+    aside>div {
+        max-width: 80%;
+        margin: 0.5rem auto;
+    }
+
+    #map {
+        height: 15rem;
+        width: 15rem;
+    }
+
+    .time_slots {
+        max-width: 70vw;
+    }
+
+    #FAQ:any-link {
+        min-width: 70vw;
+        max-width: 70vw;
+    }
+
+    .valid {
+        min-width: 30vw;
+        max-width: 30vw;
+    }
+
+    .picto {
+        display: block;
+    }
+
+    .picto>div {
+        max-width: 80vw;
+        margin: 5vh auto;
+    }
+
+
+    .picto>div>p,
+    .picto>div>div,
+    li {
+        max-width: 60vw;
+        font-size: 10.5px;
+    }
+
+    #infos {
+        margin-bottom: 5vh;
+    }
+
+    .container {
+        width: 80%;
+        margin: 5vh auto;
+    }
+
+    .custom-select-people {
+        max-width: 65vw;
+    }
+}

@@ -1,0 +1,60 @@
+
+/**************************************************************************/
+/**                           Titre de la page                           **/
+/**************************************************************************/
+
+.page_title {
+    display: block;
+    margin-top: 15vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/**************************************************************************/
+/**                        Elements du formulaire                        **/
+/**************************************************************************/
+
+form {
+    background-color: var(--noir);
+    padding: 3vh 6vw;
+    border-radius: 8px;
+    max-width: 60vw;
+    margin: 5vh auto;
+}
+
+input[type=text],
+input[type=email] {
+    padding: 1rem 1.6rem;
+    width: 50vw;
+    border-radius: 8px;
+    margin: 1vh auto;
+    display: flex;
+    justify-content: center;
+}
+
+/**************************************************************************/
+/**               En fonction de l'orientation de l'écran                **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    button {
+        display: flex;
+        justify-content: center;
+        width: 50vw;
+        margin: 5vh 45vw;
+    }
+
+    .page_title{
+        font-size: 80px;
+    }
+}
+
+@media (orientation:portrait){
+    button{
+        margin: 5vh 5vw;
+    }
+
+    .page_title{
+        font-size: 50px;
+    }
+}

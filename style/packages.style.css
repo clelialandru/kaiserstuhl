@@ -1,0 +1,286 @@
+/**************************************************************************/
+/**                         Image de landing                             **/
+/**************************************************************************/
+
+.landing {
+    background-image: url("../img/packages_title.png");
+    width: calc(100vw - (100vw - 100%));
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 10vh;
+}
+
+.titre_package {
+    text-transform: uppercase;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+}
+
+/**************************************************************************/
+/**                         Détails des offres                           **/
+/**************************************************************************/
+
+
+h2 {
+    color: var(--color-orange);
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 5vh;
+}
+
+#your_pack_as_puzz>span,
+#occasions>span {
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+/**************************************************************************/
+/**                   Images des différents cadeaux                      **/
+/**************************************************************************/
+
+.images_pack_exemple {
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.liste_cadeau {
+    display: grid;
+    max-width: 80vw;
+    margin: 0 auto;
+    margin-bottom: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+
+/**************************************************************************/
+/**                         Boutons / liens                              **/
+/**************************************************************************/
+
+
+.see_gift_cards:any-link {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 3vh 15vw;
+    display: flex;
+    max-width: 25vw;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    font-weight: bold;
+    color: var(--color-black);
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.see_voucher:any-link{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 3vh 5vw;
+    display: flex;
+    max-width: 25vw;
+    justify-content: center;
+    align-items: center;
+    margin: 3vh auto;
+    border: 1px var(--color-orange) solid;
+    background-color: var(--color-orange);
+    font-weight: bold;
+    color: var(--color-black);
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.see_gift_cards:hover, .see_voucher:hover {
+    border: 1px var(--color-orange) solid;
+    color: var(--color-orange);
+    background-color: var(--color-black);
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+/**************************************************************************/
+/**                  Div "A very special gift"                           **/
+/**************************************************************************/
+
+
+#special_gift {
+    background-image: url('../img/fond_fonce.svg');
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    width: calc(100vw - (100vw - 100%));
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#special_gift>div {
+    position: relative;
+    top: 40%;
+}
+
+#special_gift>div>h3 {
+    font-size: 4rem;
+    font-weight: normal;
+}
+
+#special_gift>div>h3>span {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+#special_gift>div>p {
+    font-size: 2.15rem;
+}
+
+/**************************************************************************/
+/**                       Différentes occasions                          **/
+/**************************************************************************/
+
+.occasions_pic {
+    max-width: 90vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/**************************************************************************/
+/**       Présente la possibilité d'acheter un bon cadeau                **/
+/**************************************************************************/
+
+
+.your_gift_card {
+    background-image: url('../img/fond_fonce.svg');
+    padding: 5vh 0;
+    background-position: center;
+    background-size: cover;
+    width: calc(100vw - (100vw - 100%));
+    background-repeat: no-repeat;
+}
+
+.your_gift_card>div>h3 {
+    color: var(--color-orange);
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.your_gift_card>div>p {
+    font-size: 20px;
+}
+
+.your_gift_card>img {
+    width: 40vw;
+
+}
+
+
+/**************************************************************************/
+/**           En fonction de l'orientation de l'écran                    **/
+/**************************************************************************/
+
+@media (orientation:landscape) {
+    .landing {
+        height: 100vh;
+    }
+
+    .liste_cadeau {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 25%));
+    }
+
+    .images_pack_exemple {
+        width: 12.5rem;
+        height: 12.5rem;
+    }
+
+    .occasions_pic {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 29%));
+        justify-content: center;
+        align-items: center;
+    }
+
+    .your_gift_card {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 5rem;
+        height: 70vh;
+    }
+
+    .titre_package{
+        font-size: 80px;
+    }
+}
+
+
+
+@media (orientation:portrait) {
+    .landing {
+        height: 45vh;
+    }
+
+    .liste_cadeau {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 45%));
+        row-gap: 5vh;
+    }
+
+    .liste_cadeau>a {
+        display: flex;
+        justify-content: center;
+    }
+
+    .images_pack_exemple {
+        width: 18rem;
+        height: 18rem;
+    }
+
+    .see_gift_cards:any-link {
+        font-size: 20px;
+    }
+
+    .occasions_pic {
+        display: block;
+    }
+
+    .occasions_pic>div {
+        margin: 5vh 0;
+    }
+
+    .occasions_pic>div>p {
+        font-size: 20px;
+    }
+
+    .your_gift_card {
+        display: block;
+        height: fit-content;
+        padding: 15vh 0;
+    }
+
+    .your_gift_card>div,
+    .your_gift_card>img {
+        position: relative;
+        top: 25%;
+        text-align: center;
+    }
+
+    .your_gift_card>div>h3 {
+        font-size: 60px;
+    }
+
+    .your_gift_card>div>p {
+        font-size: 40px;
+        margin-bottom: 5vh;
+    }
+
+    .your_gift_card>img{
+        max-width: fit-content;
+        left: 20%;
+        width: 60%;
+    }
+
+    .titre_package{
+        font-size: 50px;
+    }
+}
