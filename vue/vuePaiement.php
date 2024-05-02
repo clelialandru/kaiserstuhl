@@ -15,8 +15,10 @@ if (empty($_SESSION['infoAventure']) && isset($infoAventure)) $_SESSION['infoAve
 if (empty($_SESSION['infoCommande']) && isset($infoCommande)) $_SESSION['infoCommande'] = $infoCommande;
 if (empty($_SESSION['infoCadeau']) && isset($infoCadeau)) $_SESSION['infoCadeau'] = $infoCadeau;
 
-//if (isset($infoAventure) && isset($infoReservation)) var_dump($infoReservation, $infoAventure);
-//if (isset($infoCadeau) && isset($infoCommande)) var_dump($infoCommande, $infoCadeau);
+// if (isset($infoAventure) && isset($infoReservation)) var_dump($infoReservation, $infoAventure);
+// if (isset($infoCadeau) && isset($infoCommande)) var_dump($infoCommande, $infoCadeau);
+if(isset($_SESSION['infoCommande']))
+$prix = floatval($_SESSION['infoCadeau']['prix'])  + floatval($_SESSION['infoCommande']['prix']);
 
 ?>
 
@@ -46,7 +48,7 @@ if (empty($_SESSION['infoCadeau']) && isset($infoCadeau)) $_SESSION['infoCadeau'
             } else if ($nb_people > 1 && $nb_people < 13) {
                 $prix = $infoReservation['prix'];
                 $nb = $infoReservation['numberOfPeople'];
-                $prix_f = $prix * $nb - (1 * $nb);
+                $prix_f = $prix ;
                 $subtotal += $prix_f;
                 $infos .= "<span id ='foragroup'>For a group of </span>";
                 $infos .= $nb_people;
@@ -54,7 +56,7 @@ if (empty($_SESSION['infoCadeau']) && isset($infoCadeau)) $_SESSION['infoCadeau'
             } else if ($nb_people == 13) {
                 $prix = $infoReservation['prix'];
                 $nb = $infoReservation['numberOfPeople'];
-                $prix_f = $prix * $nb - (1 * $nb);;
+                $prix_f = $prix ;
                 $subtotal += $prix_f;
                 $infos .= "<span id = 'foragroupofmore'> For a group of more than 12 people</span>";
             }
@@ -83,7 +85,7 @@ if (empty($_SESSION['infoCadeau']) && isset($infoCadeau)) $_SESSION['infoCadeau'
         }
 
         if (isset($infoCommande)) {
-            $prix_f = $infoCadeau['prix'];
+            $prix_f = $prix;
             $subtotal = $prix_f;
 
             $infos .= "<p id='name_pack'>";

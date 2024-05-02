@@ -23,8 +23,9 @@
   <footer>
     <?= $footer ?>
   </footer>
-  <?= $script ?>
+  
   <script src="js/header.js"></script>
+<?= $script ?>
 </body>
 
 </html>

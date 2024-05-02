@@ -64,11 +64,7 @@ $script .= "<script>
 <div class="text_package">
     <h2 class="pack_title"><?= $cadeau['nom'] ?></h2>
     <h2 id="desc_title">Description</h2>
-    <p class="description">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum placeat vero,
-        esse ullam eum optio tenetur repellendus veniam incidunt nisi quam id sit praesentium, impedit quia
-        consequuntur. Quas, ipsum et. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero
-        placeat illo dignissimos voluptas aut perferendis incidunt, a corrupti, similique architecto amet.
-        Voluptatibus voluptates eligendi dolores commodi nemo iusto magni minus!</p>
+    <p class="description">N/A</p>
     <h2 id="possib_occasions">Possible Occasions</h2>
     <p id="occasions">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt qui sint dolorem harum eligendi eos sed,
         quia maiores minus aliquid. Fuga veniam reiciendis hic odio nihil earum placeat animi dolorem!</p>
