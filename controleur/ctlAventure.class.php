@@ -157,15 +157,8 @@ class ctlAventure{
         extract($_POST);
         $message = '';
 
-        if (!empty($nom)){
-            //Regarde si le nom n'est pas déjà utilisé
-            foreach($aventures as $aventure){
-                if($aventure['nom'] == $nom){
-                    $message .= $this->traduction['name_already_take'].'<br>';
-                    break ;
-            }}
-        }
-        else $message .= $this->traduction['name_missing'].'<br>';
+
+        if (empty($nom)) $message .= $this->traduction['name_missing'].'<br>';
         if (empty($detailEN)) $message .= $this->traduction['detail_en_missing'].'<br>';
         if (empty($detailFR)) $message .= $this->traduction['detail_fr_missing'].'<br>';
         if (empty($detailDE)) $message .= $this->traduction['detail_de_missing'].'<br>';
@@ -382,8 +375,19 @@ class ctlAventure{
     {
         extract($_POST);
         extract($_FILES);
-        $message = $this->checkInfo();
-        $message = $this->checkPhoto();
+        $message = "";
+
+
+        if (!empty($nom)){
+            //Regarde si le nom n'est pas déjà utilisé
+            foreach($aventures as $aventure){
+                if($aventure['nom'] == $nom){
+                    $message .= $this->traduction['name_already_take'].'<br>';
+                    break ;
+            }}
+        }
+        $message .= $this->checkInfo();
+        $message .= $this->checkPhoto();
 
         if (empty($message)) {
             $resultatInsertAventure = $this->aventure->insertAventure($nom,$localisation,$latitude,$longitude,$adresse,$prix,$duree,$parking,$accebilite,$linkYTB);
