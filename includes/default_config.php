@@ -100,7 +100,7 @@ if (isset($_SESSION['admin'])) {
                             <a href="' . $lienActuel . 'lang=en" data-langue="en">EN <img class="Picone" src="img/fleche.svg"></a>
                             <a href="' . $lienActuel . 'lang=fr" class="langue"  data-langue="fr">FR</a>
                         </nav>
-                        <a href="index.php?action=login"><img class="icone" src="img/compte.svg"></a>
+                        <a href="index.php?action=login"><img class="icone" src="img/compte.svg" id="log"></a>
                     </div>';
 
     $Conf->footer = '<a href="index.php?action=acceuilAdmin" class="logo"><img src="img/Kaiserstuhl-Escape-v1.png" class="logo"></a>
@@ -177,7 +177,7 @@ if (isset($_SESSION['admin'])) {
         <a href="' . $lienActuel . 'lang=en" data-langue="en">EN <img class="Picone" src="img/fleche.svg"></a>
         <a href="' . $lienActuel . 'lang=fr" class="langue"  data-langue="fr">FR</a>
     </nav>
-    <a href="index.php?action=acceuilMembre"><img class="icone" src="img/compte.svg"></a>
+    <a href="index.php?action=acceuilMembre"><img class="icone" src="img/compte.svg" id="log"></a>
 </div>';
 
     $Conf->footer = '<a href="index.php?action=acceuilMembre" class="logo"><img src="img/Kaiserstuhl-Escape-v1.png" class="logo"></a>
@@ -254,7 +254,7 @@ if (isset($_SESSION['admin'])) {
                         <a href="' . $lienActuel . 'lang=en" data-langue="en">EN <img class="Picone" src="img/fleche.svg"></a>
                         <a href="' . $lienActuel . 'lang=fr" class="langue"  data-langue="fr">FR</a>
                     </nav>
-                    <a href="index.php?action=login"><img class="icone" src="img/compte.svg"></a>
+                    <a href="index.php?action=login"><img class="icone" src="img/compte.svg" id="log"></a>
                 </div>';
 
     $Conf->footer = '<a href="index.php?action=acceuilAdmin" class="logo"><img src="img/Kaiserstuhl-Escape-v1.png" class="logo"></a>

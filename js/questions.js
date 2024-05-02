@@ -61,7 +61,7 @@ function template_Questions(i) {
 
 
     // Insertion du contenu
-    div.innerHTML = `<button type="button" class="collapsible"><span class="question${i}"></span> <img class="Picone" src="images_ke/flecheQ.svg"></button>
+    div.innerHTML = `<button type="button" class="collapsible"><span class="question${i}"></span> <img class="Picone" src="img/flecheQ.svg"></button>
                     <div class="content">
                         <p class="reponse${i}"></p>
                     </div>`;

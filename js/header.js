@@ -10,7 +10,7 @@ else {
     isAdmin = 'noAdmin';
 }
 
-if (localStorage.getItem("lang")== null) {
+if (localStorage.getItem("lang") === null) {
     localStorage.setItem("lang", "en");
 }
 
