@@ -65,17 +65,17 @@ class Routeur
   public function routerRequete()
   {
 
-    if(isset($_SESSION['infoReservation']) ||
+    if((isset($_SESSION['infoReservation']) ||
       isset($_SESSION['infoCommande']) &&
 
     (!empty($_SESSION['infoReservation'] || 
-    $_SESSION['infoAventure'] || 
-    $_SESSION['infoCommande'] || 
-    $_SESSION['infoCadeau'] )) &&(
-    $_GET["action"] != "paiement"||
-    $_GET["action"] != "connectToPay"||
-    $_GET["action"] != "createToPay"||
-    $_GET["action"] != "nextToPay"||
+    !empty($_SESSION['infoAventure']) || 
+    !empty($_SESSION['infoCommande']) || 
+    !empty($_SESSION['infoCadeau']) )) &&(
+    $_GET["action"] != "paiement"&&
+    $_GET["action"] != "connectToPay"&&
+    $_GET["action"] != "createToPay"&&
+    $_GET["action"] != "nextToPay"&&
     $_GET["action"] != "payer")){
       if($_SESSION['infoReservation']){
         unset($_SESSION['infoAventure']);
